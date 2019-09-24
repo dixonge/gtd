@@ -1,0 +1,13 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post
+---
+<img src="{{ image }}">
+
+<h1>{{ title }}</h1>
+
+{{ content | safe }}
+
+{% include "layouts/last3.njk" %}
+
+<p><a href="{{ '/' | url }}">← Home</a></p>
