@@ -1,3 +1,5 @@
+The following is the original README that comes with the starter pack I used. I have heavily modified the nunjuck templates and CSS and added over 200 blog posts. But I will leave the info below so you can find your way to the original if you wish.
+
 # eleventy-base-blog
 
 A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
