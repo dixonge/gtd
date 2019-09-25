@@ -10,7 +10,7 @@
       {%- endif -%}
     {% endfor %}
     <p>
-    {{ post.templateContent | striptags(true) | truncate(280) }}
+    {{ post.templateContent | striptags(true) | truncate(280) }}<a href="{{ post.url | url }}">READ MORE</a>
     </p>
     <br>
     {% if post.data.image %}
