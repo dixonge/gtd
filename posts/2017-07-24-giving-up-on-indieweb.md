@@ -3,7 +3,7 @@ title: Giving Up On IndieWeb
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2017-07-24T22:02:58+00:00
-url: /giving-up-on-indieweb/
+permalink: /giving-up-on-indieweb/
 aliases:
   - /blog/giving-up-on-indieweb/
 image: /img/2018/07/canteven.jpg
