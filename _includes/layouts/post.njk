@@ -3,11 +3,13 @@ layout: layouts/base.njk
 templateClass: tmpl-post
 ---
 <article class="h-entry">
+<a class="u-url" href="{{ permalink | url }}">{{ permalink | url }}</a>
 <img src="{{ image }}">
 
-<h1>{{ title }}</h1>
+<h1 class="p-name">{{ title }}</h1>
 <div class="e-content">
 {{ content | safe }}
+<a rel="author" class="p-author h-card" href="https://glenn.thedixons.net">Glenn Dixon</a>
 </div></article>
 {% include "layouts/last3.njk" %}
 
