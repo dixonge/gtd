@@ -3,8 +3,8 @@ layout: layouts/base.njk
 templateClass: tmpl-post
 ---
 <article class="h-entry">
-<a class="u-url" href="{{ post.url | url }}">{{ permalink | url }}</a>
-<time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+<a class="u-url p-name" href="{{ post.url | url }}">{{ permalink | url }}</a>
+<time class="postlist-date dt-published" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
 <img src="{{ image }}">
 
 <h1 class="p-name">{{ title }}</h1>
