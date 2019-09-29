@@ -3,7 +3,7 @@ title: Stranger in a Strange Land
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:08:36+00:00
-url: /stranger-in-a-strange-land/
+permalink: /stranger-in-a-strange-land/
 Book Id:
   - 350
 bookauthor: Robert A. Heinlein

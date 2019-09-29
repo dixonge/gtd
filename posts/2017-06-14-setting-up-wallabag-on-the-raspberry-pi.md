@@ -3,7 +3,7 @@ title: Setting Up Wallabag on the Raspberry Pi
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2017-06-14T22:15:07+00:00
-url: /setting-up-wallabag-on-the-raspberry-pi/
+permalink: /setting-up-wallabag-on-the-raspberry-pi/
 image: /img/2018/07/wallabag-logo.jpg
 categories:
   - Uncategorized

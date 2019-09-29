@@ -3,7 +3,7 @@ title: The Last Paycheck
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2017-07-21T22:17:40+00:00
-url: /the-last-paycheck/
+permalink: /the-last-paycheck/
 image: /img/2018/07/paycheck.jpg
 categories:
   - Uncategorized

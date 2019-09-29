@@ -3,7 +3,7 @@ title: Coming Clean
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:05:43+00:00
-url: /coming-clean/
+permalink: /coming-clean/
 Book Id:
   - 35260199
 bookauthor: Kimberly Rae Miller

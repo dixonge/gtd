@@ -3,7 +3,7 @@ title: My last distro hop ever!
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2019-05-06T17:07:33+00:00
-url: /my-last-distro-hop-ever/
+permalink: /my-last-distro-hop-ever/
 image: /img/linuxmint.png
 categories:
   - Uncategorized

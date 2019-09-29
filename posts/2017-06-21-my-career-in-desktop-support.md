@@ -3,7 +3,7 @@ title: My Career in Desktop Support
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2017-06-21T22:12:18+00:00
-url: /my-career-in-desktop-support/
+permalink: /my-career-in-desktop-support/
 image: /img/2018/07/officespace.jpg
 categories:
   - Uncategorized

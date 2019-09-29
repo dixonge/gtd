@@ -3,7 +3,7 @@ title: The Odd Persistence of Superstition
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-09-05T11:54:34+00:00
-url: /the-odd-persistence-of-superstition/
+permalink: /the-odd-persistence-of-superstition/
 image: /img/stargate.jpg
 status: 'null'
 categories:

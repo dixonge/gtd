@@ -3,7 +3,7 @@ title: Hugo bookmarklets
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2019-05-30
-url: /hugo-bookmarklets/
+permalink: /hugo-bookmarklets/
 categories:
   - Uncategorized
 tags:

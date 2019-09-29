@@ -3,7 +3,7 @@ title: The Devil in the White City
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2007-11-28
-url: /the-devil-in-the-white-city/
+permalink: /the-devil-in-the-white-city/
 book_id:
   - 259028
 bookauthor: Erik Larson

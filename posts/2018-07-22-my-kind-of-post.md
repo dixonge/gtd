@@ -3,7 +3,7 @@ title: My kind of post
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-22T04:22:45+00:00
-url: /my-kind-of-post/
+permalink: /my-kind-of-post/
 image: "https://boffosocko.com/wp-content/uploads/2017/08/post-all-the-things.jpg"
 categories:
   - Uncategorized

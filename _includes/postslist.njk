@@ -14,7 +14,7 @@
     </p>
     <br>
     {% if post.data.image %}
-    <img src="{{ post.data.image }}">
+    <img class="post-image" src="{{ post.data.image }}">
     {% elif post.data.isbn13 %}
     <a class="book-image-link u-url" href="{{ post.url | url }}">
       <img class="book-image" src="https://covers.openlibrary.org/b/isbn/{{ post.data.isbn13 }}.jpg"></img></a>

@@ -3,7 +3,7 @@ title: Today’s Sunrise
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-08-03T14:49:12+00:00
-url: /todays-sunrise-2/
+permalink: /todays-sunrise-2/
 status: 'null'
 categories:
   - Uncategorized

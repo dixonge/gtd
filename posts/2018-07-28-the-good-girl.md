@@ -3,7 +3,7 @@ title: The Good Girl
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:06:25+00:00
-url: /the-good-girl/
+permalink: /the-good-girl/
 Book Id:
   - 21847076
 bookauthor: Mary Kubica

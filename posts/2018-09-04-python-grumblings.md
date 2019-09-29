@@ -3,7 +3,7 @@ title: Python grumblings
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-09-04T12:54:09+00:00
-url: /python-grumblings/
+permalink: /python-grumblings/
 status: 'null'
 categories:
   - Uncategorized

@@ -3,7 +3,7 @@ title: King of Swords
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:10:08+00:00
-url: /king-of-swords/
+permalink: /king-of-swords/
 image: /img/2018/07/KOS.jpg
 Book Id:
   - 13159033

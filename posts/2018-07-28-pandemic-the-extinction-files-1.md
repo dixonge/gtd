@@ -3,7 +3,7 @@ title: 'Pandemic '
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:05:38+00:00
-url: /pandemic-the-extinction-files-1/
+permalink: /pandemic/
 Book Id:
   - 34811896
 bookauthor: A.G. Riddle

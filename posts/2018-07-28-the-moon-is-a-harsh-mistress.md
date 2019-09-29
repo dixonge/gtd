@@ -3,7 +3,7 @@ title: The Moon is a Harsh Mistress
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:07:42+00:00
-url: /the-moon-is-a-harsh-mistress/
+permalink: /the-moon-is-a-harsh-mistress/
 Book Id:
   - 16690
 bookauthor: Robert A. Heinlein

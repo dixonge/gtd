@@ -3,7 +3,7 @@ title: Mexican Humor 201
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:07:16+00:00
-url: /mexican-humor-201/
+permalink: /mexican-humor-201/
 Book Id:
   - 22847530
 bookauthor: Cabo Bob

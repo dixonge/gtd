@@ -3,7 +3,7 @@ title: America Has Never Been Great, or Just, or Free
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-10-12T20:38:32+00:00
-url: /america-has-never-been-great-or-just-or-free/
+permalink: /america-has-never-been-great-or-just-or-free/
 image: /img/ug-kkk.jpg
 categories:
   - Uncategorized

@@ -3,7 +3,7 @@ title: 'On the Move'
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:05:57+00:00
-url: /on-the-move-a-life/
+permalink: /on-the-move-a-life/
 Book Id:
   - 24976878
 bookauthor: Oliver Sacks

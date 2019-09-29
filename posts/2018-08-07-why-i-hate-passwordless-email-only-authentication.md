@@ -3,7 +3,7 @@ title: Why I Hate Passwordless Email-only Authentication
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-08-07T12:01:22+00:00
-url: /why-i-hate-passwordless-email-only-authentication/
+permalink: /why-i-hate-passwordless-email-only-authentication/
 status: 'null'
 categories:
   - Uncategorized

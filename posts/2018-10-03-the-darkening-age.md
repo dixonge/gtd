@@ -3,7 +3,7 @@ title: 'The Darkening Age'
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-10-03T16:57:32+00:00
-url: /the-darkening-age/
+permalink: /the-darkening-age/
 bookauthor: Catherine Nixey
 isbn13: 9788430619542
 myrating: ★★★★

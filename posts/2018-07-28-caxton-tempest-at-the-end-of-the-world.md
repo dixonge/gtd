@@ -3,7 +3,7 @@ title: Caxton Tempest at the End of the World
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:10:05+00:00
-url: /caxton-tempest-at-the-end-of-the-world/
+permalink: /caxton-tempest-at-the-end-of-the-world/
 Book Id:
   - 3128539
 bookauthor: Ken Preston

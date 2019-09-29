@@ -3,7 +3,7 @@ title: A Walk in the Woods
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:10:30+00:00
-url: /a-walk-in-the-woods/
+permalink: /a-walk-in-the-woods/
 Book Id:
   - 9791
 bookauthor: Bill Bryson

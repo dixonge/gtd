@@ -3,7 +3,7 @@ title: Amor and Exile
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:07:07+00:00
-url: /amor-and-exile/
+permalink: /amor-and-exile/
 Book Id:
   - 20621701
 bookauthor: Nathaniel Hoffman

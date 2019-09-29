@@ -3,7 +3,7 @@ title: That feeling when...
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2019-07-27T09:25:00+00:00
-url: /2019-07-27-that-feeling-when/
+permalink: /2019-07-27-that-feeling-when/
 categories:
   - Uncategorized
 tags:

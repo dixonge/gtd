@@ -3,7 +3,7 @@ title: The God Delusion
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:10:28+00:00
-url: /the-god-delusion/
+permalink: /the-god-delusion/
 Book Id:
   - 14743
 bookauthor: Richard Dawkins

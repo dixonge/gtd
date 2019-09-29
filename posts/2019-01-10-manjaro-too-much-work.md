@@ -3,7 +3,7 @@ title: Manjaro – Too much work
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2019-01-10T21:43:56+00:00
-url: /manjaro-too-much-work/
+permalink: /manjaro-too-much-work/
 image: /img/manjaro.png
 categories:
   - Uncategorized

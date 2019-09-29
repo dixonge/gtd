@@ -3,7 +3,7 @@ title: How to Import Your GoodReads List Into WordPress, for free
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T03:39:57+00:00
-url: /how-to-import-your-goodreads-list-into-wordpress-for-free/
+permalink: /how-to-import-your-goodreads-list-into-wordpress-for-free/
 image: /img/2018/07/goodreads.jpg
 status: 'null'
 categories:

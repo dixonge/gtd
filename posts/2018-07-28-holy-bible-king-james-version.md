@@ -3,7 +3,7 @@ title: 'Holy Bible'
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:07:23+00:00
-url: /holy-bible-king-james-version/
+permalink: /holy-bible-king-james-version/
 Book Id:
   - 1923820
 bookauthor: Anonymous

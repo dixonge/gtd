@@ -3,7 +3,7 @@ title: Room With a View – Mexico Update
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-04-21T22:13:35+00:00
-url: /room-with-a-view-mexico-update/
+permalink: /room-with-a-view-mexico-update/
 categories:
   - Uncategorized
 tags:

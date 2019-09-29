@@ -110,8 +110,9 @@ pre {
   background-color: #f6f6f6;
 }
 
-img.book-image {
+img.book-image, img.post-image {
   max-width: 250px;
+  margin: 0 auto;
 }
 
 .highlight-line {
@@ -148,7 +149,7 @@ img.book-image {
 /* Header */
 .home {
   padding: 0 1rem;
-  float: left;
+  text-align: center;
   margin: 1rem 0 10px 0; /* 16px /16 */
   font-size: 2.5rem; /* 16px /16 */
   font-weight: 700;
@@ -179,6 +180,17 @@ div.nav {
   text-decoration: underline;
 }
 
+/* Individual posts */
+.post-item {
+  text-align: center;
+  box-shadow: 5px 5px 5px black;
+  padding: 20px 0;
+  background-color: var(--white);
+}
+.post-item h1 {
+  margin-bottom: 5px;
+}
+
 /* Posts list */
 .postlist {
   list-style: none;
@@ -199,6 +211,7 @@ li.postlist-item img {
   pointer-events: none;
   content: "" counter(start-from, decimal-leading-zero) ". ";
   line-height: 100%;
+  margin-left: 8px;
   text-align: right;
 }
 .postlist-date,

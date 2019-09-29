@@ -3,7 +3,7 @@ title: 'Contagious '
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:07:59+00:00
-url: /contagious-infected-2/
+permalink: /contagious-infected-2/
 Book Id:
   - 3605324
 bookauthor: Scott Sigler

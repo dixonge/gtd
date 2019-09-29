@@ -3,7 +3,7 @@ title: 'Everett Ruess'
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:07:28+00:00
-url: /everett-ruess-a-vagabond-for-beauty/
+permalink: /everett-ruess-a-vagabond-for-beauty/
 Book Id:
   - 1300326
 bookauthor: W.L. Rusho

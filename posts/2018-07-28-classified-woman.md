@@ -3,7 +3,7 @@ title: Classified Woman
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:08:54+00:00
-url: /classified-woman/
+permalink: /classified-woman/
 Book Id:
   - 13607987
 bookauthor: Sibel Edmonds

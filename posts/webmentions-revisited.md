@@ -3,7 +3,7 @@ title: Webmentions Revisited
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2019-05-29T13:40:00+00:00
-url: /webmentions-revisited/
+permalink: /webmentions-revisited/
 categories:
   - Uncategorized
 tags:

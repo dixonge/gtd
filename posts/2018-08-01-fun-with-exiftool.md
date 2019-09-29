@@ -3,7 +3,7 @@ title: Fun with exiftool!
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-08-01T21:23:54+00:00
-url: /fun-with-exiftool/
+permalink: /fun-with-exiftool/
 status: 'null'
 categories:
   - Uncategorized

@@ -3,7 +3,7 @@ title: Why You Should Drop All .io Domains
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-21T23:25:38+00:00
-url: /why-you-should-drop-all-io-domains/
+permalink: /why-you-should-drop-all-io-domains/
 image: /img/2018/07/chagossians.png
 categories:
   - Uncategorized

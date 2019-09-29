@@ -3,7 +3,7 @@ title: Interface
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:08:11+00:00
-url: /interface/
+permalink: /interface/
 Book Id:
   - 828
 bookauthor: Neal Stephenson

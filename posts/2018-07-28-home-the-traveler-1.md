@@ -3,7 +3,7 @@ title: 'Home '
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:06:15+00:00
-url: /home-the-traveler-1/
+permalink: /home-the-traveler-1/
 Book Id:
   - 28218574
 bookauthor: Tom Abrahams

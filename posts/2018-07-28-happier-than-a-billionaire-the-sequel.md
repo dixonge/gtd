@@ -3,7 +3,7 @@ title: 'Happier Than a Billionaire'
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:09:57+00:00
-url: /happier-than-a-billionaire-the-sequel/
+permalink: /happier-than-a-billionaire-the-sequel/
 image: /img/2018/07/billion.jpg
 Book Id:
   - 17153392

@@ -3,7 +3,7 @@ title: Twenty Years of TheDixons.net
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-27T19:38:59+00:00
-url: /twenty-years-of-thedixons-net/
+permalink: /twenty-years-of-thedixons-net/
 image: /img/2018/07/thedixons.net-registration.png
 categories:
   - Uncategorized

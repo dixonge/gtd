@@ -3,7 +3,7 @@ title: A Year in Provence
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:10:16+00:00
-url: /a-year-in-provence/
+permalink: /a-year-in-provence/
 Book Id:
   - 40189
 bookauthor: Peter Mayle

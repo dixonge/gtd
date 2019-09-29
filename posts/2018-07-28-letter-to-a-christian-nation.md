@@ -3,7 +3,7 @@ title: Letter to a Christian Nation
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:10:24+00:00
-url: /letter-to-a-christian-nation/
+permalink: /letter-to-a-christian-nation/
 Book Id:
   - 51299
 bookauthor: Sam Harris

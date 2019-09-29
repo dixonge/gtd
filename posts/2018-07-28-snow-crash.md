@@ -3,7 +3,7 @@ title: Snow Crash
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:08:59+00:00
-url: /snow-crash/
+permalink: /snow-crash/
 Book Id:
   - 830
 bookauthor: Neal Stephenson

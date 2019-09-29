@@ -3,7 +3,7 @@ title: Updated my GoodReads+WordPress article
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-08-02T12:56:15+00:00
-url: /updated-my-goodreadswordpress-article/
+permalink: /updated-my-goodreadswordpress-article/
 categories:
   - Uncategorized
 tags:

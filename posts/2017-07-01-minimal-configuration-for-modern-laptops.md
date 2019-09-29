@@ -3,7 +3,7 @@ title: Minimal Configuration for Modern Laptops
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2017-07-01T22:06:35+00:00
-url: /minimal-configuration-for-modern-laptops/
+permalink: /minimal-configuration-for-modern-laptops/
 image: /img/2018/07/chuwi.png
 categories:
   - Uncategorized

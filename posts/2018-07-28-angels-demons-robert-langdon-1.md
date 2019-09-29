@@ -3,7 +3,7 @@ title: 'Angels & Demons  '
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:10:23+00:00
-url: /angels-demons-robert-langdon-1/
+permalink: /angels-demons-robert-langdon-1/
 Book Id:
   - 960
 bookauthor: Dan Brown

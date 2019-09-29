@@ -3,7 +3,7 @@ title: What Alice Forgot
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:06:37+00:00
-url: /what-alice-forgot/
+permalink: /what-alice-forgot/
 Book Id:
   - 11459962
 bookauthor: Liane Moriarty

@@ -3,7 +3,7 @@ title: Into the Wild
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:10:33+00:00
-url: /into-the-wild/
+permalink: /into-the-wild/
 Book Id:
   - 1845
 bookauthor: Jon Krakauer

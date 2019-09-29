@@ -3,7 +3,7 @@ title: Cryptonomicon
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:08:51+00:00
-url: /cryptonomicon/
+permalink: /cryptonomicon/
 Book Id:
   - 816
 bookauthor: Neal Stephenson

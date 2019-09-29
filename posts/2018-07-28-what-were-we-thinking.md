@@ -3,7 +3,7 @@ title: What Were We Thinking?
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:08:47+00:00
-url: /what-were-we-thinking/
+permalink: /what-were-we-thinking/
 Book Id:
   - 12483282
 bookauthor: Nancy Sathre-Vogel

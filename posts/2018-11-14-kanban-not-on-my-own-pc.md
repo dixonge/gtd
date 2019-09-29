@@ -3,7 +3,7 @@ title: Kanban NOT on my own PC
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-11-14T23:10:03+00:00
-url: /kanban-not-on-my-own-pc/
+permalink: /kanban-not-on-my-own-pc/
 categories:
   - Uncategorized
 tags:

@@ -3,7 +3,7 @@ title: Nocturnal
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:07:39+00:00
-url: /nocturnal/
+permalink: /nocturnal/
 Book Id:
   - 4719232
 bookauthor: Scott Sigler

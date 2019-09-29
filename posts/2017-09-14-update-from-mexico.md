@@ -3,7 +3,7 @@ title: Update From Mexico
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2017-09-14T22:18:49+00:00
-url: /update-from-mexico/
+permalink: /update-from-mexico/
 categories:
   - Uncategorized
 tags:

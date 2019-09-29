@@ -3,7 +3,7 @@ title: All Over But the Shoutin’
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:07:32+00:00
-url: /all-over-but-the-shoutin/
+permalink: /all-over-but-the-shoutin/
 Book Id:
   - 470495
 bookauthor: Rick Bragg

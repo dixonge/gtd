@@ -3,7 +3,7 @@ title: Built with Hugo
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2019-05-29T09:50:00+00:00
-url: /built-with-hugo/
+permalink: /built-with-hugo/
 categories:
   - Uncategorized
 tags:

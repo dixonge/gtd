@@ -3,7 +3,7 @@ title: What I Want in a Blog
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-14T22:20:12+00:00
-url: /what-i-want-in-a-blog/
+permalink: /what-i-want-in-a-blog/
 categories:
   - Uncategorized
 tags:

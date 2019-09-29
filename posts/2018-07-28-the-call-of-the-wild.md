@@ -3,7 +3,7 @@ title: The Call of the Wild
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T15:06:00+00:00
-url: /the-call-of-the-wild/
+permalink: /the-call-of-the-wild/
 Book Id:
   - 16064673
 bookauthor: Jack London

@@ -3,7 +3,7 @@ title: Lunch By the Lake
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-08-03T17:37:06+00:00
-url: /lunch-by-the-lake/
+permalink: /lunch-by-the-lake/
 categories:
   - Uncategorized
 tags:

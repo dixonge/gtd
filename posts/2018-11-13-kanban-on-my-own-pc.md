@@ -3,7 +3,7 @@ title: Kanban on my own PC
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-11-13T04:08:27+00:00
-url: /kanban-on-my-own-pc/
+permalink: /kanban-on-my-own-pc/
 categories:
   - OwnYourData
 tags:
