@@ -1,0 +1,11 @@
+---
+layout: layouts/home.njk
+tags:
+  - nav
+navtitle: Books
+permalink: /books/
+---
+<h1>My Books</h1>
+
+{% set postslist = collections.books %}
+{% include "postslist.njk" %}
