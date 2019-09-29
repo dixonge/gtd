@@ -2,15 +2,15 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
-<post class="h-entry">
+<div class="h-entry">
 <img src="{{ image }}">
 
-<a class="u-url" href="{{ post.url | url }}"><h1 class="p-name">{{ title }}</h1></a>
-<time class="postlist-date dt-published" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+<a href="{{ post.url | url }}" class="u-url"><h1 class="p-name">{{ title }}</h1></a>
+<time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
 <div class="e-content">
 {{ content | safe }}
 <a rel="author" class="p-author h-card" href="https://glenn.thedixons.net">Glenn Dixon</a>
-</div></post>
+</div></div>
 {% include "layouts/last3.njk" %}
 
 <p><a href="{{ '/' | url }}">← Home</a></p>
