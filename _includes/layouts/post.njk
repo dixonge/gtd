@@ -2,10 +2,11 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
+<article class="h-entry">
 <img src="{{ image }}">
 
 <h1>{{ title }}</h1>
-
+<div class="e-content">
 {{ content | safe }}
 
 {% include "layouts/last3.njk" %}
