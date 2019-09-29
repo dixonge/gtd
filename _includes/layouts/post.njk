@@ -2,9 +2,9 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
+<time class="dt-published" datetime="{{ post.date | htmlDateString }}">{{ post.date | htmlDateString }}</time>
 <article class="h-entry">
 <a class="u-url p-name" href="{{ post.url | url }}">{{ post.url | url }}</a>
-<time class="dt-published" datetime="{{ post.date | htmlDateString }}">{{ post.date | htmlDateString }}</time>
 <img src="{{ image }}">
 
 <h1 class="p-name">{{ title }}</h1>
