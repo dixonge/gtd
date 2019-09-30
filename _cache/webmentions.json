@@ -1,0 +1,71 @@
+{
+  "lastFetched": "2019-09-30T02:21:05.864Z",
+  "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "nitinkhanna",
+        "photo": "https://webmention.io/avatar/www.gravatar.com/ae2183f7ac7ec2676ad985ea7ffe391aefaef089de20ccfb8f32db1b4395b205.jpg",
+        "url": "https://micro.blog/nitinkhanna"
+      },
+      "url": "https://micro.blog/nitinkhanna/3810133",
+      "published": "2019-05-30T18:05:12+00:00",
+      "wm-received": "2019-05-30T18:06:10Z",
+      "wm-id": 619096,
+      "wm-source": "https://micro.blog/nitinkhanna/3810133",
+      "wm-target": "https://glenn.thedixons.net/built-with-hugo/",
+      "content": {
+        "html": "<p><a href=\"https://micro.blog/mexpat\">@mexpat</a> this is why we need to always have an export of just text/html from WP. I have a setup right now that sends my public posts to Day One via IFTTT... :) </p>",
+        "text": "@mexpat this is why we need to always have an export of just text/html from WP. I have a setup right now that sends my public posts to Day One via IFTTT... :)"
+      },
+      "in-reply-to": "https://glenn.thedixons.net/built-with-hugo/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mexpat",
+        "photo": "https://webmention.io/avatar/micro.blog/38f410be775e71c5c9eccb5cc2ba86fbabba6211cc042904d78622a4107c6cfd.jpg",
+        "url": "https://micro.blog/mexpat"
+      },
+      "url": "https://micro.blog/mexpat/3797742",
+      "published": "2019-05-30T01:33:48+00:00",
+      "wm-received": "2019-05-30T01:34:00Z",
+      "wm-id": 618773,
+      "wm-source": "https://micro.blog/mexpat/3797742",
+      "wm-target": "https://glenn.thedixons.net/built-with-hugo/",
+      "content": {
+        "html": "<p><a href=\"https://micro.blog/nitinkhanna\">@nitinkhanna</a> Thanks! The export out of WordPress stuck a <em>lot</em> of crazy metadata into the files. Most of it was related to post kinds, things coming in from Instagram, etc. Lots of search/replace to clean it up, but basics are in place...</p>",
+        "text": "@nitinkhanna Thanks! The export out of WordPress stuck a lot of crazy metadata into the files. Most of it was related to post kinds, things coming in from Instagram, etc. Lots of search/replace to clean it up, but basics are in place..."
+      },
+      "in-reply-to": "https://glenn.thedixons.net/built-with-hugo/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "nitinkhanna",
+        "photo": "https://webmention.io/avatar/www.gravatar.com/ae2183f7ac7ec2676ad985ea7ffe391aefaef089de20ccfb8f32db1b4395b205.jpg",
+        "url": "https://micro.blog/nitinkhanna"
+      },
+      "url": "https://micro.blog/nitinkhanna/3795873",
+      "published": "2019-05-29T23:08:52+00:00",
+      "wm-received": "2019-05-29T23:09:34Z",
+      "wm-id": 618762,
+      "wm-source": "https://micro.blog/nitinkhanna/3795873",
+      "wm-target": "https://glenn.thedixons.net/built-with-hugo/",
+      "content": {
+        "html": "<p><a href=\"https://micro.blog/mexpat\">@mexpat</a> sweeeet!</p>",
+        "text": "@mexpat sweeeet!"
+      },
+      "in-reply-to": "https://glenn.thedixons.net/built-with-hugo/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    }
+  ]
+}
