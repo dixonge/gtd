@@ -2,7 +2,7 @@
 title: Reconnected with micro.blog
 author: Glenn Dixon
 layout: layouts/post.njk
-date: 2019-09-29T09:25:00+00:00
+date: 2019-09-29T23:10:00+00:00
 permalink: /reconnected-with-micro.blog/
 categories:
   - Uncategorized
