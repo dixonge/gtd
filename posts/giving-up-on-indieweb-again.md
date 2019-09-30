@@ -10,7 +10,7 @@ tags:
   - posts
   - notes
 ---
-I have a [long, tortured history](giving-up-on-indieweb) with the IndieWeb. It's like social media - each time I think I'm over it I rage-quit and then I later return. I forget all the bad things and remember only the good and I tell myself *this time it will be different.* In other words, I never learn.
+I have a [long, tortured history](https://glenn.thedixons.net/giving-up-on-indieweb) with the IndieWeb. It's like social media - each time I think I'm over it I rage-quit and then I later return. I forget all the bad things and remember only the good and I tell myself *this time it will be different.* In other words, I never learn.
 
 Once again I have spent countless hours setting up #IndieWeb things on my site - microformats, webmentions, etc. - and connected to IndieAuth and set up tokens. This time I even added a newsreader connection via Together and/or [Monocle](https://monocle.p3k.io) clients and Baffle and NewsBlur and Aperture services so I could ... well, evidently so I could do what I was already doing with Feedly and Reeder -- read RSS subscriptions! For some reason I thought I was going to end up with something like what Aaron Parecki seems to have, which is an all-in-one reader which also allows him to reply and share, etc. 
 
