@@ -39,7 +39,7 @@ p,
 .tmpl-post li {
   line-height: 1.45;
   text-align: left;
-  margin: 0 auto;
+  margin: 0 auto 10px;
 }
 a[href] {
   color: var(--lightblue);
