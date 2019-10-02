@@ -1,49 +1,18 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ renderData.title or title or metadata.title }}</title>
-    <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
-    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
-    <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
-    <link rel="stylesheet" href="{{ '/css/webmentions.css' | url }}">
-    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
-    <link rel="webmention" href="https://webmention.io/glenn.thedixons.net/webmention" />
-    <link rel="pingback" href="https://webmention.io/glenn.thedixons.net/xmlrpc" />
-    <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
-    <link rel="authorization_endpoint" href="https://indieauth.com/auth">
-    </head>
+
+  {% include "layouts/head.njk" %}
+
   <body>
-    <header>
-      <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
-      <div class="nav">
-      <ul class="nav">
-        {%- for nav in collections.nav | reverse -%}
-        <li class="nav-item{% if nav.url == page.url %} nav-item-active{% endif %}"><a href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a></li>
-        {%- endfor -%}
-      </ul>
-      </div>
-    </header>
+
+  {% include "layouts/header.njk" %}
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
 
       {{ content | safe }}
     </main>
 
-    <footer>
-    
-    <a href="https://github.com/dixonge" rel="me">Github</a> -
-    <a href="https://octodon.social/@donblanco" rel="me">Mastodon</a> -
-    <a href="https://twitter.com/realglenndixon" rel="me">Twitter</a> -
-    <a href="https://instagram.com/dixonge" rel="me">Instagram</a> -
-    <a href="https://micro.blog/mexpat" rel="me">Micro.blog</a>
-    Made with <a href="https://11ty.io">eleventy</a> by <p><a class="h-card" rel="me" href="https://glenn.thedixons.net/">Glenn Dixon</a></p>
-    <p><img class="u-photo" src="/img/avatar.jpg" /></p>
-    <p><a rel="me" class="u-email" href="mailto:donblanco@posteo.net">donblanco@posteo.net</a></p>
-    <p><p class="p-note">Retired I.T. nerd – expat life in Mexico – vegan – atheist – aspirational writer, hacker, activist, musician, genealogist</p>
-    
-    </footer>
+  {% include "layouts/footer.njk" %}
 
     <!-- Current page: {{ page.url | url }} -->
   </body>

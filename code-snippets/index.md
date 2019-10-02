@@ -4,9 +4,9 @@ author: Glenn Dixon
 type: page
 date: 2018-07-21T22:05:25+00:00
 layout: layouts/latest.njk
-navtitle: Code Snippets
 tags:
   - nav
+navtitle: Code Snippets
 ---
 Accessible from anywhere, public (because, why not?), easy to copy/reuse. Perfect.
 

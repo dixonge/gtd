@@ -182,6 +182,25 @@ div.nav {
   text-decoration: underline;
 }
 
+footer {
+  border-top: 1px dashed var(--navy);
+  margin: 0 auto;
+  padding: 15px 0;
+  max-width: 90%;
+  display: grid;
+  justify-content: center;
+}
+
+footer img {
+  max-width: 75px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+footer div#social {
+  text-align: center;
+}
+
 /* Individual posts */
 .post-item {
   text-align: center;

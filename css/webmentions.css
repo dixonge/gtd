@@ -1,8 +1,10 @@
 /* Webmention Section */
 
 .webmentions {
+    border-top: 1px dashed var(--navy);
     display:block;
     text-align: left;
+    margin: 0 40px;
 }
 .webmentions__facepile {
     display:flex;
