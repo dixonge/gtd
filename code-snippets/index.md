@@ -10,6 +10,10 @@ navtitle: Code Snippets
 ---
 Accessible from anywhere, public (because, why not?), easy to copy/reuse. Perfect.
 
+#### Download articles from Medium (without a subscription, even if you exceed free article allowance)
+
+    wget -m -np --page-requisites --adjust-extension --convert-links <medium link>
+
 #### VS Code Regex to find line beginning with specific text and append to end of line
 
     ^(find-this.*)
