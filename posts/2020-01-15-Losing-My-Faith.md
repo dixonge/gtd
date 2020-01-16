@@ -24,8 +24,8 @@ More recently science has been running into problems. Some is political, some co
 This should serve as a placemarker and Table of Contents. I will add links and revise as needed.
 
  1 Introduction (this post)
- 2 Speculative Extinctions
- 3 Sea Levels
+ 2 [Speculative Extinctions](2020-01-15-Speculative-Extinctions.md)
+ 3 [Sea Levels](2020-01-15-Sea-Levels)
  4 Coral Reefs
  5 Temperatures 
  6 Consensus is not Science
