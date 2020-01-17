@@ -26,7 +26,7 @@ This should serve as a placemarker and Table of Contents. I will add links and r
  1 Introduction (this post)
  2 [Speculative Extinctions](/speculative-extinctions)
  3 [Sea Levels](/sea-levels)
- 4 Coral Reefs
+ 4 [Coral Reefs](/coral-reefs)
  5 Temperatures 
  6 Consensus is not Science
  7 The Replication Crisis
