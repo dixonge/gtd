@@ -1,0 +1,11 @@
+---
+layout: layouts/home.njk
+tags:
+  - nav
+navtitle: Science
+permalink: /science/
+---
+<h1>All Science Posts</h1>
+
+{% set postslist = collections.posts %}
+{% include "postslist.njk" %}
