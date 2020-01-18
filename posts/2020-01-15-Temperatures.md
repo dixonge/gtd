@@ -9,7 +9,7 @@ categories:
 tags:
   - posts
   - science
-image: /img/
+image: /img/temperature-hubris.gif
 ---
 
 This is perhaps too large a topic for one blog post. I have just finished reading *dozens* of articles on this topic. Even after correcting for possible motive/bias issues, and after weeding out ad hominems, I am left with the following conclusions:
