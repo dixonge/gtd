@@ -2,7 +2,7 @@
 title: The Replication Crisis
 author: Glenn Dixon
 layout: layouts/post.njk
-date: 2020-01-15
+date: Last Modified
 permalink: /replication-crisis/
 categories:
   - Uncategorized

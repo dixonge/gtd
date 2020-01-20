@@ -2,7 +2,7 @@
 title: Losing My Faith In Science
 author: Glenn Dixon
 layout: layouts/post.njk
-date: 2020-01-14
+date: Last Modified
 permalink: /losing-my-faith-in-science/
 categories:
   - Uncategorized
