@@ -7,6 +7,6 @@ permalink: /post-truth-science/
 categories:
   - Uncategorized
 tags:
-  - posts
+  - draft
 image: /img/
 ---

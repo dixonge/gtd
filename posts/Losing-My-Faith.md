@@ -32,4 +32,4 @@ This should serve as a placemarker and Table of Contents. I will add links and r
  7 The Replication Crisis
  8 Apocalypse Mirage
  9 Openly Polarized
-10 Post-truth Scienceq
+10 Post-truth Science

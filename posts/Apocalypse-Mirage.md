@@ -7,6 +7,6 @@ permalink: /apocalypse-mirage/
 categories:
   - Uncategorized
 tags:
-  - posts
+  - draft
 image: /img/
 ---

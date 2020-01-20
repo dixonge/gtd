@@ -7,6 +7,6 @@ permalink: /openly-polarized/
 categories:
   - Uncategorized
 tags:
-  - posts
+  - draft
 image: /img/
 ---

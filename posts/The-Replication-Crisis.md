@@ -7,7 +7,7 @@ permalink: /replication-crisis/
 categories:
   - Uncategorized
 tags:
-  - posts
+  - draft
   - science
 image: /img/
 ---
