@@ -8,7 +8,6 @@ categories:
   - Uncategorized
 tags:
   - draft
-  - science
 image: /img/
 ---
 
