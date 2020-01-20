@@ -1,6 +1,7 @@
 ---
 title: Temperature Hubris
 author: Glenn Dixon
+type: page
 layout: layouts/post.njk
 date: 2020-01-15
 permalink: /temperature-hubris/
@@ -37,4 +38,7 @@ This is perhaps too large a topic for one blog post. I have just finished readin
     [^1]: https://wattsupwiththat.com/2018/10/11/bombshell-audit-of-global-warming-data-finds-it-riddled-with-errors/
     [^2]: https://www.nytimes.com/1989/01/26/us/us-data-since-1895-fail-to-show-warming-trend.html?src=pm
 
-    
+
+From the Jan. 18, 2020 edition of 'The Week That Was' from [SEPP]([http://www.sepp.org/twtwfiles/2020/TWTW%201-18-20%20last.pdf](http://www.sepp.org/twtwfiles/2020/TWTW 1-18-20 last.pdf))
+
+> Since the greenhouse effect of CO2 declines per unit as the total amount increases (diminishing returns), the expected increase in temperature from growing CO2 emissions by the end of this century is less than 1 ⁰K (C). 
