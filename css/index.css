@@ -300,7 +300,7 @@ a[href].direct-link:focus:visited,
 .elv-toc {
   font-size: 1rem; /* Reset */
   text-align: left;
-  background: #009cdf;
+  background: #18baff;
 }
 .elv-toc details {
 	--details-force-closed: (max-width: 63.9375em); /* 1023px */
@@ -408,7 +408,7 @@ a[href].direct-link:focus:visited,
 	max-width: 42rem;
   clear: both;
   text-align: left;
-  background: #009cdf;
+  background: #18baff;
 }
 .elv-layout p {
   max-width: 100%;
