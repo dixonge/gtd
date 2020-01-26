@@ -49,6 +49,15 @@ a[href] {
 a[href]:visited {
   color: var(--purple);
 }
+blockquote {
+  font-family: Georgia,serif;
+  font-size: 1.1875em;
+  color: #666;
+  margin: 1.5em 0;
+  padding: 0 1em;
+  max-width: 31.57894736842em;
+  border-left: 6px solid #ddd;
+}
 main {
   padding: 1rem;
   margin: 0 auto;

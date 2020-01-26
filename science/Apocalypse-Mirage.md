@@ -9,12 +9,9 @@ eleventyNavigation:
 
 ![](/img/)
 
->  Apocalypse, Apocalypse,
->
+> Apocalypse, Apocalypse,
 > I love ya, Apocalypse,
->
 > you're always a day away...
-
 (w/ apologies to Annie)
 
 Having been born into a fundamentalist Christian household, I am intimately familiar with the apocalyptic mindset. From the beginning, the end of the world has *always* been nigh. The writers of the so-called 'gospels' put apocalypse in Jesus' mouth frequently. He told his disciples of a time, supposedly before they would die, that the entire temple in Jerusalem would be a pile of rubble. By the time the writer of 'Revelations' was finished, Jesus returns and the entire earth would be destroyed and a 'new heaven and earth' would be created, along with a 1,000 year reign with Jesus as literal king. Afte this, Satan would, for unknown reasons, be released from hell and the final war to end all wars would be fought. After this, actual heaven.
