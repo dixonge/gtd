@@ -1,5 +1,5 @@
 ---
-title: The real Glenn
+title: The real Glenn - Glenn 2.0
 author: Glenn Dixon
 layout: layouts/latest.njk
 date: 2018-07-24T19:12:58+00:00
