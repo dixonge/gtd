@@ -6,7 +6,6 @@ date: 2019-07-04T12:23:24+00:00
 permalink: /apple-it-just-works/
 tags:
   - posts
-  - notes
 ---
 A few things are converging here. The main motivator here is shifting back into travel mode. The amount of time we spend traveling will be increasing for the foreseeable future. So I've been trying to simplify, both in life in general and in all things digital. Another motivator is moving out of the budget mindset and focusing more on quality and solidity. Things that just work and don't require so much 'fiddling' just to get things done. Side benefit, less time helping my wife figure out how to do something that involves her phone/tablet/etc. 
 
