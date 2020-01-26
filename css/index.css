@@ -219,6 +219,9 @@ footer div#social {
 .post-item h1 {
   margin-bottom: 5px;
 }
+.post-item ul li {
+  text-align: left;
+}
 
 /* Posts list */
 .postlist {
