@@ -1,16 +1,13 @@
 ---
-title: Temperature Hubris
-author: Glenn Dixon
-layout: layouts/post.njk
-date: Last Modified
-permalink: /temperature-hubris/
-categories:
-  - Uncategorized
-tags:
-  - posts
-  - science
-image: /img/temperature-hubris.gif
+eleventyNavigation:
+  key: Temperatures
+  title: Temperatures
+  parent: Losing
+  order: 5
 ---
+# Temperatures
+
+![](/img/temperature-hubris.gif)
 
 This is perhaps too large a topic for one blog post. I have just finished reading *dozens* of articles on this topic. Even after correcting for possible motive/bias issues, and after weeding out ad hominems, I am left with the following conclusions:
 
@@ -41,3 +38,11 @@ This is perhaps too large a topic for one blog post. I have just finished readin
 From the Jan. 18, 2020 edition of 'The Week That Was' from [SEPP](http://www.sepp.org/twtwfiles/2020/TWTW%201-18-20%20last.pdf)
 
 > Since the greenhouse effect of CO2 declines per unit as the total amount increases (diminishing returns), the expected increase in temperature from growing CO2 emissions by the end of this century is less than 1 ⁰K (C). 
+
+From 'The Art and Science of Climate Model Tuning':
+
+> *The increase of about one Kelvin of the global mean temperature observed from the beginning of the industrial era, hereafter 20th century warming, is a de facto litmus test for climate models. However, as a test of model quality, it is not without issues because* *the desired result is known to model developers and therefore becomes a potential target of the development.*
+
+(excerpted on [Judith Curry's blog](https://judithcurry.com/2016/08/01/the-art-and-science-of-climate-model-tuning/))
+
+Need to explore analogy between markets and climate. Large, chaotic systems. Models backtested and tuned, equally useless for forecasting.

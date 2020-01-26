@@ -1,16 +1,13 @@
 ---
-title: Consensus as Religion
-author: Glenn Dixon
-layout: layouts/post.njk
-date: Last Modified
-permalink: /consensus-as-religion/
-categories:
-  - Uncategorized
-tags:
-  - posts
-  - science
-image: /img/CO2.png
+eleventyNavigation:
+  key: Consensus
+  title: Consensus As Religion
+  parent: Losing
+  order: 6
 ---
+# Consensus As Religion
+  
+![](/img/CO2.png)
 
 Regardless the accuracy of the often stated '97%' scientific consensus on climate change, I think it is safe to say that most climate scientists believe that anthropogenic CO2 is warming the earth faster than it would otherwise warm. The general public is more divided. A core of conservatives disagree on whether or not the earth is even warming at all, but most skeptics merely disagree on either the anthropogenic cause or the degree of the influence. Most all skeptics disagree on the severity of the future impact and political solutions.
 

@@ -1,16 +1,13 @@
 ---
-title: Coral Reefs
-author: Glenn Dixon
-layout: layouts/post.njk
-date: Last Modified
-permalink: /coral-reefs/
-categories:
-  - Uncategorized
-tags:
-  - posts
-  - science
-image: /img/reef.jpg
+eleventyNavigation:
+  key: Reefs
+  title: Coral Reefs
+  parent: Losing
+  order: 4
 ---
+# Coral Reefs
+
+![](/img/reef.jpg)
 
 They regularly go through bleaching episodes, generally tied to ENSO events. For years each one of these bleaching events were immediately tied to climate change. The reefs have been [predicted to die off permanently for decades now](https://www.dailytelegraph.com.au/blogs/tim-blair/eternal-life-and-death-of-our-rare-roast-reef/news-story/4631e7f45c1602afaa46bbe2b6f4e365).
 

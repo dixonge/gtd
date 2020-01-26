@@ -1,16 +1,13 @@
 ---
-title: Sea Levels
-author: Glenn Dixon
-layout: layouts/post.njk
-date: Last Modified
-permalink: /sea-levels/
-categories:
-  - Uncategorized
-tags:
-  - posts
-  - science
-image: /img/sealevel.jpg
+eleventyNavigation:
+  key: Sea
+  title: Sea Levels
+  parent: Losing
+  order: 3
 ---
+# Sea Levels
+
+![](/img/sealevel.jpg)
 
 Depending on which coast you look at, the longest-running tide gauges all show the same story - 2-3mm/year or 11 inches per century of sea level rise. This doesn't change even when you take rising and falling ground levels into account, or GPS being added to the tide gauge station. Accuracy checks and balances don't change the numbers. The seas have been slowly, inexorably rising ever since we began checking, but there is no evidence of any accelleration of any kind. There is no signal that CO2 has had any effect on sea levels.
 

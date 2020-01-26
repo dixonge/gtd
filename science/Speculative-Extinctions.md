@@ -1,17 +1,13 @@
 ---
-title: Speculative Extinctions
-author: Glenn Dixon
-layout: layouts/post.njk
-date: Last Modified
-permalink: /speculative-extinctions/
-categories:
-  - Uncategorized
-tags:
-  - posts
-  - science
-  - extinction
-image: /img/speculative-extinction.jpg
+eleventyNavigation:
+  key: Extinctions
+  title: Speculative Extinctions
+  parent: Losing
+  order: 1
 ---
+# Speculative Extinctions
+
+![](/img/speculative-extinction.jpg)
 
 The first seeds of doubt in the 'consensus' view on climate change came about in a rather roundabout way. First, I was reading about yet another dire astronomical number of extinctions that were already under way both now and in the near future (caused, at least in part, by climate change). But this time something snapped and I just couldn't believe the numbers. So many numbers were being thrown out on a regular basis, and yet no actual newly-extinct species were being named. I dug in.
 
