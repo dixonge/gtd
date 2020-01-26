@@ -56,8 +56,6 @@ main {
   width: 90%;
   text-align: center;
 }
-main :first-child {
-}
 header {
   border-bottom: 1px dashed var(--navy);
   margin: 0 auto;
@@ -303,7 +301,6 @@ a[href].direct-link:focus:visited,
   font-size: 1rem; /* Reset */
   text-align: left;
   background: #009cdf;
-  pa
 }
 .elv-toc details {
 	--details-force-closed: (max-width: 63.9375em); /* 1023px */
