@@ -302,7 +302,7 @@ a[href].direct-link:focus:visited,
 .elv-toc {
   font-size: 1rem; /* Reset */
   text-align: left;
-  background: #ffb900;
+  background: #009cdf;
   pa
 }
 .elv-toc details {
@@ -411,7 +411,7 @@ a[href].direct-link:focus:visited,
 	max-width: 42rem;
   clear: both;
   text-align: left;
-  background: #ffb900;
+  background: #009cdf;
 }
 .elv-layout p {
   max-width: 100%;
