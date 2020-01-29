@@ -1,6 +1,6 @@
 ---
 layout: layouts/base-science.njk
-title: Science - Glenn 2.0
+title: Books - Glenn 2.0
 templateClass: elv-docs
 headerClass: elv-header-docs
 layoutClass: elv-layout-toc
@@ -14,13 +14,28 @@ isDocs: true
 	{%- if eleventyNavigation -%}
 		{%- set navKey = eleventyNavigation.key -%}
 	{%- endif -%}
-	{{ collections.sidebarNav | eleventyNavigation("Losing") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	{{ collections.sidebarNav | eleventyNavigation("Books") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
 </details>
 
 </div>
 
+<div class="h-entry">
+<p><a href="{{ url | url }}" class="u-url"><h1 class="p-name">{{ eleventyNavigation.key }}</h1></a></p>
+<div class="e-content">
+    {% if isbn13 %}
+      <img class="book-image mb-20 mr-20 float-left" src="https://covers.openlibrary.org/b/isbn/{{ isbn13 }}.jpg"></img>
+    {% elif isbn %}
+      <img class="book-image mb-20 mr-20 float-left" src="https://covers.openlibrary.org/b/isbn/{{ isbn }}.jpg"></img>
+    {% endif %}
+<p>Author: {{ bookauthor }}
+<p>Pages: {{ pages }}
+<p>Year: {{ yearpublished }}
+<p>My Rating: {{ myrating }}
+<div class="clear"></div>
+
 {{ content | safe }}
 
+</div>
 {#
 {% if eleventyNavigation and eleventyNavigation.key %}
 {%- set navKey = eleventyNavigation.parent or eleventyNavigation.key -%}
@@ -29,7 +44,7 @@ isDocs: true
 {{ collections.sidebarNav | eleventyNavigation(navKey) | eleventyNavigationToHtml({ activeKey: eleventyNavigation.key, listClass: 'inlinelist inlinelist-no-nest', listItemClass: 'inlinelist-item', activeListItemClass: 'elv-cat-list-active' }) | safe }}
 {% endif %}
 #}
-
+<p>
 {% if relatedLinks or (relatedKey and collections[ "related-" + relatedKey ].length) %}
 <hr>
 <h3>Related Docs</h3>
@@ -42,3 +57,4 @@ isDocs: true
 {% endfor %}
 </ul>
 {% endif %}
+</div>

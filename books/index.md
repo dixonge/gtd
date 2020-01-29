@@ -1,0 +1,14 @@
+---
+layout: layouts/books.njk
+title: Books - Glenn 2.0
+tags:
+  - nav
+navtitle: Books
+permalink: /books/
+eleventyNavigation:
+  key: Books
+  title: Book Reviews
+---
+<h1>Book Reviews</h1>
+
+This list was originally imported from GoodReads. If it is here, I probably either hated it or liked it. I've reviewed only a handful, something I'm 

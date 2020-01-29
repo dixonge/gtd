@@ -1,3 +1,18 @@
+.float-left {
+  float: left;
+}
+.clear {
+  clear: both;
+}
+.ml-20 {
+  margin-left: 20px;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+.mr-20 {
+  margin-right: 20px;
+}
 :root {
   --red: #C5004A;
   --darkred: #7F0036;
@@ -122,9 +137,10 @@ pre {
 
 img.book-image, img.post-image {
   max-width: 250px;
+}
+img.post-image {
   margin: 0 auto;
 }
-
 .highlight-line {
   display: block;
   padding: 0.125em 1em;
