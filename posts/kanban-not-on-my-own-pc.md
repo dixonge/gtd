@@ -5,7 +5,7 @@ layout: layouts/post.njk
 date: 2018-11-14T23:10:03+00:00
 permalink: /kanban-not-on-my-own-pc/
 categories:
-  - Uncategorized
+  - Tools
 tags:
   - posts
   - notes

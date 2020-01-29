@@ -6,9 +6,8 @@ date: 2019-05-06T17:07:33+00:00
 permalink: /my-last-distro-hop-ever/
 image: /img/linuxmint.png
 categories:
-  - Uncategorized
+  - Tools
 tags:
-  - posts
   - posts
 ---
 I know - I shouldn't say silly things like that. But really, I'm getting close to setting a record here.

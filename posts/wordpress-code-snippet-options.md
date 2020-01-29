@@ -6,7 +6,7 @@ date: 2018-08-04T11:36:15+00:00
 permalink: /wordpress-code-snippet-options/
 status: 'null'
 categories:
-  - Uncategorized
+  - gtd
 tags:
   - posts
   - links

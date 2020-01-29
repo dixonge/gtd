@@ -6,7 +6,7 @@ date: 2018-07-27T19:38:59+00:00
 permalink: /twenty-years-of-thedixons-net/
 image: /img/2018/07/thedixons.net-registration.png
 categories:
-  - Uncategorized
+  - Misc
 tags:
   - posts
 ---

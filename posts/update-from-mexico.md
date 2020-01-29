@@ -5,7 +5,7 @@ layout: layouts/post.njk
 date: 2017-09-14T22:18:49+00:00
 permalink: /update-from-mexico/
 categories:
-  - Uncategorized
+  - Misc
 tags:
   - posts
   - notes

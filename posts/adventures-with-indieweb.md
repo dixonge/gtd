@@ -6,7 +6,7 @@ date: 2017-07-13T21:56:09+00:00
 permalink: /adventures-with-indieweb/
 image: /img/2018/07/indieweb-logo-study-001.png
 categories:
-  - Uncategorized
+  - Indieweb
 tags:
   - posts
 ---

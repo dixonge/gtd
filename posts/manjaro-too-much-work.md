@@ -6,9 +6,8 @@ date: 2019-01-10T21:43:56+00:00
 permalink: /manjaro-too-much-work/
 image: /img/manjaro.png
 categories:
-  - Uncategorized
+  - Tools
 tags:
-  - posts
   - posts
 ---
 A couple of months ago I got frustrated at something with whatever version of Ubuntu (probably KDE) I was using and then I got the bright idea to switch distros. I tried 4-5 different varieties, but I mainly want to write about Manjaro.

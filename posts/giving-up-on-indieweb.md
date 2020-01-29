@@ -8,9 +8,8 @@ aliases:
   - /blog/giving-up-on-indieweb/
 image: /img/2018/07/canteven.jpg
 categories:
-  - Uncategorized
+  - Indieweb
 tags:
-  - posts
   - posts
 ---
 (Further update:  webmentions are working!!!)

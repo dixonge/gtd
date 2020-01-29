@@ -6,7 +6,7 @@ date: 2018-09-04T12:54:09+00:00
 permalink: /python-grumblings/
 status: 'null'
 categories:
-  - Uncategorized
+  - Tools
 tags:
   - posts
   - notes

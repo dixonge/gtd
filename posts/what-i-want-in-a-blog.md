@@ -5,7 +5,7 @@ layout: layouts/post.njk
 date: 2018-07-14T22:20:12+00:00
 permalink: /what-i-want-in-a-blog/
 categories:
-  - Uncategorized
+  - IndieWeb
 tags:
   - posts
   - notes

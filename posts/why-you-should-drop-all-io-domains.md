@@ -6,7 +6,7 @@ date: 2018-07-21T23:25:38+00:00
 permalink: /why-you-should-drop-all-io-domains/
 image: /img/2018/07/chagossians.png
 categories:
-  - Uncategorized
+  - Misc
 tags:
   - posts
   - replies

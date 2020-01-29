@@ -6,7 +6,7 @@ date: 2018-08-07T12:01:22+00:00
 permalink: /why-i-hate-passwordless-email-only-authentication/
 status: 'null'
 categories:
-  - Uncategorized
+  - IndieWeb
 tags:
   - posts
   - notes

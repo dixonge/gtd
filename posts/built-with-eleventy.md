@@ -5,7 +5,7 @@ layout: layouts/post.njk
 date: 2019-09-24
 permalink: /built-with-eleventy/
 categories:
-  - Uncategorized
+  - gtd
 tags:
   - posts
   - Eleventy

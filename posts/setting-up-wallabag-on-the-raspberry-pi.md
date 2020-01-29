@@ -6,9 +6,8 @@ date: 2017-06-14T22:15:07+00:00
 permalink: /setting-up-wallabag-on-the-raspberry-pi/
 image: /img/2018/07/wallabag-logo.jpg
 categories:
-  - Uncategorized
+  - Tools
 tags:
-  - posts
   - posts
 ---
 In my recent flurry of [indieweb-style][1] activity I decided to go cold turkey with my dependency on certain major service silos. In addition to the general motivation to dump the monolithic, monopolistic mega-corp silos, there was a more practical motivation. Before our big move back to Mexico we are upgrading the laptops. Three years old and upgraded to Windows 10 had me a bit nervous. Also, spinning hard drives. So our new laptops are [straight-from-China cheap][2] with eMMC drives of only 64gb.

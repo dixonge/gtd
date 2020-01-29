@@ -5,7 +5,7 @@ layout: layouts/post.njk
 date: 2019-05-29T13:40:00+00:00
 permalink: /webmentions-revisited/
 categories:
-  - Uncategorized
+  - IndieWeb
 tags:
   - posts
   - notes

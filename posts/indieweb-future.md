@@ -6,7 +6,7 @@ date: 2018-07-22T03:08:09+00:00
 permalink: /indieweb-future/
 image: "https://aaronparecki.com/2018/04/20/46/indieweb-reader.jpg"
 categories:
-  - Uncategorized
+  - Indieweb
 tags:
   - posts
   - replies

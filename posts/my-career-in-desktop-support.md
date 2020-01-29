@@ -6,9 +6,8 @@ date: 2017-06-21T22:12:18+00:00
 permalink: /my-career-in-desktop-support/
 image: /img/2018/07/officespace.jpg
 categories:
-  - Uncategorized
+  - Misc
 tags:
-  - posts
   - posts
 ---
 #

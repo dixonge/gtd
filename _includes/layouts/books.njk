@@ -19,6 +19,8 @@ isDocs: true
 
 </div>
 
+{% if "books" in tags %}
+
 <div class="h-entry">
 <p><a href="{{ url | url }}" class="u-url"><h1 class="p-name">{{ eleventyNavigation.key }}</h1></a></p>
 <div class="e-content">
@@ -32,6 +34,8 @@ isDocs: true
 <p>Year: {{ yearpublished }}
 <p>My Rating: {{ myrating }}
 <div class="clear"></div>
+
+{% endif %}
 
 {{ content | safe }}
 

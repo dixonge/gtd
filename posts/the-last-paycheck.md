@@ -6,9 +6,8 @@ date: 2017-07-21T22:17:40+00:00
 permalink: /the-last-paycheck/
 image: /img/2018/07/paycheck.jpg
 categories:
-  - Uncategorized
+  - Misc
 tags:
-  - posts
   - posts
 ---
 Many milestones that have come and gone in the last couple of years:

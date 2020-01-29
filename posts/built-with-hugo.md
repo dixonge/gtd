@@ -5,7 +5,7 @@ layout: layouts/post.njk
 date: 2019-05-29T09:50:00+00:00
 permalink: /built-with-hugo/
 categories:
-  - Uncategorized
+  - gtd
 tags:
   - posts
   - notes

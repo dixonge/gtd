@@ -11,4 +11,4 @@ eleventyNavigation:
 ---
 <h1>Book Reviews</h1>
 
-This list was originally imported from GoodReads. If it is here, I probably either hated it or liked it. I've reviewed only a handful, something I'm 
+This list was originally imported from GoodReads. If it is here, I probably either hated it or liked it. I've reviewed only a handful, something I'm working on (early 2020).

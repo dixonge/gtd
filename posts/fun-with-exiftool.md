@@ -6,7 +6,7 @@ date: 2018-08-01T21:23:54+00:00
 permalink: /fun-with-exiftool/
 status: 'null'
 categories:
-  - Uncategorized
+  - Tools
 tags:
   - posts
   - notes

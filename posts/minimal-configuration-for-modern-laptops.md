@@ -6,9 +6,8 @@ date: 2017-07-01T22:06:35+00:00
 permalink: /minimal-configuration-for-modern-laptops/
 image: /img/2018/07/chuwi.png
 categories:
-  - Uncategorized
+  - Tools
 tags:
-  - posts
   - posts
 ---
 [UPDATE: I have moved to a Lenovo ideapad laptop - also only $199 at Best Buy. No idea why, amazing laptop! New post about this soon]
