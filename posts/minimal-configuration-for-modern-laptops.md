@@ -1,18 +1,21 @@
 ---
-title: Minimal Configuration for Modern Laptops
+eleventyNavigation:
+  parent: Devices
+  key: Minimal Configuration for Modern Laptops
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2017-07-01T22:06:35+00:00
-permalink: /minimal-configuration-for-modern-laptops/
+permalink: /posts/minimal-configuration-for-modern-laptops/
 image: /img/2018/07/chuwi.png
 categories:
-  - Tools
+  - Devices
 tags:
   - posts
 ---
+![](/img/2018/07/chuwi.png)
+
 [UPDATE: I have moved to a Lenovo ideapad laptop - also only $199 at Best Buy. No idea why, amazing laptop! New post about this soon]
 
-<!-- excerpt -->
 At some point in 2014 during a visit back here in the U.S. we picked up some clearance sale laptops at BestBuy. My HP touchscreen and the wife's Toshiba were both 15&#8243;" and at great prices. They have both performed well and handled the upgrade to Windows 10 admirably. However, now that we are preparing to move back to Mexico it seems like a good time for an upgrade. We have acquired two off-brand <a>Chinese laptops</a> that drop the spinning hard drive and any CD/DVD tray in exchange for quieter, cooler running, longer battery life, less bulk and less weight. This would probably be a good place to insert a small table 🙂
 
 <table>
@@ -20,7 +23,7 @@ At some point in 2014 during a visit back here in the U.S. we picked up some cle
     <th>
        Spec
     </th>
-    
+
     <th>
       HP 15-r017dx
     </th>
@@ -29,7 +32,7 @@ At some point in 2014 during a visit back here in the U.S. we picked up some cle
       Chuwi 15.6 Lapbook
     </th>
   </tr>
-  
+
   <tr>
     <td>
       Weight
@@ -43,7 +46,7 @@ At some point in 2014 during a visit back here in the U.S. we picked up some cle
       4.1 lb.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Thickness
@@ -57,7 +60,7 @@ At some point in 2014 during a visit back here in the U.S. we picked up some cle
       0.86 in.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Resolution
@@ -71,7 +74,7 @@ At some point in 2014 during a visit back here in the U.S. we picked up some cle
       1920&#215;1080
     </td>
   </tr>
-  
+
   <tr>
     <td>
       CPU
@@ -85,7 +88,7 @@ At some point in 2014 during a visit back here in the U.S. we picked up some cle
       x5 Quad 1.44Ghz
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Battery
@@ -99,7 +102,7 @@ At some point in 2014 during a visit back here in the U.S. we picked up some cle
       10000 mAh
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Storage
@@ -120,7 +123,7 @@ At some point in 2014 during a visit back here in the U.S. we picked up some cle
     <th>
        Spec
     </th>
-    
+
     <th>
       Toshiba
     </th>
@@ -129,7 +132,7 @@ At some point in 2014 during a visit back here in the U.S. we picked up some cle
       Chuwi 12.3 Lapbook
     </th>
   </tr>
-  
+
   <tr>
     <td>
       Weight
@@ -143,7 +146,7 @@ At some point in 2014 during a visit back here in the U.S. we picked up some cle
       3.08 lb.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Thickness
@@ -157,7 +160,7 @@ At some point in 2014 during a visit back here in the U.S. we picked up some cle
       0.3 in.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Resolution
@@ -171,7 +174,7 @@ At some point in 2014 during a visit back here in the U.S. we picked up some cle
       2736&#215;1824
     </td>
   </tr>
-  
+
   <tr>
     <td>
       CPU
@@ -185,7 +188,7 @@ At some point in 2014 during a visit back here in the U.S. we picked up some cle
       Celeron Quad 1.1Ghz
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Battery
@@ -199,7 +202,7 @@ At some point in 2014 during a visit back here in the U.S. we picked up some cle
       8000 mAh
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Storage

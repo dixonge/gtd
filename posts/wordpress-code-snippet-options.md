@@ -1,12 +1,13 @@
 ---
-title: WordPress Code snippet options
+eleventyNavigation:
+  parent: Website
+  key: WordPress Code snippet options
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-08-04T11:36:15+00:00
-permalink: /wordpress-code-snippet-options/
-status: 'null'
+permalink: /posts/wordpress-code-snippet-options/
 categories:
-  - gtd
+  - Website
 tags:
   - posts
   - links

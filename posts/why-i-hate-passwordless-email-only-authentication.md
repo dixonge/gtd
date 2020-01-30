@@ -1,12 +1,13 @@
 ---
-title: Why I Hate Passwordless Email-only Authentication
+eleventyNavigation:
+  parent: Tools
+  key: Why I Hate Passwordless Email-only Authentication
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-08-07T12:01:22+00:00
-permalink: /why-i-hate-passwordless-email-only-authentication/
-status: 'null'
+permalink: /posts/why-i-hate-passwordless-email-only-authentication/
 categories:
-  - IndieWeb
+  - Tools
 tags:
   - posts
   - notes

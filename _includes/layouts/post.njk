@@ -1,16 +1,34 @@
 ---
-layout: layouts/base.njk
+layout: layouts/base-science.njk
+title: Posts - Glenn 2.0
 templateClass: tmpl-post
+headerClass: elv-header-docs
+layoutClass: elv-layout-toc
+isDocs: true
 ---
-<div class="h-entry post-item">
-<p><a href="{{ post.url | url }}" class="u-url"><h1 class="p-name">{{ title }}</h1></a> - Updated: <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></p>
-<div class="e-content">
-<img src="{{ image }}"><br>
+<div class="elv-toc">
+
+<details open>
+	<summary class="btn-primary benchnine rainbow-active rainbow-active-noanim">Menu</summary>
+	{%- if eleventyNavigation -%}
+		{%- set navKey = eleventyNavigation.key -%}
+	{%- endif -%}
+	{{ collections.sidebarNav | eleventyNavigation("Posts") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+</details>
+
+</div>
+
 {{ content | safe }}
 
-Author: <a rel="author" class="p-author h-card" href="https://glenn.thedixons.net">Glenn Dixon</a> -- See this post's revisions <a href="https://github.com/dixonge/gtd-11ty/commits/master/posts/{{ page.fileSlug }}.md">HERE</a>.
-
-</div></div>
-{% include "layouts/last3.njk" %}
-
-<p><a href="{{ '/' | url }}">← Home</a></p>
+{% if relatedLinks or (relatedKey and collections[ "related-" + relatedKey ].length) %}
+<hr>
+<h3>Related Docs</h3>
+<ul>
+{% for related in collections[ "related-" + relatedKey ] %}
+	<li><a href="{{ related.url }}">{{ related.data.relatedTitle }}</a></li>
+{%- endfor %}
+{% for url,title in relatedLinks %}
+	<li><a href="{{ url }}">{{ title }}</a></li>
+{% endfor %}
+</ul>
+{% endif %}

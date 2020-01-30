@@ -1,21 +1,21 @@
 ---
-title: How to Import Your GoodReads List Into WordPress, for free
+eleventyNavigation:
+  parent: HowTo
+  key: How to Import Your GoodReads List Into WordPress, for free
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-07-28T03:39:57+00:00
-permalink: /how-to-import-your-goodreads-list-into-wordpress-for-free/
-image: /img/2018/07/goodreads.jpg
-status: 'null'
+permalink: /posts/how-to-import-your-goodreads-list-into-wordpress-for-free/
 categories:
   - GoodReads
-  - IndieWeb
-  - OwnYourData
+  - HowTo
 tags:
   - posts
 ---
+![](/img/2018/07/goodreads.jpg)
+
 Here are the steps I took in order to get all of my GoodReads books/reviews over into my IndieWeb-ified Wordpress:
 
-<!-- excerpt -->
 Prerequisites:
 
   * A GoodReads account with a decent amount of books reviewed and/or starred 
@@ -48,7 +48,7 @@ After import you'll need to add some PHP and CSS to display the new custom field
     <?php
     $pages = get_post_meta($post->ID, 'pages', true);
     ?>
-    
+
 
 Your pages will now be assigned to the '$pages' variable, which you can use to display that number like this:
 
@@ -60,12 +60,12 @@ Your pages will now be assigned to the '$pages' variable, which you can use to d
     { 
     // do nothing; } 
     ?> 
-    
+
 
 One thing that does _not_ get imported from GoodReads is book cover images. However, if you have the isbn or isbn13 number, I found a way to hotlink to book cover images using [Open Library][4]. They are specifically set up for just that purpose. Here is my code to assign the isbn to a variable:
 
     $isbn13 = get_post_meta($post->ID, 'isbn13', true);
-    
+
 
 And here is how to structure the html to display a medium-sized book cover image:
 
@@ -81,7 +81,7 @@ And here is how to structure the html to display a medium-sized book cover image
     }
     ?>
 
- [1]: https://wordpress.org/plugins/advanced-custom-fields/
- [2]: https://wordpress.org/plugins/indieweb-post-kinds/
- [3]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjIm9e8rc7cAhVE4qwKHc_6BDcQFjAAegQIAxAC&url=https%3A%2F%2Fwordpress.org%2Fplugins%2Freally-simple-csv-importer%2F&usg=AOvVaw0oJgAp4p5VTMFAzwDJmhhE
- [4]: https://blog.openlibrary.org/2018/05/06/turn-your-website-into-a-library/
+[1]: https://wordpress.org/plugins/advanced-custom-fields/
+[2]: https://wordpress.org/plugins/indieweb-post-kinds/
+[3]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjIm9e8rc7cAhVE4qwKHc_6BDcQFjAAegQIAxAC&url=https%3A%2F%2Fwordpress.org%2Fplugins%2Freally-simple-csv-importer%2F&usg=AOvVaw0oJgAp4p5VTMFAzwDJmhhE
+[4]: https://blog.openlibrary.org/2018/05/06/turn-your-website-into-a-library/

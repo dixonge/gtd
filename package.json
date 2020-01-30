@@ -7,7 +7,6 @@
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy",
-    "build:css": "postcss css/tailwind.css -o css/tailwind-prod.css"
   },
   "repository": {
     "type": "git",
@@ -40,7 +39,6 @@
     "lunr": "^2.3.6",
     "node-fetch": "^2.6.0",
     "sanitize-html": "^1.20.1",
-    "tailwindcss": "^1.1.4",
     "watch": "^1.0.2"
   }
 }

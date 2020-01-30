@@ -1,18 +1,17 @@
 ---
-title: My Career in Desktop Support
+eleventyNavigation:
+  parent: Misc
+  key: My Career in Desktop Support
 author: Glenn Dixon
 layout: layouts/post.njk
-date: 2017-06-21T22:12:18+00:00
-permalink: /my-career-in-desktop-support/
-image: /img/2018/07/officespace.jpg
+permalink: /posts/my-career-in-desktop-support/
 categories:
   - Misc
 tags:
   - posts
 ---
-#
+![](/img/2018/07/officespace.jpg)
 
-<!-- excerpt -->
 The benefits of staying off the corporate ladder
 
 The first time I came even close to having a clue about my 'career' was when I felt 'called' into the ministry. But even then it was just a vague idea - pastor, missionary, music director. It could have been any of those. After marriage and my first child priorities shifted to just paying the bills. I left college and started working. I could type a bit faster than ninety words per minute, so I started doing clerical work, then advanced to word processing. That definitely paid the bills for many years.

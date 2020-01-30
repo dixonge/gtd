@@ -1,15 +1,18 @@
 ---
-title: Manjaro – Too much work
+eleventyNavigation:
+  parent: Tools
+  key: Manjaro – Too much work
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2019-01-10T21:43:56+00:00
-permalink: /manjaro-too-much-work/
-image: /img/manjaro.png
+permalink: /posts/manjaro-too-much-work/
 categories:
   - Tools
 tags:
   - posts
 ---
+![](/img/manjaro.png)
+
 A couple of months ago I got frustrated at something with whatever version of Ubuntu (probably KDE) I was using and then I got the bright idea to switch distros. I tried 4-5 different varieties, but I mainly want to write about Manjaro.
 
 <!-- excerpt -->

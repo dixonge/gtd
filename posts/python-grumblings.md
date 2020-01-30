@@ -1,10 +1,11 @@
 ---
-title: Python grumblings
+eleventyNavigation:
+  parent: Tools
+  key: Python grumblings
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2018-09-04T12:54:09+00:00
-permalink: /python-grumblings/
-status: 'null'
+permalink: /posts/python-grumblings/
 categories:
   - Tools
 tags:

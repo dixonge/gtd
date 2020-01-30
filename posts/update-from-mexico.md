@@ -1,9 +1,10 @@
 ---
-title: Update From Mexico
+eleventyNavigation:
+  parent: Misc
+  key: Update From Mexico
 author: Glenn Dixon
 layout: layouts/post.njk
-date: 2017-09-14T22:18:49+00:00
-permalink: /update-from-mexico/
+permalink: /posts/update-from-mexico/
 categories:
   - Misc
 tags:
@@ -12,7 +13,6 @@ tags:
 ---
 \### Just an update from our new home
 
-<!-- excerpt -->
 Just a quick update, and a timestamp marker -- for when I look back and wonder "Hey, when did we move back to Mexico exactly?"
 
 So the blog has been offline here and there recently. The first time was after we packed everything to get ready for the flight to Mexico. And then the flight, which was scheduled on the last day of our apartment lease, was cancelled. So we stayed with a friend for a couple of nights. Then we flew to Mexico and stayed in a hotel for a couple of days. Then we moved into a rental home. I was finally able to unpack and install my Raspberry Pi again, and that's where this blog lives.

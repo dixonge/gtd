@@ -1,18 +1,19 @@
 ---
-title: The Last Paycheck
+eleventyNavigation:
+  parent: Misc
+  key: The Last Paycheck
 author: Glenn Dixon
 layout: layouts/post.njk
-date: 2017-07-21T22:17:40+00:00
-permalink: /the-last-paycheck/
-image: /img/2018/07/paycheck.jpg
+permalink: /posts/the-last-paycheck/
 categories:
   - Misc
 tags:
   - posts
 ---
+![](/img/2018/07/paycheck.jpg)
+
 Many milestones that have come and gone in the last couple of years:
 
-<!-- excerpt -->
 * We had to move back to Texas
   
 * I had to go back to work

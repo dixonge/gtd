@@ -1,18 +1,20 @@
 ---
-title: Setting Up Wallabag on the Raspberry Pi
+eleventyNavigation:
+  parent: HowTo
+  key: Setting Up Wallabag on the Raspberry Pi
 author: Glenn Dixon
 layout: layouts/post.njk
 date: 2017-06-14T22:15:07+00:00
-permalink: /setting-up-wallabag-on-the-raspberry-pi/
-image: /img/2018/07/wallabag-logo.jpg
+permalink: /posts/setting-up-wallabag-on-the-raspberry-pi/
 categories:
-  - Tools
+  - HowTo
 tags:
   - posts
 ---
+![](/img/2018/07/wallabag-logo.jpg)
+
 In my recent flurry of [indieweb-style][1] activity I decided to go cold turkey with my dependency on certain major service silos. In addition to the general motivation to dump the monolithic, monopolistic mega-corp silos, there was a more practical motivation. Before our big move back to Mexico we are upgrading the laptops. Three years old and upgraded to Windows 10 had me a bit nervous. Also, spinning hard drives. So our new laptops are [straight-from-China cheap][2] with eMMC drives of only 64gb.
 
-<!-- excerpt -->
 <img class="alignnone size-medium wp-image-23" src="/img/2018/07/chuwi-300x300.png" alt="" width="300" height="300" srcset="/img/2018/07/chuwi-300x300.png 300w, /img/2018/07/chuwi-150x150.png 150w, /img/2018/07/chuwi-768x768.png 768w, /img/2018/07/chuwi-100x100.png 100w, /img/2018/07/chuwi.png 1000w" sizes="(max-width: 300px) 100vw, 300px" />
 
 MS Office and even LibreOffice take up a \*lot\* of room. So I cancelled my Office365 subscription (got a full refund, surprisingly) but this had the side effect of reducing my OneDrive space allocation down to about 5GB. In cleaning up the space a bit I managed to accidentally trash the folder which held some of my OneNote folders.
@@ -32,7 +34,7 @@ First, make sure you have the [requirements in place][4]. Most of the instructio
 At the end of the install it will ask for user name and password, etc.
 
 DOCUMENT ROOT: This one is important, otherwise you'll just get a blank page:
-  
+
 \`/var/www/wallabag/web\`
 
 (in my case, it was /var/www/html/wallabag/web)
@@ -59,14 +61,12 @@ Go to the browser extension options and enter the URL for your wallabag installa
 
 And it auto-saves. Once you set a tag, just walk away!
 
-The Android app is simpler to configure - just provide the URL, user name and password. Once it successfully connects, it will automatically create a client on the s
-  
-erver!
+The Android app is simpler to configure - just provide the URL, user name and password. Once it successfully connects, it will automatically create a client on the server!
 
- [1]: http://indieweb.org/
- [2]: http://en.chuwi.com/pc.html
- [3]: http://wallabag.org
- [4]: https://doc.wallabag.org/en/admin/installation/requirements.html
- [5]: https://doc.wallabag.org/en/admin/installation/installation.html
- [6]: https://addons.mozilla.org/en-US/firefox/addon/wallabagger/
- [7]: https://wallabag.org/en/news/wallabagger-howto
+[1]: http://indieweb.org/
+[2]: http://en.chuwi.com/pc.html
+[3]: http://wallabag.org
+[4]: https://doc.wallabag.org/en/admin/installation/requirements.html
+[5]: https://doc.wallabag.org/en/admin/installation/installation.html
+[6]: https://addons.mozilla.org/en-US/firefox/addon/wallabagger/
+[7]: https://wallabag.org/en/news/wallabagger-howto

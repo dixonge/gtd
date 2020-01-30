@@ -1,18 +1,19 @@
 ---
-title: Twenty Years of TheDixons.net
+eleventyNavigation:
+  parent: Misc
+  key: Twenty Years of TheDixons.net
 author: Glenn Dixon
 layout: layouts/post.njk
-date: 2018-07-27T19:38:59+00:00
-permalink: /twenty-years-of-thedixons-net/
-image: /img/2018/07/thedixons.net-registration.png
+permalink: /posts/twenty-years-of-thedixons-net/
 categories:
   - Misc
 tags:
   - posts
 ---
+![](/img/2018/07/thedixons.net-registration.png)
+
 I can't believe I have owned a domain name for its entire 20-year history! This main domain (thedixons.net) was first registered 20 years ago as of tomorrow, July 28. Here is a copy of the original domain name registration. $70 for two years! (click to embiggen)
 
-<!-- excerpt -->
 ![](/img/2018/07/thedixons.net-registration.png)
 
 I have changed the content so many times, it isn't even funny, but the focus was always my family history. Here is one of the earliest screenshots of my home page, courtesy of [Archive.org][2]
@@ -33,8 +34,8 @@ Archive.org has grabbed 163 snapshots of the site in 20 years. There were period
 
 I'm very proud of this, in a nerdy sort of way, of course. A personal domain was pretty rare back then. But I'm also proud at having the follow-through to still be here, with a renewed enthusiasm for the old days when one crafted their own content. This current [IndieWeb][5] initiative on this subdomain (glenn.thedixons.net) is one result of that. Who knows, maybe some day this section will have its own twenty-year history?
 
- [1]: /img/2018/07/thedixons.net-registration.png
- [2]: https://web.archive.org/web/19981205153739/http://thedixons.net:80/
- [3]: /img/2018/07/Screenshot_20180727_142818.png
- [4]: /img/2018/07/Screenshot_20180727_142230.png
- [5]: http://indieweb.org
+[1]: /img/2018/07/thedixons.net-registration.png
+[2]: https://web.archive.org/web/19981205153739/http://thedixons.net:80/
+[3]: /img/2018/07/Screenshot_20180727_142818.png
+[4]: /img/2018/07/Screenshot_20180727_142230.png
+[5]: http://indieweb.org
