@@ -36,7 +36,6 @@ body {
   margin: 0 auto;
   font-family: sans-serif;
   color: var(--black);
-  background:linear-gradient(#5ebd3e 0, #ffb900 16.66%, #f78200 33.32%, #e23838 49.98%, #973999 66.64%, #009cdf 83.30%);
   background-repeat: no-repeat;
   background-attachment: fixed;
   width: 100%;
@@ -47,6 +46,9 @@ p:last-child {
 }
 p {
   text-align: left;
+}
+.review p {
+  padding-top: 1em;
 }
 p,
 .tmpl-post li,
@@ -340,11 +342,11 @@ a[href].direct-link:focus:visited,
 }
 @media (min-width: 64em) { /* 1024px */
 	.elv-toc {
-		position: absolute;
 		left: -14rem;
     width: 13rem;
     padding: 36px 0;
     margin-top: -15px;
+    margin-right: 15px;
 	}
 	.elv-toc details > summary {
 		margin-top: 0;
@@ -455,4 +457,83 @@ footer.elv-layout {
 		margin-right: 1rem;
 		position: relative;
 	}
+}
+
+/* Big primary button */
+.btn-form,
+.btn-primary {
+	cursor: pointer;
+	border: 2px solid;
+	font-size: 1em;
+	text-align: center;
+	font-weight: 700;
+	text-transform: uppercase;
+	text-decoration: none;
+	background-color: #fff;
+}
+.btn-form {
+	border-radius: 1em;
+	padding-left: .75em;
+	padding-right: .75em;
+	box-shadow: 0 4px 3px -3px #000;
+}
+.btn-primary {
+	display: block;
+	border-radius: 1.5em;
+	margin: 0;
+	padding: .5em 1em .4em;
+	box-shadow: 0 8px 6px -6px #000;
+}
+.btn-primary-why-are-you-doing-this {
+	margin-top: 1.5em;
+}
+.btn-form:hover,
+.btn-primary:hover {
+	border-color: transparent;
+	background-color: #222;
+	color: #fff;
+}
+.btn-primary:hover {
+	border-color: rgba(255,255,255,.3);
+}
+.btn-primary span {
+	text-transform: none;
+}
+.btn-primary + span {
+	display: block;
+	text-align: center;
+	margin-top: .25em;
+	font-size: .75em;
+}
+.btn-c {
+	margin-left: auto;
+	margin-right: auto;
+}
+@media (min-width: 20em) {
+	.btn-primary {
+		font-size: 6vw;
+	}
+	.btn-primary-sm {
+		font-size: 1.4em;
+	}
+}
+@media (min-width: 28.125em) { /* 450px */
+	.btn-primary-sm {
+		font-size: 5.6vw;
+	}
+}
+@media (min-width: 53.125em) { /* 850px */
+	.btn-primary-sm {
+		font-size: 2.666666666667em; /* 48px /18 */
+	}
+}
+@media (min-width: 46.875em) { /* 750px */
+	.btn-primary-why-are-you-doing-this {
+		margin-left: calc( (90vw - 42rem) / -2 );
+		width: calc(90vw - 2rem);
+	}
+}
+
+.benchnine {
+	font-family: BenchNine, system-ui, sans-serif;
 }

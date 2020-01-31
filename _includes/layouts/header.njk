@@ -1,9 +1,9 @@
-<header>
-      <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
-      <div class="nav">
-      <ul class="nav">
+<header class="bg-blue-300">
+      <h1 class="px-4 text-center mt-4 mb-4 text-4xl font-bold"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+      <div class="flex">
+      <ul class="p list-none float-left ml-4">
         {%- for nav in collections.nav -%}
-        <li class="nav-item{% if nav.url == page.url %} nav-item-active{% endif %}"><a href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a></li>
+        <li class="inline-flex mr-4{% if nav.url == page.url %} font-bold underline{% endif %}"><a href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a></li>
         {%- endfor -%}
       </ul>
       </div>

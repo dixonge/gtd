@@ -7,10 +7,10 @@ layoutClass: elv-layout-toc
 isDocs: true
 ---
 
-<div class="elv-toc">
+<div class="elv-toc float-left mr-8">
 
 <details open>
-	<summary class="btn-primary benchnine rainbow-active rainbow-active-noanim">Menu</summary>
+	<summary class="cursor-pointer border-2 border-solid text-base text-center uppercase no-underline bg-white font-sans">Menu</summary>
 	{%- if eleventyNavigation -%}
 		{%- set navKey = eleventyNavigation.key -%}
 	{%- endif -%}
@@ -22,24 +22,28 @@ isDocs: true
 {% if "books" in tags %}
 
 <div class="h-entry">
-<p><a href="{{ url | url }}" class="u-url"><h1 class="p-name">{{ eleventyNavigation.key }}</h1></a></p>
+<p><a href="{{ url | url }}" class="u-url text-4xl"><h1 class="p-name">{{ eleventyNavigation.key }}</h1></a></p>
 <div class="e-content">
     {% if isbn13 %}
-      <img class="book-image mb-20 mr-20 float-left" src="https://covers.openlibrary.org/b/isbn/{{ isbn13 }}.jpg"></img>
+      <img class="book-image mb-1 mr-1 float-left" src="https://covers.openlibrary.org/b/isbn/{{ isbn13 }}.jpg"></img>
     {% elif isbn %}
-      <img class="book-image mb-20 mr-20 float-left" src="https://covers.openlibrary.org/b/isbn/{{ isbn }}.jpg"></img>
+      <img class="book-image mb-1 mr-1 float-left" src="https://covers.openlibrary.org/b/isbn/{{ isbn }}.jpg"></img>
     {% endif %}
 <p>Author: {{ bookauthor }}
 <p>Pages: {{ pages }}
 <p>Year: {{ yearpublished }}
 <p>My Rating: {{ myrating }}
-<div class="clear"></div>
-
+<p>
+<hr>
+<p>
 {% endif %}
+</div>
+<div class="review">
 
 {{ content | safe }}
 
 </div>
+
 {#
 {% if eleventyNavigation and eleventyNavigation.key %}
 {%- set navKey = eleventyNavigation.parent or eleventyNavigation.key -%}

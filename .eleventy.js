@@ -16,11 +16,6 @@ module.exports = function(eleventyConfig) {
     return collection.getAll().filter(item => (item.data.tags || []).indexOf("news") === -1);
   });
 
-  eleventyConfig.setFrontMatterParsingOptions({
-    excerpt: "true",
-    excerpt_separator: "<!-- excerpt -->"
-  });
-
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   eleventyConfig.addFilter("readableDate", dateObj => {
