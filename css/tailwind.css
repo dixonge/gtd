@@ -1,3 +1,6 @@
-@tailwind components;
-
-@tailwind utilities;
+@import "index.css";
+@import "prism-base16-monokai.dark.css";
+/* purgecss start ignore */
+@import "tailwindcss/components";
+/* purgecss end ignore */
+@import "tailwindcss/utilities";
