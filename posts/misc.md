@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: Posts
   key: Misc
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 permalink: /misc/
 categories:
   - Misc

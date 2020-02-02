@@ -4,7 +4,6 @@ eleventyNavigation:
   key: A Year in Provence
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:10:16+00:00
 permalink: /books/a-year-in-provence/
 Book Id:
   - 40189

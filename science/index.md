@@ -1,14 +1,9 @@
 ---
-tags:
-- nav
-navtitle: Science
 permalink: "/science/"
 eleventyNavigation:
-  key: Losing
-  title: Losing My Faith In Science
+  key: Losing My Faith In Science
+  order: 1
 ---
-# Losing My Faith In Science
-
 ![](/img/losing-my-faith.png)
 
 Before I lost my faith in science, I lost my faith in the religion of my childhood, fundamentalist christianity.

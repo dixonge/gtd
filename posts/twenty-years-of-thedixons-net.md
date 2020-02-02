@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: Misc
   key: Twenty Years of TheDixons.net
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 permalink: /posts/twenty-years-of-thedixons-net/
 categories:
   - Misc
@@ -13,8 +13,6 @@ tags:
 ![](/img/2018/07/thedixons.net-registration.png)
 
 I can't believe I have owned a domain name for its entire 20-year history! This main domain (thedixons.net) was first registered 20 years ago as of tomorrow, July 28. Here is a copy of the original domain name registration. $70 for two years! (click to embiggen)
-
-![](/img/2018/07/thedixons.net-registration.png)
 
 I have changed the content so many times, it isn't even funny, but the focus was always my family history. Here is one of the earliest screenshots of my home page, courtesy of [Archive.org][2]
 

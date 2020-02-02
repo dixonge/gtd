@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: Tools
   key: Kanban NOT on my own PC
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 date: 2018-11-14T23:10:03+00:00
 permalink: /posts/kanban-not-on-my-own-pc/
 categories:

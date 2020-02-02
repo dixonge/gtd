@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: Misc
   key: The Odd Persistence of Superstition
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 permalink: /posts/the-odd-persistence-of-superstition/
 status: 'null'
 categories:

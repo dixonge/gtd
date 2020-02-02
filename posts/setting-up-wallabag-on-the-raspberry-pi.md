@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: HowTo
   key: Setting Up Wallabag on the Raspberry Pi
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 date: 2017-06-14T22:15:07+00:00
 permalink: /posts/setting-up-wallabag-on-the-raspberry-pi/
 categories:

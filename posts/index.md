@@ -1,15 +1,12 @@
 ---
 title: Posts - Glenn 2.0
-layout: layouts/post.njk
-tags:
-  - nav
-navtitle: Posts
+layout: layouts/home.njk
 permalink: /posts/
 eleventyNavigation:
   key: Posts
   title: Posts
+  order: 3
 ---
-<h1>Posts</h1>
 Posts/articles on a variety of topics:
 
 - [This site](/this-site/)

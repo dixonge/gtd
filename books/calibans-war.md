@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Caliban’s War '
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:05:39+00:00
 permalink: /books/calibans-war-expanse-2/
 Book Id:
   - 18142735

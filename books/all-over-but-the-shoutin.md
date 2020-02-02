@@ -4,7 +4,6 @@ eleventyNavigation:
   key: All Over But the Shoutin’
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:32+00:00
 permalink: /books/all-over-but-the-shoutin/
 Book Id:
   - 470495

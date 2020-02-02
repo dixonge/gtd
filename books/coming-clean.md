@@ -4,7 +4,6 @@ eleventyNavigation:
   key: Coming Clean
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:05:43+00:00
 permalink: /books/coming-clean/
 Book Id:
   - 35260199

@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: Tools
   key: Fun with exiftool!
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 date: 2018-08-01T21:23:54+00:00
 permalink: /posts/fun-with-exiftool/
 categories:

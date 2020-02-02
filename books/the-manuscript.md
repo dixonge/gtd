@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'The Manuscript '
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:08:27+00:00
 permalink: /books/the-manuscript/
 Book Id:
   - 13438643

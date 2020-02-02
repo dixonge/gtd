@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Fast Times in Palestine'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:22+00:00
 permalink: /books/fast-times-in-palestine/
 Book Id:
   - 16000331

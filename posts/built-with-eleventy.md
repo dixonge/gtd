@@ -1,9 +1,9 @@
 ---
 eleventyNavigation:
-  parent: Website
+  parent: This Site
   key: Built with Eleventy
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 date: 2019-09-24
 permalink: /posts/built-with-eleventy/
 categories:

@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Ishmael'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:05:51+00:00
 permalink: /books/ishmael/
 Book Id:
   - 8947338

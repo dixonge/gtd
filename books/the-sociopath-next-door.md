@@ -4,7 +4,6 @@ eleventyNavigation:
   key: The Sociopath Next Door
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:06:05+00:00
 permalink: /books/the-sociopath-next-door/
 Book Id:
   - 6557602

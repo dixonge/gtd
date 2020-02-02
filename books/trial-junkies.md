@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Trial Junkies '
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:00+00:00
 permalink: /books/trial-junkies-trial-junkies-1/
 Book Id:
   - 13820672

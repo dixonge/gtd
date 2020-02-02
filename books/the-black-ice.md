@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'The Black Ice'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:10:43+00:00
 permalink: /books/the-black-ice/
 Book Id:
   - 24244

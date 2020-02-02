@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Married with Luggage'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:06:48+00:00
 permalink: /books/married-with-luggage/
 Book Id:
   - 21946734

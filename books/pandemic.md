@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Pandemic '
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:05:38+00:00
 permalink: /books/pandemic/
 Book Id:
   - 34811896

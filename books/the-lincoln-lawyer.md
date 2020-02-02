@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'The Lincoln Lawyer '
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:10:18+00:00
 permalink: /books/the-lincoln-lawyer/
 Book Id:
   - 79885

@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Mexican Days'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:08:08+00:00
 permalink: /books/mexican-days/
 Book Id:
   - 1011812

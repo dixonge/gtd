@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'How Not to Die'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:06:55+00:00
 permalink: /books/how-not-to-die/
 Book Id:
   - 26186404

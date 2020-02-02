@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Blood Work'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:10:38+00:00
 permalink: /books/blood-work/
 Book Id:
   - 32504

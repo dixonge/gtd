@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'I Promise I Won’t Kill You'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:14+00:00
 permalink: /books/i-promise-i-wont-kill-you/
 Book Id:
   - 22584319

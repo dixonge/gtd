@@ -1,10 +1,7 @@
 ---
 eleventyNavigation:
-  key: Polarized
-  title: Openly Polarized
-  parent: Losing
+  key: Openly Polarized
+  parent: Losing My Faith In Science
   order: 9
 ---
-# Openly Polarized
-
 ![](/img/)

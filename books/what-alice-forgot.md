@@ -4,7 +4,6 @@ eleventyNavigation:
   key: What Alice Forgot
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:06:37+00:00
 permalink: /books/what-alice-forgot/
 Book Id:
   - 11459962

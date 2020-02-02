@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Profit Over People'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:08:49+00:00
 permalink: /books/profit-over-people/
 Book Id:
   - 62659

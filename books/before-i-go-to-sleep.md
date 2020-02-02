@@ -4,7 +4,6 @@ eleventyNavigation:
   key: Before I Go to Sleep
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:06:18+00:00
 permalink: /books/before-i-go-to-sleep/
 Book Id:
   - 30362787

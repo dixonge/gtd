@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Life on Foot'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:11+00:00
 permalink: /books/life-on-foot-a-walk-across-america/
 Book Id:
   - 22174807

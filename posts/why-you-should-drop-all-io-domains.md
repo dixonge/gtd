@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: Misc
   key: Why You Should Drop All .io Domains
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 permalink: /posts/why-you-should-drop-all-io-domains/
 categories:
   - Misc

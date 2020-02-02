@@ -1,12 +1,9 @@
 ---
 eleventyNavigation:
-  key: Apocalypse
-  title: Apocalypse Mirage
-  parent: Losing
+  key: Apocalypse Mirage
+  parent: Losing My Faith In Science
   order: 8
 ---
-# Apocalypse Mirage
-
 ![](/img/)
 
 > Apocalypse, Apocalypse,

@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'The Last Coyote'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:10:34+00:00
 permalink: /books/the-last-coyote/
 Book Id:
   - 49353

@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: Devices
   key: Minimal Configuration for Modern Laptops
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 date: 2017-07-01T22:06:35+00:00
 permalink: /posts/minimal-configuration-for-modern-laptops/
 image: /img/2018/07/chuwi.png
@@ -18,205 +18,24 @@ tags:
 
 At some point in 2014 during a visit back here in the U.S. we picked up some clearance sale laptops at BestBuy. My HP touchscreen and the wife's Toshiba were both 15&#8243;" and at great prices. They have both performed well and handled the upgrade to Windows 10 admirably. However, now that we are preparing to move back to Mexico it seems like a good time for an upgrade. We have acquired two off-brand <a>Chinese laptops</a> that drop the spinning hard drive and any CD/DVD tray in exchange for quieter, cooler running, longer battery life, less bulk and less weight. This would probably be a good place to insert a small table 🙂
 
-<table>
-  <tr>
-    <th>
-       Spec
-    </th>
+|Spec|HP 15-r017dx|Chuwi 15.6 Lapbook|
+|--- |--- |--- |
+|Weight|5.34 lb.|4.1 lb.|
+|Thickness|1.01 in.|0.86 in.|
+|Resolution|1366×768|1920×1080|
+|CPU|i3 Dual 1.7Ghz|x5 Quad 1.44Ghz|
+|Battery|2800 mAh|10000 mAh|
+|Storage|750GB|64GB|
 
-    <th>
-      HP 15-r017dx
-    </th>
-    
-    <th>
-      Chuwi 15.6 Lapbook
-    </th>
-  </tr>
+|Spec|Toshiba|Chuwi 12.3 Lapbook|
+|--- |--- |--- |
+|Weight|5.4 lb.|3.08 lb.|
+|Thickness|1.27 in.|0.3 in.|
+|Resolution|1366×768|2736×1824|
+|CPU|i3 Dual 2.5Ghz|Celeron Quad 1.1Ghz|
+|Battery|4000 mAh|8000 mAh|
+|Storage|750GB|64GB|
 
-  <tr>
-    <td>
-      Weight
-    </td>
-    
-    <td>
-      5.34 lb.
-    </td>
-    
-    <td>
-      4.1 lb.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Thickness
-    </td>
-    
-    <td>
-      1.01 in.
-    </td>
-    
-    <td>
-      0.86 in.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Resolution
-    </td>
-    
-    <td>
-      1366&#215;768
-    </td>
-    
-    <td>
-      1920&#215;1080
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      CPU
-    </td>
-    
-    <td>
-      i3 Dual 1.7Ghz
-    </td>
-    
-    <td>
-      x5 Quad 1.44Ghz
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Battery
-    </td>
-    
-    <td>
-      2800 mAh
-    </td>
-    
-    <td>
-      10000 mAh
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Storage
-    </td>
-    
-    <td>
-      750GB
-    </td>
-    
-    <td>
-      64GB
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>
-       Spec
-    </th>
-
-    <th>
-      Toshiba
-    </th>
-    
-    <th>
-      Chuwi 12.3 Lapbook
-    </th>
-  </tr>
-
-  <tr>
-    <td>
-      Weight
-    </td>
-    
-    <td>
-      5.4 lb.
-    </td>
-    
-    <td>
-      3.08 lb.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Thickness
-    </td>
-    
-    <td>
-      1.27 in.
-    </td>
-    
-    <td>
-      0.3 in.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Resolution
-    </td>
-    
-    <td>
-      1366&#215;768
-    </td>
-    
-    <td>
-      2736&#215;1824
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      CPU
-    </td>
-    
-    <td>
-      i3 Dual 2.5Ghz
-    </td>
-    
-    <td>
-      Celeron Quad 1.1Ghz
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Battery
-    </td>
-    
-    <td>
-      4000 mAh
-    </td>
-    
-    <td>
-      8000 mAh
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Storage
-    </td>
-    
-    <td>
-      750GB
-    </td>
-    
-    <td>
-      64GB
-    </td>
-  </tr>
-</table>
 
 So one of the main tradeoffs is hard drive space. This means a transition to small USB or MicroSD cards for storage. Not a problem, actually. Backups in the cloud. All good!
 

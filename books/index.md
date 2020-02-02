@@ -1,13 +1,11 @@
 ---
 layout: layouts/books.njk
 title: Books - Glenn 2.0
-tags:
-  - nav
-navtitle: Books
 permalink: /books/
 eleventyNavigation:
   key: Books
   title: Book Reviews
+  order: 4
 ---
 <div class="ml-56">
 <h1>Book Reviews</h1>

@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Flour Water Salt Yeast'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:06:02+00:00
 permalink: /books/flour-water-salt-yeast/
 Book Id:
   - 18780799

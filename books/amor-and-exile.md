@@ -4,7 +4,6 @@ eleventyNavigation:
   key: Amor and Exile
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:07+00:00
 permalink: /books/amor-and-exile/
 Book Id:
   - 20621701

@@ -1,5 +1,5 @@
 ---
-layout: layouts/base-science.njk
+layout: layouts/base.njk
 title: Books - Glenn 2.0
 templateClass: elv-docs
 headerClass: elv-header-docs
@@ -14,10 +14,18 @@ isDocs: true
 	{%- if eleventyNavigation -%}
 		{%- set navKey = eleventyNavigation.key -%}
 	{%- endif -%}
-	{{ collections.sidebarNav | eleventyNavigation("Books") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	{{ collections.sidebarNav | eleventyNavigation | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+{#	{{ collections.sidebarNav | eleventyNavigation(navKey) | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }} #}
 </details>
 
 </div>
+
+{% if eleventyNavigation and eleventyNavigation.key and eleventyNavigation.parent %}
+<nav class="breadcrumb mb-4" aria-labelledby="breadcrumb">
+  <h2 class="absolute h-px w-px overflow-hidden" id="breadcrumb">Breadcrumbs: </h2>
+  {{ collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) | eleventyNavigationToHtml({ listClass: 'lo lo-inline', listItemClass: 'lo-c', activeListItemClass: 'breadcrumb-active' }) | safe }}
+</nav>
+{% endif %}
 
 {% if "books" in tags %}
 

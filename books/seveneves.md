@@ -3,7 +3,6 @@ eleventyNavigation:
   parent: Books
   key: "Seveneves"
 layout: layouts/books.njk
-date: 2019-06-04T15:34:04-05:00
 author: Glenn Dixon
 bookauthor: Neal Stephenson
 author_l-f: Stephenson, Neal

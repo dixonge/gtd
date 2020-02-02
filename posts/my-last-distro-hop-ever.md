@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: Tools
   key: My last distro hop ever!
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 date: 2019-05-06T17:07:33+00:00
 permalink: /posts/my-last-distro-hop-ever/
 categories:

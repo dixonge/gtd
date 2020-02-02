@@ -4,7 +4,6 @@ eleventyNavigation:
   key: The God Delusion
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:10:28+00:00
 permalink: /books/the-god-delusion/
 Book Id:
   - 14743

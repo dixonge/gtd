@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Born to Run'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:56+00:00
 permalink: /books/born-to-run/
 Book Id:
   - 6289283

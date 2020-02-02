@@ -4,7 +4,6 @@ eleventyNavigation:
   key: Snow Crash
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:08:59+00:00
 permalink: /books/snow-crash/
 Book Id:
   - 830

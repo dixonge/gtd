@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'The Wild Trees'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:35+00:00
 permalink: /books/the-wild-trees/
 Book Id:
   - 22163

@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Ugly Americans'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:09:59+00:00
 permalink: /books/ugly-americans/
 Book Id:
   - 86161

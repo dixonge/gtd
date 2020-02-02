@@ -4,7 +4,6 @@ eleventyNavigation:
   key: The Life and Times of the Thunderbolt Kid
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:06:30+00:00
 permalink: /books/the-life-and-times-of-the-thunderbolt-kid/
 Book Id:
   - 6582214

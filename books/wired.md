@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Wired '
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:06:12+00:00
 permalink: /books/wired-wired-1/
 Book Id:
   - 16150119

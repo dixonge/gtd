@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Behind the Beautiful Forevers'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:34+00:00
 permalink: /books/behind-the-beautiful-forevers/
 Book Id:
   - 11869272

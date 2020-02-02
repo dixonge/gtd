@@ -1,12 +1,9 @@
 ---
 eleventyNavigation:
-  key: Replication
-  title: The Replication Crisis
-  parent: Losing
+  key: The Replication Crisis
+  parent: Losing My Faith In Science
   order: 7
 ---
-# The Replication Crisis
-
 ![](/img/)
 
 This one goes beyond just climate. The recent 'scandal' began in 2005 when John Ioannides wrote a paper about the poor replication stats in psychology. It has since spread to most other disciplines. 

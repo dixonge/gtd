@@ -4,7 +4,6 @@ eleventyNavigation:
   key: Earthcore
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:44+00:00
 permalink: /books/earthcore/
 Book Id:
   - 303110

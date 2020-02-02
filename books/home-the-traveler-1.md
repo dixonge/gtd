@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Home '
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:06:15+00:00
 permalink: /books/home-the-traveler-1/
 Book Id:
   - 28218574

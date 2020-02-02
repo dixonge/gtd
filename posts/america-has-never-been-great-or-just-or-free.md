@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: Misc
   key: America Has Never Been Great, or Just, or Free
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 permalink: /posts/america-has-never-been-great-or-just-or-free/
 categories:
   - Misc

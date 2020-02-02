@@ -4,7 +4,6 @@ eleventyNavigation:
   key: Ancestor
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:52+00:00
 permalink: /books/ancestor/
 Book Id:
   - 481601

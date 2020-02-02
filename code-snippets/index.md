@@ -3,7 +3,7 @@ title: Code Snippets - Glenn 2.0
 author: Glenn Dixon
 type: page
 date: 2018-07-21T22:05:25+00:00
-layout: layouts/base-science.njk
+layout: layouts/home.njk
 tags:
   - nav
 navtitle: Code Snippets

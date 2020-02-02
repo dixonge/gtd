@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Around the World in 50 Years'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:06:33+00:00
 permalink: /books/around-the-world-in-50-years/
 Book Id:
   - 25206557

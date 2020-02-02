@@ -4,7 +4,6 @@ eleventyNavigation:
   key: The Devil in the White City
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2007-11-28
 permalink: /books/the-devil-in-the-white-city/
 book_id:
   - 259028

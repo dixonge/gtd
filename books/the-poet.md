@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'The Poet'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:10:49+00:00
 permalink: /books/the-poet/
 Book Id:
   - 32506

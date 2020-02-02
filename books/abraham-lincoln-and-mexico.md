@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Abraham Lincoln and Mexico'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:05:44+00:00
 permalink: /books/abraham-lincoln-and-mexico/
 Book Id:
   - 30169043

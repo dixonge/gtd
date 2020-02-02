@@ -11,7 +11,7 @@ Author l-f:
   - Anonymous, Anonymous
 myrating: ★
 pages: 1590
-yearpublished: 2008
+yearpublished: 1647
 dateread:
   - 2003/01/01
 status: read

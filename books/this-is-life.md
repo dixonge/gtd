@@ -4,7 +4,6 @@ eleventyNavigation:
   key: This Is Life a Jack Palms Novel
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:08:33+00:00
 permalink: /books/this-is-life-a-jack-palms-novel/
 Book Id:
   - 14377094

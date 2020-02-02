@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Night of the Assassin '
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:02+00:00
 permalink: /books/night-of-the-assassin-assassin-1/
 Book Id:
   - 13252282

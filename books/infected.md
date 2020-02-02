@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Infected '
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:08:06+00:00
 permalink: /books/infected-infected-1/
 Book Id:
   - 2331954

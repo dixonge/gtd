@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Sit. Stay. Heal.'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-29T02:15:30+00:00
 permalink: /books/sit-stay-heal/
 image: /img/2018/07/sitstayheaL.jpg
 bookauthor: Spike Gillespie

@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Those Girls'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:06:36+00:00
 permalink: /books/those-girls-a-novel/
 Book Id:
   - 24420352

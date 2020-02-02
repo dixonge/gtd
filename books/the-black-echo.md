@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'The Black Echo'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:10:13+00:00
 permalink: /books/the-black-echo/
 Book Id:
   - 32508

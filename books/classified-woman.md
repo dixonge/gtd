@@ -4,7 +4,6 @@ eleventyNavigation:
   key: Classified Woman
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:08:54+00:00
 permalink: /books/classified-woman/
 Book Id:
   - 13607987

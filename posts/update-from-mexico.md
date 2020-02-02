@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: Misc
   key: Update From Mexico
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 permalink: /posts/update-from-mexico/
 categories:
   - Misc
@@ -11,7 +11,7 @@ tags:
   - posts
   - notes
 ---
-\### Just an update from our new home
+### Just an update from our new home
 
 Just a quick update, and a timestamp marker -- for when I look back and wonder "Hey, when did we move back to Mexico exactly?"
 

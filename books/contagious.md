@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Contagious '
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:59+00:00
 permalink: /books/contagious-infected-2/
 Book Id:
   - 3605324

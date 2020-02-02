@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Angels & Demons  '
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:10:23+00:00
 permalink: /books/angels-demons-robert-langdon-1/
 Book Id:
   - 960

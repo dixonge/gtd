@@ -1,7 +1,7 @@
 ---
 title: Back to the Apple ecosystem
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 date: 2019-07-04T12:23:24+00:00
 permalink: /apple-it-just-works/
 categories:

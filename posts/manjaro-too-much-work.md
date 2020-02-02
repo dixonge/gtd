@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: Tools
   key: Manjaro – Too much work
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 date: 2019-01-10T21:43:56+00:00
 permalink: /posts/manjaro-too-much-work/
 categories:

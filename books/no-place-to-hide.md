@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'No Place to Hide'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:10+00:00
 permalink: /books/no-place-to-hide/
 Book Id:
   - 20335181

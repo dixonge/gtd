@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: Misc
   key: My Career in Desktop Support
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 permalink: /posts/my-career-in-desktop-support/
 categories:
   - Misc

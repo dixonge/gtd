@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Beacon 23 '
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:05:54+00:00
 permalink: /books/beacon-23-beacon-23-1-5/
 Book Id:
   - 26247312

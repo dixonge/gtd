@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: Posts
   key: HowTo
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 date: 2020-01-29
 permalink: /howto/
 categories:

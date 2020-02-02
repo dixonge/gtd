@@ -1,1 +1,1 @@
-{ "layout": "layouts/indieweb.njk"  }
+{ "layout": "layouts/home.njk"  }

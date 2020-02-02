@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Trunk Music'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:10:35+00:00
 permalink: /books/trunk-music/
 Book Id:
   - 58962

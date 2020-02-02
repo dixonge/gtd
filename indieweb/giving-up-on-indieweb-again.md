@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   parent: IndieWeb
-  key: Giving up on IndieWeb - Again!
+  key: Giving Up On IndieWeb - Again!
 author: Glenn Dixon
 permalink: /indieweb/giving-up-on-indieweb-again/
 categories:

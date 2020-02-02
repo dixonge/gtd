@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'The Mysterious Island '
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:08:44+00:00
 permalink: /books/the-mysterious-island/
 Book Id:
   - 32831

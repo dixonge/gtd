@@ -4,7 +4,6 @@ eleventyNavigation:
   key: Ocean of Storms
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:06:24+00:00
 permalink: /books/ocean-of-storms/
 Book Id:
   - 30624628

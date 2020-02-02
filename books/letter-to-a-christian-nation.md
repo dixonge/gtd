@@ -1,10 +1,9 @@
 ---
 eleventyNavigation:
   parent: Books
-  key: Letter to a Christian Nation
+  key: 'Letter to a Christian Nation'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:10:24+00:00
 permalink: /books/letter-to-a-christian-nation/
 Book Id:
   - 51299

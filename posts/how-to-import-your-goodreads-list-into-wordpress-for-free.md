@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: HowTo
   key: How to Import Your GoodReads List Into WordPress, for free
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 date: 2018-07-28T03:39:57+00:00
 permalink: /posts/how-to-import-your-goodreads-list-into-wordpress-for-free/
 categories:

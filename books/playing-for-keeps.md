@@ -4,7 +4,6 @@ eleventyNavigation:
   key: Playing for Keeps
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:25+00:00
 permalink: /books/playing-for-keeps/
 Book Id:
   - 2855010

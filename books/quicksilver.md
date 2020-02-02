@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Quicksilver '
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:08:38+00:00
 permalink: /books/quicksilver-the-baroque-cycle-1/
 Book Id:
   - 823

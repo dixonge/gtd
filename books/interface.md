@@ -4,7 +4,6 @@ eleventyNavigation:
   key: Interface
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:08:11+00:00
 permalink: /books/interface/
 Book Id:
   - 828

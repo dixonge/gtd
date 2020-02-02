@@ -1,9 +1,9 @@
 ---
 eleventyNavigation:
-  parent: Website
+  parent: This Site
   key: WordPress Code snippet options
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 date: 2018-08-04T11:36:15+00:00
 permalink: /posts/wordpress-code-snippet-options/
 categories:

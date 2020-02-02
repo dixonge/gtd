@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Five Days at Memorial'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:06:39+00:00
 permalink: /books/five-days-at-memorial/
 Book Id:
   - 19473852

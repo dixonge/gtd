@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'It’s All Too Much'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:49+00:00
 permalink: /books/its-all-too-much/
 Book Id:
   - 34266

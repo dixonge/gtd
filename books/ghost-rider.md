@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Ghost Rider'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:08:04+00:00
 permalink: /books/ghost-rider/
 Book Id:
   - 129356

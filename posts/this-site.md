@@ -1,10 +1,9 @@
 ---
 eleventyNavigation:
   parent: Posts
-  key: Website
-  title: This Site
+  key: This Site
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 date: 2020-01-29
 permalink: /this-site/
 categories:

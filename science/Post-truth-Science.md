@@ -1,12 +1,9 @@
 ---
 eleventyNavigation:
-  key: Truth
-  title: Post-Truth Science
-  parent: Losing
+  key: Post-Truth Science
+  parent: Losing My Faith In Science
   order: 10
 ---
-# Post-Truth Science
-
 ![](/img/)
 
 Beyond replication are issues that go more to the heart of the entire basis of modern science: Peer review and the general state of research funding and the resulting built-in incentives to do whatever it takes to get published. 

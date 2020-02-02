@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Something Porcine This Way Comes '
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:06:53+00:00
 permalink: /books/something-porcine-this-way-comes-dunkin-the-vampire-slayer-1/
 Book Id:
   - 9097550

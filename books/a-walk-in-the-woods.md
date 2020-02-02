@@ -4,7 +4,6 @@ eleventyNavigation:
   key: A Walk in the Woods
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:10:30+00:00
 permalink: /books/a-walk-in-the-woods/
 Book Id:
   - 9791

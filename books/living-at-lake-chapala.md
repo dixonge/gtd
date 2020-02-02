@@ -4,7 +4,6 @@ eleventyNavigation:
   key: Living at Lake Chapala
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:06:51+00:00
 permalink: /books/living-at-lake-chapala/
 Book Id:
   - 19298805

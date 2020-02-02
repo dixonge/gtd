@@ -4,7 +4,6 @@ eleventyNavigation:
   key: The Moon is a Harsh Mistress
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:42+00:00
 permalink: /books/the-moon-is-a-harsh-mistress/
 Book Id:
   - 16690

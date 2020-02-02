@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: Misc
   key: The Last Paycheck
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 permalink: /posts/the-last-paycheck/
 categories:
   - Misc

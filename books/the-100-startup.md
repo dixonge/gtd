@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'The $100 Startup'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:10:27+00:00
 permalink: /books/the-100-startup/
 Book Id:
   - 12605157

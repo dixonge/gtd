@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Surveillance Valley'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-10-03T17:04:36+00:00
 permalink: /books/surveillance-valley/
 bookauthor: Yasha Levine
 dateread:

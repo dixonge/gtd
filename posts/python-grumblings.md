@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: Tools
   key: Python grumblings
 author: Glenn Dixon
-layout: layouts/post.njk
+layout: layouts/home.njk
 date: 2018-09-04T12:54:09+00:00
 permalink: /posts/python-grumblings/
 categories:

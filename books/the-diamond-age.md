@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'The Diamond Age'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:08:46+00:00
 permalink: /books/the-diamond-age/
 Book Id:
   - 827

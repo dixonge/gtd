@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Orange is the New Black'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-29T02:10:00+00:00
 permalink: /books/orange-is-the-new-black/
 bookauthor: Piper Kerman
 author_l-f: Kerman, Piper

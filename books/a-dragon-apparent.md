@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'A Dragon Apparent'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:07:21+00:00
 permalink: /books/a-dragon-apparent/
 Book Id:
   - 1287676

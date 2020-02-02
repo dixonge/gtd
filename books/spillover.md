@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Spillover'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:06:42+00:00
 permalink: /books/spillover-animal-infections-and-the-next-human-pandemic/
 Book Id:
   - 18889979

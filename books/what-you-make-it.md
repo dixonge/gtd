@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'What You Make It'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:05:34+00:00
 permalink: /books/what-you-make-it/
 Book Id:
   - 40116990

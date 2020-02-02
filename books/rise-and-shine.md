@@ -5,7 +5,6 @@ eleventyNavigation:
 author:
   - Simon Lewis
 layout: layouts/books.njk
-date: 2013-04-18T00:00:00+00:00
 permalink: /books/rise-and-shine/
 isbn: 1595800514
 isbn13: 9781595800510

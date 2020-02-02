@@ -4,7 +4,6 @@ eleventyNavigation:
   key: 'Finding Everett Ruess'
 author: Glenn Dixon
 layout: layouts/books.njk
-date: 2018-07-28T15:08:01+00:00
 permalink: /books/finding-everett-ruess/
 Book Id:
   - 10363517
