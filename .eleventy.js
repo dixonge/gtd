@@ -48,6 +48,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./*.webmanifest");  
   eleventyConfig.addPassthroughCopy("./*.png");
   eleventyConfig.addPassthroughCopy("./*.ico");
+  eleventyConfig.addPassthroughCopy("./details-force-state.js");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");

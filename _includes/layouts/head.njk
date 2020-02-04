@@ -11,6 +11,9 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     <script>
+		{%- include "details-force-state.js" -%}
+		</script>
+    <script>
       if( "fonts" in document ) {
       	document.fonts.load("1em BenchNine").then(function() {
     		document.documentElement.classList.add("benchnine");
