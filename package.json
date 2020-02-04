@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npx eleventy",
-    "build:css": "postcss css/tailwind.css -o css/output.css",
-    "watch": "npx eleventy --watch",
-    "debug": "DEBUG=* npx eleventy"
+    "build": "eleventy",
+    "watch": "eleventy --serve --port=8080",
+    "start": "npm run watch"
   },
   "repository": {
     "type": "git",
@@ -29,21 +28,16 @@
     "@11ty/eleventy-plugin-rss": "^1.0.7",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
     "@fullhuman/postcss-purgecss": "^2.0.5",
+    "html-minifier": "^4.0.0",
     "luxon": "^1.22.0",
     "markdown-it": "^10.0.0",
     "markdown-it-anchor": "^5.2.5",
-    "purgecss": "^2.0.5"
+    "sanitize-html": "^1.21.1"
   },
   "dependencies": {
-    "autoprefixer": "^9.7.4",
-    "cssnano": "^4.1.10",
-    "dotenv": "^8.2.0",
     "lunr": "^2.3.8",
     "node-fetch": "^2.6.0",
-    "postcss-cli": "^7.1.0",
-    "postcss-import": "^12.0.1",
-    "sanitize-html": "^1.21.1",
-    "tailwindcss": "^1.1.4",
+    "npm-run-all": "^4.1.5",
     "watch": "^1.0.2"
   }
 }

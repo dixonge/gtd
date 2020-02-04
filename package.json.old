@@ -1,0 +1,4 @@
+    "build": "npx eleventy",
+    "build:css": "postcss css/tailwind.css -o css/output.css",
+    "watch": "npx eleventy --watch",
+    "debug": "DEBUG=* npx eleventy",
