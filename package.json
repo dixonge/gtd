@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build:tail": "npx tailwind build css/styles.css -o css/index.css",
-    "build:css": "css-minify -d css/",
+    "build:css": "css-minify -d ./css/",
     "build": "eleventy",
     "watch": "eleventy --serve --port=8080",
     "start": "npm run watch"

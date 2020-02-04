@@ -3,21 +3,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ renderData.title or title or metadata.title }}</title>
     <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
-    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     <link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">    <script>
+    <meta name="theme-color" content="#ffffff">
+    <script>
       if( "fonts" in document ) {
       	document.fonts.load("1em BenchNine").then(function() {
     		document.documentElement.classList.add("benchnine");
       	})
       }
     </script>
-    <link rel="stylesheet" href="{{ 'https://unpkg.com/tailwindcss@1.1.4/dist/tailwind.min.css' | url }}">
     <link rel="stylesheet" href="{{ '/css-dist/index.min.css' | url }}">
-    <link rel="stylesheet" href="{{ '/css-dist/prism-base16-monokai.dark.min.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     </head>
