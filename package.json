@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "eleventy",
+    "build:tail": "npx tailwind build css/styles.css -o css/index.css",
     "build:css": "css-minify -d css/",
+    "build": "eleventy",
     "watch": "eleventy --serve --port=8080",
     "start": "npm run watch"
   },
@@ -34,7 +35,8 @@
     "luxon": "^1.22.0",
     "markdown-it": "^10.0.0",
     "markdown-it-anchor": "^5.2.5",
-    "sanitize-html": "^1.21.1"
+    "sanitize-html": "^1.21.1",
+    "tailwindcss": "^1.1.4"
   },
   "dependencies": {
     "lunr": "^2.3.8",
