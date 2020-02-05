@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:tail": "npx tailwind build css/styles.css -o css-dist/index.css",
+    "build:css": "postcss css/styles.css -o css-dist/index.css",
+    "build:css-purge": "env NODE_ENV=production postcss css/styles.css -o css-dist/index.css",
     "build": "eleventy",
     "watch": "eleventy --serve --port=8080"
   },
@@ -32,6 +33,9 @@
     "luxon": "^1.22.0",
     "markdown-it": "^10.0.0",
     "markdown-it-anchor": "^5.2.5",
+    "postcss": "^7.0.26",
+    "postcss-cli": "^7.1.0",
+    "purgecss": "^2.0.6",
     "sanitize-html": "^1.21.1",
     "tailwindcss": "^1.1.4"
   },
