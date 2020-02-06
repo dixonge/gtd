@@ -2,10 +2,10 @@
 layout: layouts/base.njk
 isDocs: true
 ---
-<div class="elv-toc float-left mr-8">
+<div class="elv-toc">
 
-<details open>
-	<summary class="btn-primary benchnine rainbow-active rainbow-active-noanim">Menu</summary>
+<details>
+	<summary class="details btn-primary benchnine rainbow-active rainbow-active-noanim">Menu</summary>
 	{%- if eleventyNavigation -%}
 		{%- set navKey = eleventyNavigation.key -%}
 	{%- endif -%}
