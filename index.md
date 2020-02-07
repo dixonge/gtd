@@ -2,8 +2,6 @@
 title: The real Glenn - Glenn 2.0
 author: Glenn Dixon
 layout: layouts/home.njk
-
-
 ---
 
 I have been many things. I am now many _different_ things.
