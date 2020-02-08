@@ -12,7 +12,9 @@
       {{ content | safe }}
 
     </main>
-
+		<script>
+		{%- include "details-force-state.js" -%}
+		</script>
   {% include "layouts/footer.njk" %}
 
     <!-- Current page: {{ page.url | url }} -->
