@@ -7,13 +7,15 @@
 
   {% include "layouts/header.njk" %}
 
-    <main class="relative flex clearfix max-w-5xl p-4 mx-auto my-auto overflow-hidden text-left bg-blue-200">
+    <main class="relative flex-wrap max-w-5xl p-4 mx-auto my-auto overflow-hidden text-left bg-blue-200 wrap">
 
       {{ content | safe }}
 
     </main>
 		<script>
 		{%- include "details-force-state.js" -%}
+		{%- include "js-class.js" -%}
+    
 		</script>
   {% include "layouts/footer.njk" %}
 
