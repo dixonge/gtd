@@ -4,33 +4,34 @@ title: Books - Glenn 2.0
 isDocs: true
 ---
 
-<div class="elv-toc">
+<div id="TOC" class="elv-toc">
 
-<details>
+<details open>
 	<summary class="details btn-primary benchnine rainbow-active rainbow-active-noanim">Menu</summary>
 	{%- if eleventyNavigation -%}
 		{%- set navKey = eleventyNavigation.key -%}
 	{%- endif -%}
-	{{ collections.sidebarNav | eleventyNavigation | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	{{ collections.all | eleventyNavigation | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
 {#	{{ collections.sidebarNav | eleventyNavigation(navKey) | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }} #}
 </details>
 
 </div>
 
+<div id="CONTENTS" class="flex-auto ">
 {% if eleventyNavigation and eleventyNavigation.key and eleventyNavigation.parent %}
-<nav class="breadcrumb mb-4" aria-labelledby="breadcrumb">
-  <h2 class="absolute h-px w-px overflow-hidden" id="breadcrumb">Breadcrumbs: </h2>
+<nav class="mb-4 breadcrumb" aria-labelledby="breadcrumb">
+  <h2 class="absolute w-px h-px overflow-hidden" id="breadcrumb">Breadcrumbs: </h2>
   {{ collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) | eleventyNavigationToHtml({ listClass: 'lo lo-inline', listItemClass: 'lo-c', activeListItemClass: 'breadcrumb-active' }) | safe }}
 </nav>
 {% endif %}
 
 <div class="h-entry">
-<p><a href="{{ url | url }}" class="u-url text-4xl"><h1 class="p-name">{{ eleventyNavigation.key }}</h1></a></p>
+<p><a href="{{ url | url }}" class="text-4xl u-url"><h1 class="p-name">{{ eleventyNavigation.key }}</h1></a></p>
 <div class="e-content">
     {% if isbn13 %}
-      <img class="book-image mb-1 mr-1 float-left" src="https://covers.openlibrary.org/b/isbn/{{ isbn13 }}.jpg"></img>
+      <img class="float-left mb-1 mr-1 book-image" src="https://covers.openlibrary.org/b/isbn/{{ isbn13 }}.jpg"></img>
     {% elif isbn %}
-      <img class="book-image mb-1 mr-1 float-left" src="https://covers.openlibrary.org/b/isbn/{{ isbn }}.jpg"></img>
+      <img class="float-left mb-1 mr-1 book-image" src="https://covers.openlibrary.org/b/isbn/{{ isbn }}.jpg"></img>
     {% endif %}
 <p>Author: {{ bookauthor }}
 <p>Pages: {{ pages }}
@@ -45,7 +46,7 @@ isDocs: true
 {{ content | safe }}
 
 </div>
-
+</div>
 {#
 {% if eleventyNavigation and eleventyNavigation.key %}
 {%- set navKey = eleventyNavigation.parent or eleventyNavigation.key -%}

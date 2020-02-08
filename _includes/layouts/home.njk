@@ -2,22 +2,23 @@
 layout: layouts/base.njk
 isDocs: true
 ---
-<div class="elv-toc">
+<div id="TOC" class="flex-shrink-0 elv-toc">
 
-<details>
-	<summary class="details btn-primary benchnine rainbow-active rainbow-active-noanim">Menu</summary>
+<details open>
+	<summary id="nav1" class="btn-primary benchnine rainbow-active rainbow-active-noanim">Menu</summary>
 	{%- if eleventyNavigation -%}
 		{%- set navKey = eleventyNavigation.key -%}
 	{%- endif -%}
-	{{ collections.sidebarNav | eleventyNavigation | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-{#	{{ collections.sidebarNav | eleventyNavigation(navKey) | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }} #}
+	{{ collections.all | eleventyNavigation | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }} 
+{#	{{ collections.all | eleventyNavigation(navKey) | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }} #}
 </details>
 
 </div>
 
+<div id="CONTENTS" class="flex-auto">
 {% if eleventyNavigation and eleventyNavigation.key and eleventyNavigation.parent %}
-<nav class="breadcrumb mb-4" aria-labelledby="breadcrumb">
-  <h2 class="absolute h-px w-px overflow-hidden" id="breadcrumb">Breadcrumbs: </h2>
+<nav class="mb-4 breadcrumb" aria-labelledby="breadcrumb">
+  <h2 class="absolute w-px h-px overflow-hidden" id="breadcrumb">Breadcrumbs: </h2>
   {{ collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) | eleventyNavigationToHtml({ listClass: 'lo lo-inline', listItemClass: 'lo-c', activeListItemClass: 'breadcrumb-active' }) | safe }}
 </nav>
 {% endif %}
@@ -30,3 +31,4 @@ isDocs: true
 <h3>Other pages in this section:</h3>
 {{ collections.sidebarNav | eleventyNavigation(navKey) | eleventyNavigationToHtml({ activeKey: eleventyNavigation.key, listClass: 'inlinelist inlinelist-no-nest', listItemClass: 'inlinelist-item', activeListItemClass: 'elv-cat-list-active' }) | safe }}
 {% endif %}
+</div>
