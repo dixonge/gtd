@@ -44,6 +44,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css-dist");
+  eleventyConfig.addPassthroughCopy("css-dist/fonts");
   eleventyConfig.addPassthroughCopy("./*.xml");
   eleventyConfig.addPassthroughCopy("./*.webmanifest");  
   eleventyConfig.addPassthroughCopy("./*.png");
