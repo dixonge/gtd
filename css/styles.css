@@ -151,7 +151,7 @@ details[data-details-oneway]>summary {
   --white: #fff;
   --black: #000;
   --paper: #ebd5b3;
-  --purple: purple
+  --purple: #420042;
 }
 
 * {
@@ -240,7 +240,9 @@ table {
 
 table td,
 table th {
-  padding-right: 1em
+  padding-right: 1em;
+  border-width: thin;
+  border-color: deepskyblue;
 }
 
 table thead {
@@ -368,7 +370,7 @@ a[href].tag:visited {
 .elv-toc {
   font-size: 1rem;
   text-align: left;
-  background: #18baff;
+  background: #c3dafe;
   width: 100%
 }
 
@@ -717,7 +719,7 @@ a.buzzword {
 .rainbow-active:hover,
 .rainbow-active:focus {
   position: relative;
-  background-image: linear-gradient(238deg, #ff0000, #ff8000, #ffff00, #80ff00, #00ff00, #00ff80, #00ffff, #0080ff, #0000ff, #8000ff, #ff0080);
+  background-image: linear-gradient(238deg, #ff0000, #ff8000, #ffff00, #80ff00, #00ff00, #00ff80, #00ffff, #0080ff, #0a01a5, #8000ff, #ff0080);
   background-size: 1200% 1200%;
   background-position: 0 80%;
   color: #fff;
