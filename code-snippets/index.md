@@ -1,5 +1,6 @@
 ---
-title: Code Snippets - Glenn 2.0
+eleventyNavigation:
+  key: Code Snippets
 author: Glenn Dixon
 type: page
 date: 2018-07-21T22:05:25+00:00
@@ -8,8 +9,6 @@ tags:
   - nav
 navtitle: Code Snippets
 ---
-# Code Snippets
-
 Accessible from anywhere, public (because, why not?), easy to copy/reuse. Perfect.
 
 #### Download articles from even paywalled web sites (like Medium or Wired)
