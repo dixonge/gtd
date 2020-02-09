@@ -74,6 +74,7 @@ details[data-details-oneway]>summary {
 .wrap {
   display: flex;
   flex-flow: row;
+  flex-wrap: wrap;
 }
 
 .flex-custom {
@@ -190,11 +191,10 @@ p {
 
 p {
   line-height: 1.45;
-  margin: 0 auto 10px
 }
 
 a[href] {
-  color: var(--lightblue)
+  color: var(--blue)
 }
 
 a[href]:hover, a[href]:visited, a[href]:focus {
@@ -394,6 +394,7 @@ a[href].tag:visited {
 .elv-toc details {
   --details-force-closed: (max-width: 63.9375em);
   /* 1023px */
+  width: 100%;
 }
 
 .elv-toc details>summary {
@@ -415,6 +416,7 @@ a[href].tag:visited {
 @media (min-width: 64em) {
   .flex-custom {
     flex: 0 0 72%;
+    width: 72%;
   }
 }
 
@@ -437,7 +439,10 @@ a[href].tag:visited {
 .elv-toc-list li {
   font-size: .9375em;
   line-height: 1.466666666667;
-  border-bottom: 1px solid;
+}
+
+.elv-toc-list li ul li {
+  margin-left: 10px;
 }
 
 .elv-toc-list ul {
@@ -464,10 +469,6 @@ a[href].tag:visited {
   display: block
 }
 
-.elv-toc-list a:not(:hover) {
-  text-decoration: none
-}
-
 .elv-toc-list li {
   margin: 0;
   padding: 0
@@ -482,7 +483,6 @@ a[href].tag:visited {
 .elv-toc-list>li>a {
   color: #222;
   font-weight: 600;
-  border-bottom: 1px solid #ddd;
   margin-bottom: .25em
 }
 
