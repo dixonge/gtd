@@ -21,8 +21,8 @@ Prerequisites:
   * A GoodReads account with a decent amount of books reviewed and/or starred 
   * A self-hosted WordPress site 
       * Twenty Seventeen theme (could work with others)
-      * [Advanced Custom Fields][1] plugin to work with extra data
-      * I am using the [post-kinds][2] plugin - not required
+      * [Advanced Custom Fields plugin][1] to work with extra data
+      * I am using the [post-kinds plugin][2] - not required
   * Export from GoodReads > csv file 
       * My Books > Import/Export > Export Library 
       * Clean up CSV file - spreadsheet is good, be sure to save it back as text/csv (not xls or odt) 
@@ -34,7 +34,7 @@ Prerequisites:
               * post_excerpt column - for the actual content of your review excerpt (if any) 
               * Add column for post_kind - set it to _read_ (not sure if this will work) 
               * Change any additional column headers to whatever you want - _these will become custom fields on import_ 
-  * Install [Really Simple CSV Importer][3] plugin 
+  * Install [Really Simple CSV Importer plugin][3] 
       * Yes, it's old, but it still works! 
       * Run import (Tools > Import > CSV-Run Importer) 
       * The posts should automatically be set to draft status

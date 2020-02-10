@@ -17,7 +17,7 @@ Original date: July 24, 2017
 
 Mood: very ranty!
 
-While I love the [IndieWeb][2] \*concept\* and the general ideas behind it, the current set of implementations are so complex, so mind-blowingly difficult to implement that I am making a self-care decision and deleting almost all of it from my computer and sites. There is a \*reason\* that the handful of people who actually care and talk about this stuff have careers in programming. At this point, that is what is required to get this up and running.
+While I love the [IndieWeb \*concept\*][2]  and the general ideas behind it, the current set of implementations are so complex, so mind-blowingly difficult to implement that I am making a self-care decision and deleting almost all of it from my computer and sites. There is a \*reason\* that the handful of people who actually care and talk about this stuff have careers in programming. At this point, that is what is required to get this up and running.
 
 ===
 
@@ -25,9 +25,9 @@ What this means is that a decent level of implementation and adoption is still \
 
 The only way this is going to gain any sort of widespread momentum is for it to become baked in to other services. Core, not plugins. If it takes an extra effort, or a lot of command-line typing, people just aren't going to do it, and the adoption levels will remain close to where they are now, almost zero.
 
-After the initial spurt of activity surrounding IndieWeb as a concept, there was a brief flurry of activity. Almost every solution I looked into shows this same pattern. Since 2014 a few plugins were built for the [Kirby CMS][3]. Known started up. An [IndieWeb plugin][4] was created for WordPress. So how is the adoption rate for these things?
+After the initial spurt of activity surrounding IndieWeb as a concept, there was a brief flurry of activity. Almost every solution I looked into shows this same pattern. Since 2014 a few plugins were built for the [Kirby CMS][3]. Known started up. [An IndieWeb plugin][4] was created for WordPress. So how is the adoption rate for these things?
 
-* WordPress [IndieWeb plugin][4] - 3 years, 300 installs
+* [WordPress IndieWeb plugin][4] - 3 years, 300 installs
   
 * [Known][5] - no longer catering to individual bloggers - targeting education market
   

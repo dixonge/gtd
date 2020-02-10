@@ -26,8 +26,6 @@ Two days after I was born, the first ever black students were admitted to the Un
 
 A few months later a U.S. Congressman and other Freedom Riders were assaulted for entering the 'whites only' waiting area of a bus terminal in Rock Hill, South Carolina. This is an area very close to where all of the family on my mother's side lived, and I would not be surprised to find that some of them may have been at least sympathetic with the attackers. This violence continued for months throughout the south, most famously in Montgomery, Alabama.
 
-The pattern was consistent. Protest and challenge the laws, laws are changed, racists resist, judges order compliance, and eventually federal officials have to enforce the laws with a physical presence on the ground. Segregation in schools, restaurants, public facilities, etc. was challenged and defeated over many, many years, and the price and toll was heavy. Much blood was shed. That is the world I was born into, and yet somehow remained oblivious to. Here is a sobering timeline of this decade:
-
-https://racialinjustice.eji.org/timeline/
+The pattern was consistent. Protest and challenge the laws, laws are changed, racists resist, judges order compliance, and eventually federal officials have to enforce the laws with a physical presence on the ground. Segregation in schools, restaurants, public facilities, etc. was challenged and defeated over many, many years, and the price and toll was heavy. Much blood was shed. That is the world I was born into, and yet somehow remained oblivious to. Here is [a sobering timeline of racial injustice in this decade from the Equal Justice Initiative](https://racialinjustice.eji.org/timeline/).
 
 Looking back, it's obvious that things were pretty great and just and free if you were white, especially white and male. For women and especially for people of color, America has never been great or just or free.
