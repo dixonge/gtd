@@ -327,6 +327,10 @@ td {
   border: solid
 }
 
+img {
+  width: 100%;
+}
+
 /* Web Fonts */
 
 .benchnine h1,
@@ -345,6 +349,7 @@ td {
 
 .flex-custom {
   flex: 0 0 100%;
+  width: 100%;
 }
 
 .breadcrumb ol,
@@ -443,13 +448,12 @@ p {
   text-align: left
 }
 
-.review p {
-  padding-top: 1em
+.rating {
+  clear: both;
 }
 
-img,
-p {
-  max-width: 80%
+.review p {
+  padding-top: 1em
 }
 
 p {
@@ -531,7 +535,8 @@ table thead {
 
 code {
   font-family: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
-  line-height: 1.5
+  line-height: 1.5;
+  white-space: pre-wrap;
 }
 
 pre {
