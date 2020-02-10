@@ -29,16 +29,16 @@ isDocs: true
 <p><a href="{{ url | url }}" class="text-4xl u-url rainbow-active"><h1 class="p-name">{{ eleventyNavigation.key }}</h1></a></p>
 <div class="e-content">
     {% if isbn13 %}
-      <img class="float-left mb-1 mr-1 book-image" src="https://covers.openlibrary.org/b/isbn/{{ isbn13 }}.jpg"></img>
+      <img align="left" class="float-left mb-1 mr-1 book-image" src="https://covers.openlibrary.org/b/isbn/{{ isbn13 }}.jpg"></img>
     {% elif isbn %}
-      <img class="float-left mb-1 mr-1 book-image" src="https://covers.openlibrary.org/b/isbn/{{ isbn }}.jpg"></img>
+      <img align="left" class="float-left mb-1 mr-1 book-image" src="https://covers.openlibrary.org/b/isbn/{{ isbn }}.jpg"></img>
     {% endif %}
 <p>Author: {{ bookauthor }}
 <p>Pages: {{ pages }}
 <p>Year: {{ yearpublished }}
 <p>My Rating: {{ myrating }}
 <p>
-<hr>
+<hr class="rating">
 <p>
 </div>
 <div class="review">
