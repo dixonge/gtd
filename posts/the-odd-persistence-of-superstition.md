@@ -19,6 +19,6 @@ Yes, that's a real example, from real life.
 
 Which also makes it difficult to gain the physical benefits of something like martial arts or yoga when they are so intrinsically tied to some of these concepts.
 
-I'm probably going to need to re-read Carl Sagan's excellent [Demon-Haunted World][1] and throw a bunch of excerpts out there to see if I can stimulate some logic cells in people's brains&#8230;
+I'm probably going to need to re-read the excellent [Demon-Haunted World by Carl Sagan][1] and throw a bunch of excerpts out there to see if I can stimulate some logic cells in people's brains.
 
 [1]: https://en.wikipedia.org/wiki/The_Demon-Haunted_World

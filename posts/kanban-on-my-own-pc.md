@@ -21,6 +21,6 @@ Decided I wanted to 'own my data' when it came to projects. Needed to replicate 
 
 There is really only one reason I'm going to go with Restyaboard. It may seem silly, but it's the background images. Unavailable in Wekan.
 
-[Get it here!][1]
+[Download Restyaboard here!][1]
 
 [1]: https://restya.com/board

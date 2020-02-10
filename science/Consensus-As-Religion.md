@@ -10,13 +10,13 @@ Regardless the accuracy of the often stated '97%' scientific consensus on climat
 
 Google seems determined to keep me trapped in the bubble I created since 2005 or so. The have demoted much of the skeptic sites in their search results. It's easy to feel alone as a skeptic. But at least I'm not the only one to have moved from alarmism to skepticism. Some interesting  examples:
 
-https://www.masterresource.org/climate-exaggeration/thatcher-alarmist-to-skeptic/
+[Thatcher - Alarmist to Skeptic](https://www.masterresource.org/climate-exaggeration/thatcher-alarmist-to-skeptic/)
 
-https://www.climatedepot.com/2019/07/30/former-award-winning-noaa-scientist-dr-rex-fleming-declares-his-climate-dissent-converted-from-warmist-to-skeptic-explains-why-climate-change-theory-is-bunk/
+[Former Award-winning NOAA Scientist Dr. Rex Fleming Declares His Cimate Dissent](https://www.climatedepot.com/2019/07/30/former-award-winning-noaa-scientist-dr-rex-fleming-declares-his-climate-dissent-converted-from-warmist-to-skeptic-explains-why-climate-change-theory-is-bunk/)
 
-https://www.epw.senate.gov/public/index.cfm/press-releases-all?ID=E58DFF04-5A65-42A4-9F82-87381DE894CD
+[Renowned Scientist Defects From Belief in Global Warming – Caps Year of Vindication for Skeptics](https://www.epw.senate.gov/public/index.cfm/press-releases-all?ID=E58DFF04-5A65-42A4-9F82-87381DE894CD)
 
-https://www.epw.senate.gov/public/index.cfm/press-releases-all?ID=B82EAA82-802A-23AD-49E8-30B49D1BC8F5
+[Inhofe Praises Czech President’s Courage in Confronting Global Warming Alarmism](https://www.epw.senate.gov/public/index.cfm/press-releases-all?ID=B82EAA82-802A-23AD-49E8-30B49D1BC8F5)
 
 On a related note, it just dawned on me how much the climate alarmists treat all dissent like religion does. Headlines like "how to talk to a climate skeptic" are *exactly* the same as religion treats agnostics and atheists. Questions like this drip with presumptuousness and arrogance and condescension! 
 
@@ -29,7 +29,7 @@ Rick Ross has long run a site about cults. From my perspective, most of his 'war
 5. Followers feel they can never be "good enough". (consume less, fly less, eat less)
 6. The group/leader is always right. (any 'change' in climate or weather can be laid at the feet of global warming - which is much easier if you shift all terminology to 'climate change' or 'climate emergency' instead of warming)
 
-[Source](https://culteducation.com/warningsigns.html)
+[Rick Ross - Cult Education - Warning Signs](https://culteducation.com/warningsigns.html)
 
-Further reading - quite a [master list](https://skepticalscience.com/resources.php?a=links&arg=345) from a pro-agw site
+Further reading - quite a master list of [Links for 'AGW as a Religion'](https://skepticalscience.com/resources.php?a=links&arg=345) from a pro-agw site
 

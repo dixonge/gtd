@@ -13,11 +13,11 @@ This is perhaps too large a topic for one blog post. I have just finished readin
 
 2. The Southern hemisphere data coverage reached 50% only in 1950.
 
-3. Global averages for a century were created by combining the sparse Northern hemisphere averages with the almost non-existent Southern hemisphere averages[^1]
+3. Global averages for a century were created by combining the sparse Northern hemisphere averages with the almost non-existent Southern hemisphere averages[UPDATE – BOMBSHELL: audit of global warming data finds it riddled with errors](https://wattsupwiththat.com/2018/10/11/bombshell-audit-of-global-warming-data-finds-it-riddled-with-errors/)
 
 4. Making any claim about current global temperature trends compared to the past is rendered meaningless.
 
-5. In 1987 NOAA commissioned a study. It showed no warming trend in the U.S. from 1895-1987[^2]
+5. In 1987 NOAA commissioned a study. It showed no warming trend in the U.S. from 1895-1987 [U.S. Data Since 1895 Fail To Show Warming Trend](https://www.nytimes.com/1989/01/26/us/us-data-since-1895-fail-to-show-warming-trend.html?src=pm)
 
 6. It is perfectly safe to say that the earth has been warming since the end of the last ice age.
 
@@ -29,11 +29,7 @@ This is perhaps too large a topic for one blog post. I have just finished readin
 
 10. It is also not safe to say that any climate model can possibly handle the complexity of forecasting future global temperature averages based on CO2 levels.
 
-    [^1]: https://wattsupwiththat.com/2018/10/11/bombshell-audit-of-global-warming-data-finds-it-riddled-with-errors/
-    [^2]: https://www.nytimes.com/1989/01/26/us/us-data-since-1895-fail-to-show-warming-trend.html?src=pm
-
-
-From the Jan. 18, 2020 edition of 'The Week That Was' from [SEPP](http://www.sepp.org/twtwfiles/2020/TWTW%201-18-20%20last.pdf)
+From the Jan. 18, 2020 edition of 'The Week That Was' from [The Greenhouse Effect – Different Results](http://www.sepp.org/twtwfiles/2020/TWTW%201-18-20%20last.pdf)
 
 > Since the greenhouse effect of CO2 declines per unit as the total amount increases (diminishing returns), the expected increase in temperature from growing CO2 emissions by the end of this century is less than 1 ⁰K (C). 
 
@@ -41,6 +37,6 @@ From 'The Art and Science of Climate Model Tuning':
 
 > *The increase of about one Kelvin of the global mean temperature observed from the beginning of the industrial era, hereafter 20th century warming, is a de facto litmus test for climate models. However, as a test of model quality, it is not without issues because* *the desired result is known to model developers and therefore becomes a potential target of the development.*
 
-(excerpted on [Judith Curry's blog](https://judithcurry.com/2016/08/01/the-art-and-science-of-climate-model-tuning/))
+(excerpt from Judith Curry's blog) [The Art and Science of Climate Model Tuning](https://judithcurry.com/2016/08/01/the-art-and-science-of-climate-model-tuning/)
 
 Need to explore analogy between markets and climate. Large, chaotic systems. Models backtested and tuned, equally useless for forecasting.

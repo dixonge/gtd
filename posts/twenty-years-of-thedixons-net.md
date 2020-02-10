@@ -30,7 +30,7 @@ Archive.org has grabbed 163 snapshots of the site in 20 years. There were period
 
 ![](/img/2018/07/Screenshot_20180727_142230.png)
 
-I'm very proud of this, in a nerdy sort of way, of course. A personal domain was pretty rare back then. But I'm also proud at having the follow-through to still be here, with a renewed enthusiasm for the old days when one crafted their own content. This current [IndieWeb][5] initiative on this subdomain (glenn.thedixons.net) is one result of that. Who knows, maybe some day this section will have its own twenty-year history?
+I'm very proud of this, in a nerdy sort of way, of course. A personal domain was pretty rare back then. But I'm also proud at having the follow-through to still be here, with a renewed enthusiasm for the old days when one crafted their own content. This current [IndieWeb initiative][5] on this subdomain (glenn.thedixons.net) is one result of that. Who knows, maybe some day this section will have its own twenty-year history?
 
 [1]: /img/2018/07/thedixons.net-registration.png
 [2]: https://web.archive.org/web/19981205153739/http://thedixons.net:80/

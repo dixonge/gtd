@@ -10,7 +10,7 @@ This one goes beyond just climate. The recent 'scandal' began in 2005 when John 
 
 It would seem that this would be more of a problem with the 'soft' sciences - psychology, etc., where research often depends on more subjective measurements such as whether someone feels better. But even when hard numbers are involved, the misapplication of statistics and biased interpretation can significantly shift things. Below are a series of links both explaining the larger picture and providing examples in medicine, clinical research, economics, sports and hydrology. 
 
-https://en.wikipedia.org/wiki/Replication_crisis
+[Replication Crisis](https://en.wikipedia.org/wiki/Replication_crisis)
 
 [Why Most Published Research Findings are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
 
@@ -26,7 +26,6 @@ https://en.wikipedia.org/wiki/Replication_crisis
 
 [How Shoddy Statistics Found a Home in Sports Research](https://fivethirtyeight.com/features/how-shoddy-statistics-found-a-home-in-sports-research/)
 
-[...Hydrology and Water Resources](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6390703/)
+[Hydrology and Water Resources](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6390703/)
 
-> Our findings of low reproducibility of research published in six hydrology and water resources journals in 2017 mirrors low rates of reproducibility previously reported in psychology (100 experiments[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6390703/#b2)), computer systems research (613 articles[48](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6390703/#b48)), and articles published in Science (204 articles[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6390703/#b6)). 
-
+> Our findings of low reproducibility of research published in six hydrology and water resources journals in 2017 mirrors low rates of reproducibility previously reported in psychology (100 experiments) [Assessing data availability and research reproducibility in hydrology and water resources](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6390703/#b2), [computer systems research (613 articles)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6390703/#b48), and [articles published in Science (204 articles)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6390703/#b6).

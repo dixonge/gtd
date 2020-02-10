@@ -24,7 +24,7 @@ In spite of this, the last two presidents of the Maldives have waged PR campaign
 
 Other studies show that most Pacific islands are actually *growing*, not sinking...
 
-https://www.bbc.com/news/10222679
+[Low-lying Pacific islands 'growing not sinking'](https://www.bbc.com/news/10222679)
 
 The Indian Ocean area, including the Maldives and Bangladesh have seen no sea level rise in decades.
 

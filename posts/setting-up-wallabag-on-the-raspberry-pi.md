@@ -13,9 +13,9 @@ tags:
 ---
 ![](/img/2018/07/wallabag-logo.jpg)
 
-In my recent flurry of [indieweb-style][1] activity I decided to go cold turkey with my dependency on certain major service silos. In addition to the general motivation to dump the monolithic, monopolistic mega-corp silos, there was a more practical motivation. Before our big move back to Mexico we are upgrading the laptops. Three years old and upgraded to Windows 10 had me a bit nervous. Also, spinning hard drives. So our new laptops are [straight-from-China cheap][2] with eMMC drives of only 64gb.
+In my recent flurry of [indieweb-style activity][1] I decided to go cold turkey with my dependency on certain major service silos. In addition to the general motivation to dump the monolithic, monopolistic mega-corp silos, there was a more practical motivation. Before our big move back to Mexico we are upgrading the laptops. Three years old and upgraded to Windows 10 had me a bit nervous. Also, spinning hard drives. So [our new laptops][2] are straight-from-China cheap with eMMC drives of only 64gb.
 
-<img class="alignnone size-medium wp-image-23" src="/img/2018/07/chuwi-300x300.png" alt="" width="300" height="300" srcset="/img/2018/07/chuwi-300x300.png 300w, /img/2018/07/chuwi-150x150.png 150w, /img/2018/07/chuwi-768x768.png 768w, /img/2018/07/chuwi-100x100.png 100w, /img/2018/07/chuwi.png 1000w" sizes="(max-width: 300px) 100vw, 300px" />
+![](/img/2018/07/chuwi-768x768.png)
 
 MS Office and even LibreOffice take up a \*lot\* of room. So I cancelled my Office365 subscription (got a full refund, surprisingly) but this had the side effect of reducing my OneDrive space allocation down to about 5GB. In cleaning up the space a bit I managed to accidentally trash the folder which held some of my OneNote folders.
 
@@ -29,7 +29,7 @@ So obviously, I needed a new solution for web clipping, one of the things I used
 
 When it comes to self-hosted read-it-later services this seems to be the only thing that comes up on Google searches. And frankly it was a bit of a pain to get set up. But I did, somehow, manage to get it up and running. Here are some of my fuzzy memories of problems I ran into along the way, and the solutions.
 
-First, make sure you have the [requirements in place][4]. Most of the instructions mention Composer as a default install procedure, but it does seem to have some higher memory requirements. I had to reboot the Pi at one point which seems to have cleared the path and allowed for the install to complete successfully. Basic instructions [are here][5].
+First, make sure you have the [requirements in place][4]. Most of the instructions mention Composer as a default install procedure, but it does seem to have some higher memory requirements. I had to reboot the Pi at one point which seems to have cleared the path and allowed for the install to complete successfully. [Basic instructions are here][5].
 
 At the end of the install it will ask for user name and password, etc.
 
@@ -49,15 +49,17 @@ Once you have that working and can log in via the web interface then you need to
 
 For the Firefox (or Chrome) extensions to work you have to set up a client in Wallabag. In the main menu, click on \*API Clients Management\*, click \*Create a New Client\*. Give it a name (this is just for your own internal reference) and click the \*Create a New Client\* button. This will give you the two main pieces of information you will need for the extension.
 
-<img class="alignnone size-medium wp-image-34" src="/img/2018/07/wallabag1-300x229.png" alt="" width="300" height="229" srcset="/img/2018/07/wallabag1-300x229.png 300w, /img/2018/07/wallabag1-768x585.png 768w, /img/2018/07/wallabag1.png 873w" sizes="(max-width: 300px) 100vw, 300px" />
+![](/img/2018/07/wallabag1-768x585.png)
 
-Next, download the extension. Most Google searches point to the old one, which links you to the new one, although it goes to the French version. The English version is [here][6].
+Next, download the extension. Most Google searches point to the old one, which links you to the new one, although it goes to the French version.
+
+[English version of the extention download][6].
 
 Go to the browser extension options and enter the URL for your wallabag installation and click \*Check URL\*. Once that verifies, enter the \*Client ID\*, \*Client secret\*, \*user login\* and \*password\*.
 
 \*\*THIS IS IMPORTANT\*\* - you have to click on \*Get token\*. After that you can just exit the page. You don't have to save anything to a file, that's optional.
 
-[Detailed instructions][7] on Chrome (and Firefox) add-on setup.
+[Detailed setup instructions][7] for the Chrome (and Firefox) add-on.
 
 And it auto-saves. Once you set a tag, just walk away!
 
