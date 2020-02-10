@@ -20,7 +20,6 @@ tags:
 ---
 **The Antidote - Synopsis**
 
-<!-- excerpt -->
 _A negative path to happiness_
 
 Pursuing happiness often makes us miserable - negative things which we attempt to eliminate cause us to feel/experience those very things

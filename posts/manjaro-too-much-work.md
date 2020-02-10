@@ -15,7 +15,6 @@ tags:
 
 A couple of months ago I got frustrated at something with whatever version of Ubuntu (probably KDE) I was using and then I got the bright idea to switch distros. I tried 4-5 different varieties, but I mainly want to write about Manjaro.
 
-<!-- excerpt -->
 For the most part I was able to get things working the way I wanted, eventually, but not everything. And some things _never_ worked. I generally used various community editions (not the official editions) as I was already familiar with KDE/Gnome and wanted to avoid some of their quirks.
 
 Things that took a lot of extra research/work:

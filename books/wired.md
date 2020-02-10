@@ -22,5 +22,4 @@ tags:
 ---
 **A really good read!**
 
-<!-- excerpt -->
 Great book, great characters. Opens a lot of interesting doors. Slight bit too much military hero-worship, but I am an outlier on this&#8230;

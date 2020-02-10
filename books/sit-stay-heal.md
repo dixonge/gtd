@@ -22,7 +22,6 @@ tags:
 ---
 Meditation for the Real World
 
-<!-- excerpt -->
 This book answered three questions for me:
 
 1 - How can I, an ex-fundamentalist-turned-atheist, embrace any aspect of Buddhism, which is, at its root, religious?

@@ -24,7 +24,6 @@ tags:
 ---
 # Omissions and causal looping {.a-size-base.a-spacing-none.a-color-base.profile-at-review-title.a-text-bold}
 
-<!-- excerpt -->
 <p class="a-spacing-small a-spacing-top-mini a-color-base profile-at-review-text profile-at-review-text-desktop">
   Overall impression - not too bad, but then it was free on Prime. I might not be so charitable had I paid money to read it.
 </p>

@@ -21,7 +21,6 @@ tags:
 ---
 **Surveillance Valley**
 
-<!-- excerpt -->
 Highlights
 
 February 24, 2018

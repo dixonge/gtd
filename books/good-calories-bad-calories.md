@@ -26,7 +26,6 @@ tags:
 ---
 I am leaving my originsl review of this book here (below) but ten years later and I have completely, utterly changed my mind. This book is generally bullshit.
 
-<!-- excerpt -->
 Taubes makes critical errors throughout. The voluminous footnotes gives the appearance of a thorough researcher, but given that he generally misinterprets, slants and selectively quotes them all, the volume only serves to mask his bias. His foundation is equally problematic. Here is a [very thorough recap][1]
 
 The current science shows that [the makeup of the diet doesn't really matter.][2] In other words, in the end, it really is just Calories In/Calories Out.

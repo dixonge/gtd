@@ -22,5 +22,4 @@ tags:
 ---
 Incredible loss, incredible journey. I first heard of Simon when I saw a TED talk that he gave. That led me to this astounding book.
 
-<!-- excerpt -->
 I recommend this book to everyone I meet who is dealing with either American insurance companies or doctors. Simon's insights on both, forged through painful trial and error, are eye-opening.
