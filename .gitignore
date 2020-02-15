@@ -5,3 +5,4 @@ package-lock.json
 layouts_old/
 css/
 img/.DS_Store
+.env

@@ -1,0 +1,19 @@
+---
+eleventyNavigation:
+  key: tweets
+  parent: Misc
+author: Glenn Dixon
+layout: layouts/home.njk
+---
+{% set twitter = tweets | tweetExcludeAnswers %}
+
+{%- for item in twitter.slice(0, 5) -%}
+<!-- Show tweets -->
+{%- endfor -%}
+
+<!-- Retweets -->
+{% if item.retweeted %}{% endif %}
+<!-- Quote -->
+{% if item.is_quote_status %}{% endif %}
+<!-- Own tweets -->
+{% if not item.is_quote_status and not item.retweeted %}{% endif %}

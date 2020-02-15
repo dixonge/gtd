@@ -40,6 +40,16 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, n);
   });
 
+  eleventyConfig.addFilter("tweetExcludeAnswers", obj => {
+    const result = obj.filter(el => el.text.charAt(0) !== "@");
+    return result;
+  });
+
+  eleventyConfig.addFilter("tweetRemoveLink", obj => {
+    const result = obj.replace(/https:\/\/t.co\/\S*/gm, "");
+    return result;
+  });
+
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
 
   eleventyConfig.addPassthroughCopy("img");
