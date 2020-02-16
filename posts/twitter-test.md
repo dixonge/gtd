@@ -9,6 +9,7 @@ categories:
   - Misc
 tags:
   - posts
+tweetId: '1228662878649147393'
 ---
 This is an experiment. I want to see if I can use Twitter to replace either comment systems and/or webmentions. First, here is a raw link to a tweet:
 

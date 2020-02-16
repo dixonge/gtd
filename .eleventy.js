@@ -4,6 +4,7 @@ const sanitizeHTML = require('sanitize-html')
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const filters = require('./_11ty/filters');
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -39,6 +40,11 @@ module.exports = function(eleventyConfig) {
 
     return array.slice(0, n);
   });
+
+  // Filters
+Object.keys(filters).forEach(filterName => {
+  eleventyConfig.addFilter(filterName, filters[filterName])
+});
 
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
 
