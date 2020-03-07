@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 ![](/img/)
 
-This one goes beyond just climate. The recent 'scandal' began in 2005 when John Ioannides wrote a paper about the poor replication stats in psychology. It has since spread to most other disciplines. 
+This one goes beyond just [climate](/Temperatures). The recent 'scandal' began in 2005 when John Ioannides wrote a paper about the poor replication stats in psychology. It has since spread to most other disciplines. 
 
 It would seem that this would be more of a problem with the 'soft' sciences - psychology, etc., where research often depends on more subjective measurements such as whether someone feels better. But even when hard numbers are involved, the misapplication of statistics and biased interpretation can significantly shift things. Below are a series of links both explaining the larger picture and providing examples in medicine, clinical research, economics, sports and hydrology. 
 

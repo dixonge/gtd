@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 ![](/img/speculative-extinction.jpg)
 
-The first seeds of doubt in the 'consensus' view on climate change came about in a rather roundabout way. First, I was reading about yet another dire astronomical number of extinctions that were already under way both now and in the near future (caused, at least in part, by climate change). But this time something snapped and I just couldn't believe the numbers. So many numbers were being thrown out on a regular basis, and yet no actual newly-extinct species were being named. I dug in.
+The first seeds of doubt in the 'consensus' view on [climate change](/Temperatures) came about in a rather roundabout way. First, I was reading about yet another dire astronomical number of extinctions that were already under way both now and in the near future (caused, at least in part, by climate change). But this time something snapped and I just couldn't believe the numbers. So many numbers were being thrown out on a regular basis, and yet no actual newly-extinct species were being named. I dug in.
 
 Research led me to realize that almost all recent articles about mass extinctions were estimates -- estimates! -- based on the (flawed) concept of 'species-area relationship' (SAR) - yet documented habitat loss results in very few extinctions, as species tend to be much more resilient and less dependent on specific habitats than the concept theorizes. They hunker down or find new habitats.
 
@@ -20,11 +20,11 @@ Throughout 3.8 billion years of evolution on Earth, the inexorable trend has bee
 
 [Rethinking extinction](https://aeon.co/essays/we-are-not-edging-up-to-a-mass-extinction)
 
-Yet species estimates continue to be speculated at insanely large numbers. ~~100 million~~ 1 Trillion (!) has ~~frequently~~ been cited. Recently that has been narrowed down considerably. Current estimates are this side of 9 million. But that means that scientists believe that somehow 7 million different species have managed to remain hidden and undiscovered. Almost all of these are microscopic.
+Yet species estimates continue to be speculated at insanely large numbers. ~~100 million~~ 1 Trillion (!) has ~~frequently~~ been cited. Recently that number has been narrowed down considerably. Current estimates are this side of 9 million. But that means that scientists believe that somehow 7 million different species have managed to remain hidden and undiscovered. Almost all of these are microscopic.
 
-Then there's the IUCN. They have a problem. On one hand, they are very much beating the drum about how dire the situation is. They want to make sure the enviro-left knows they are on their side, fighting the good fight, trying to save our planet's species from imminent extinction. On the other hand, they are the keepers of the 'official' numbers of extinct species. 877 extinctions since 1500. That's 1.68 species per year. While any extinction is bad, it's hard to get people worried by touting numbers like "almost two species per year go extinct."  
+Then there's the [IUCN](https://iucn.org). They have a problem. On one hand, they are very much beating the drum about how dire the situation is. They want to make sure the enviro-left knows they are on their side, fighting the good fight, trying to save our planet's species from imminent extinction. On the other hand, they are the keepers of the 'official' numbers of extinct species. [877 extinctions since 1500](https://www.iucn.org/news/species/201912/species-recoveries-bring-hope-amidst-biodiversity-crisis-iucn-red-list). That's 1.68 species per year. While any extinction is bad, it's hard to get people worried by touting numbers like "almost two species per year go extinct."  
 
-The current bushfires in Australia have produced sensational headlines. The projected animal death toll was 400 million, then half a billion, then 800 million, and finally, predictably, a billion. And then 'many, many billions.' (is *any* estimate too high?) (update: evidently not - now TRILLIONS
+The current (2019-2020) bushfires in Australia have produced sensational headlines. The projected animal death toll was 400 million, then half a billion, then 800 million, and finally, predictably, a billion. And then 'many, many billions.' (is *any* estimate too high?) (update: evidently not - now TRILLIONS)
 
 [Australia fires: Up to a TRILLION animals could die in the fires, expert warns](https://www.express.co.uk/news/science/1226034/australia-fires-how-many-animals-have-died-in-australia-australia-koalas-dead)
 
@@ -36,4 +36,4 @@ Given the *actual* extinction rate, 1.68 per year, it is difficult to make these
 
 [Plant, animal extinctions often exaggerated: study](https://www.reuters.com/article/us-extinctions/plant-animal-extinctions-often-exaggerated-study-idUSTRE74H5D620110518)
 
-All of this reading up on extinction rates and population estimates caused me to see a problem in the so-called 'science' around all of this. I still have complete faith in the 'scientific process.' But I have begun to lose faith in what we generally call 'science' - specifically, the academic community and the peer review system. *That* shit is just fucked beyond saving! And it is also the source of almost all science that is ever covered by the news media. More on that later. But first, let's talk about [sea levels](/sea-levels)
+All of this reading up on extinction rates and population estimates caused me to see a problem in the so-called 'science' around all of this. I still have complete faith in the 'scientific process.' But I have begun to lose faith in what we generally call 'science' - specifically, [the academic community and the peer review system.](/The-Replication-Crisis) *That* shit is just fucked beyond saving! And it is also the source of almost all science that is ever covered by the news media. More on that later. But first, let's talk about [sea levels](/sea-levels)

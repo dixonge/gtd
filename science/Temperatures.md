@@ -13,7 +13,7 @@ This is perhaps too large a topic for one blog post. I have just finished readin
 
 2. The Southern hemisphere data coverage reached 50% only in 1950.
 
-3. Global averages for a century were created by combining the sparse Northern hemisphere averages with the almost non-existent Southern hemisphere averages[UPDATE – BOMBSHELL: audit of global warming data finds it riddled with errors](https://wattsupwiththat.com/2018/10/11/bombshell-audit-of-global-warming-data-finds-it-riddled-with-errors/)
+3. Global averages for a century were created by combining the sparse Northern hemisphere averages with the almost non-existent Southern hemisphere averages[UPDATE – BOMBSHELL: audit of global warming data finds it riddled with errors](https://wattsupwiththat.com/2018/10/11/bombshell-audit-of-global-warming-data-finds-it-riddled-with-errors/) (given the source, adding further info since some can't bring themselves to click it: 1- JCU - the university which awarded the PhD to the individual who wrote [the thesis in question](https://researchonline.jcu.edu.au/52041/) - 2 - [the paper's publisher's web site](https://robert-boyle-publishing.com/product/audit-of-the-hadcrut4-global-temperature-dataset-mclean-2018/) )
 
 4. Making any claim about current global temperature trends compared to the past is rendered meaningless.
 
@@ -39,4 +39,4 @@ From 'The Art and Science of Climate Model Tuning':
 
 (excerpt from Judith Curry's blog) [The Art and Science of Climate Model Tuning](https://judithcurry.com/2016/08/01/the-art-and-science-of-climate-model-tuning/)
 
-Need to explore analogy between markets and climate. Large, chaotic systems. Models backtested and tuned, equally useless for forecasting.
+To do: Need to explore analogy between markets and climate. Large, chaotic systems. Models backtested and tuned, equally useless for forecasting.
