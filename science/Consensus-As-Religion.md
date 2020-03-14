@@ -8,6 +8,8 @@ eleventyNavigation:
 
 Regardless the accuracy of the often stated '97%' scientific consensus on climate change, I think it is safe to say that most climate scientists believe that anthropogenic CO2 is warming the earth faster than it would otherwise warm. The general public is more divided. A core of conservatives disagree on whether or not the earth is even warming at all, but most skeptics merely disagree on either the anthropogenic cause or the degree of the influence. Most all skeptics disagree on the severity of the future impact and political solutions.
 
+But consensus shouldn't matter when itcomes to science. As Michael Crichton put it: "There is no such thing as consensus science. If it’s consensus, it isn’t science. If it’s science, it isn’t consensus. Period." [Science Is Never Settled](https://scienceisneversettled.com/consensus-is-not-science/)
+
 Google seems determined to keep me trapped in the bubble I created since 2005 or so. The have demoted much of the skeptic sites in their search results. It's easy to feel alone as a skeptic. But at least I'm not the only one to have moved from alarmism to skepticism. Some interesting  examples:
 
 [Thatcher - Alarmist to Skeptic](https://www.masterresource.org/climate-exaggeration/thatcher-alarmist-to-skeptic/)

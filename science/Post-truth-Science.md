@@ -23,7 +23,3 @@ Here is an example of an *actual* study they used as inspiration
 The media often referred to this as 'Sokal squared' in reference to a previous famous hoax study:
 
 [Sokal Affair](https://en.wikipedia.org/wiki/Sokal_affair)
-
-On the academia side, someone who ran into the 'warrior' side of the social justice movement, in the form of 'equity' policy in colleges, also has previous experience with problems getting published. It involves peer manipulation based on greed/fame at the expense of potentially endangering the populace due to faulty lab test results. 
-
-(link to Bert Weinstein and podcast w/ Eric)

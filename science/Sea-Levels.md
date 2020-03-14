@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 ![](/img/sealevel.jpg)
 
-Depending on which coast you look at, the longest-running tide gauges all show the same story - 2-3mm/year or 11 inches per century of sea level rise. This doesn't change even when you take rising and falling ground levels into account, or GPS being added to the tide gauge station. Accuracy checks and balances don't change the numbers. The seas have been slowly, inexorably rising ever since we began checking, but there is no evidence of any accelleration of any kind. There is no signal that CO2 has had any effect on sea levels.
+Depending on which coast you look at, the longest-running tide gauges all show the same story - 2-3mm/year or 11 inches per century of sea level rise. This doesn't change even when you take rising and falling ground levels into account, or GPS being added to the tide gauge station for verification. Accuracy checks and balances don't change the numbers. The seas have been slowly, inexorably rising ever since we began checking, but there is no evidence of any acceleration of any kind. There is no signal that CO2 has had any effect on sea levels.
 
 Satellites are now measuring greater rates of rise than this, primarily on the open ocean, after many different 'adjustments' to the numbers. But this is where I ran into another 'common sense' problem.
 
