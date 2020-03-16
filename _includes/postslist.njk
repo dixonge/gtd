@@ -14,13 +14,13 @@
     </p>
     <br>
     {% if post.data.image %}
-    <img class="post-image" src="{{ post.data.image }}">
+    <img alt="teaser image" class="post-image" src="{{ post.data.image }}">
     {% elif post.data.isbn13 %}
     <a class="book-image-link u-url" href="{{ post.url | url }}">
-      <img class="book-image" src="https://covers.openlibrary.org/b/isbn/{{ post.data.isbn13 }}.jpg"></img></a>
+      <img alt="book cover" class="book-image" src="https://covers.openlibrary.org/b/isbn/{{ post.data.isbn13 }}.jpg"></img></a>
     {% elif post.data.isbn %}
     <a class="book-image-link u-url" href="{{ post.url | url }}">
-      <img class="book-image" src="https://covers.openlibrary.org/b/isbn/{{ post.data.isbn }}.jpg"></img></a>
+      <img alt="book cover" class="book-image" src="https://covers.openlibrary.org/b/isbn/{{ post.data.isbn }}.jpg"></img></a>
     {% endif %}
   </li>
 {% endfor %}
