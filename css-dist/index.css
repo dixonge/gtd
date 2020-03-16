@@ -275,6 +275,7 @@
 
 @font-face {
   font-family: "tiresias_infofontitalic";
+
   font-display: "swap";
 
   src: url("/css-dist/fonts/Tiresias_Infofont_Italic-webfont.eot");
@@ -292,6 +293,7 @@
 
 @font-face {
   font-family: "tiresias_infofontregular";
+
   font-display: "swap";
 
   src: url("/css-dist/fonts/Tiresias_Infofont-webfont.eot");
@@ -321,14 +323,6 @@ img {
 }
 
 /* Web Fonts */
-
-. h1,
-. h2,
-. h3,
-. h4,
-. h5 {
-  font-family: tiresias_infofontregular;
-}
 
 .wrap {
   display: flex;
@@ -763,10 +757,6 @@ a[href].tag:visited {
     margin-right: 1rem;
     position: relative
   }
-}
-
-.benchnine {
-  font-family: tiresias_infofontregular, system-ui, sans-serif
 }
 
 /* Big primary button */
