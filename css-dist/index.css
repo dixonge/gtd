@@ -274,19 +274,6 @@
 }
 
 @font-face {
-  font-family: "BenchNine";
-
-  src: url("/css-dist/fonts/BenchNine-Bold-subset.woff2") format("woff2"),
-    url("/css-dist/fonts/BenchNine-Bold-subset.zopfli.woff") format("woff");
-
-  font-weight: 700;
-
-  font-display: swap;
-
-  unicode-range: U+20-7E, U+2014, U+2019;
-}
-
-@font-face {
   font-family: "tiresias_infofontitalic";
 
   src: url("/css-dist/fonts/Tiresias_Infofont_Italic-webfont.eot");
@@ -333,11 +320,11 @@ img {
 
 /* Web Fonts */
 
-.benchnine h1,
-.benchnine h2,
-.benchnine h3,
-.benchnine h4,
-.benchnine h5 {
+. h1,
+. h2,
+. h3,
+. h4,
+. h5 {
   font-family: tiresias_infofontregular;
 }
 
