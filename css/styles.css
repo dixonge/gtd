@@ -3,12 +3,7 @@
 
 @font-face {
   font-family: "tiresias_infofontitalic";
-  src: url("/css-dist/fonts/Tiresias_Infofont_Italic-webfont.eot");
-  src: url("/css-dist/fonts/Tiresias_Infofont_Italic-webfont.eot?#iefix") format("embedded-opentype"),
-    url("/css-dist/fonts/Tiresias_Infofont_Italic-webfont.woff2") format("woff2"),
-    url("/css-dist/fonts/Tiresias_Infofont_Italic-webfont.woff") format("woff"),
-    url("/css-dist/fonts/Tiresias_Infofont_Italic-webfont.ttf") format("truetype"),
-    url("/css-dist/fonts/Tiresias_Infofont_Italic-webfont.svg#tiresias_infofontitalic") format("svg");
+  src: url("/css-dist/fonts/Tiresias_Infofont_Italic-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -17,15 +12,9 @@
 @font-face {
   font-family: "tiresias_infofontregular";
   font-display: swap;
-  src: url("/css-dist/fonts/Tiresias_Infofont-webfont.eot");
-  src: url("/css-dist/fonts/Tiresias_Infofont-webfont.eot?#iefix") format("embedded-opentype"),
-    url("/css-dist/fonts/Tiresias_Infofont-webfont.woff2") format("woff2"),
-    url("/css-dist/fonts/Tiresias_Infofont-webfont.woff") format("woff"),
-    url("/css-dist/fonts/Tiresias_Infofont-webfont.ttf") format("truetype"),
-    url("/css-dist/fonts/Tiresias_Infofont-webfont.svg#tiresias_infofontregular") format("svg");
+  src: url("/css-dist/fonts/Tiresias_Infofont-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
-
 }
 
 * {
