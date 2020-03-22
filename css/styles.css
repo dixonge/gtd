@@ -1,24 +1,8 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-  font-family: "tiresias_infofontitalic";
-  src: url("/css-dist/fonts/Tiresias_Infofont_Italic-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "tiresias_infofontregular";
-  font-display: swap;
-  src: url("/css-dist/fonts/Tiresias_Infofont-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
-
 * {
-  font-family: tiresias_infofontregular;
+  font-family: Arial;
 }
 
 td {
@@ -45,7 +29,7 @@ img {
 .benchnine h3,
 .benchnine h4,
 .benchnine h5 {
-  font-family: tiresias_infofontregular;
+  font-family: Arial;
 }
 
 .supports-detailssummary details[data-details-oneway]>summary {
@@ -150,7 +134,7 @@ body,
 html {
   padding: 0;
   margin: 0 auto;
-  font-family: sans-serif;
+  font-family: Arial;
   color: var(--black);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -499,7 +483,7 @@ a[href].tag:visited {
 }
 
 .benchnine {
-  font-family: tiresias_infofontregular, system-ui, sans-serif
+  font-family: Arial;
 }
 
 /* Big primary button */
