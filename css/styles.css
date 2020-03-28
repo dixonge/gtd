@@ -432,7 +432,7 @@ a[href].tag:visited {
 
 .elv-toc-list a,
 .elv-toc summary {
-  padding: .15em .25em
+  padding: 0
 }
 
 .elv-toc-list a {
