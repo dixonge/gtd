@@ -381,7 +381,13 @@ a[href].tag:visited {
     margin-right: 25px;
     flex: 0 0 25%
   }
+  .elv-toc-list li {
+    margin: 0;
+    padding: 0
+  }
+  
 }
+
 
 @media (min-width: 64em) {
   .flex-custom {
@@ -440,8 +446,8 @@ a[href].tag:visited {
 }
 
 .elv-toc-list li {
-  margin: 0 0 10px 0;
-  padding: 0
+  margin: 0;
+  padding: 0 0 26px 0
 }
 
 .elv-toc-list>li {
@@ -866,6 +872,7 @@ h2 .numberflag:after {
 
 @media (max-width: 26.8125em) {
 
+  
   /* 429px */
   .list-superfeatured .inlinelist-item>a {
     white-space: nowrap;
