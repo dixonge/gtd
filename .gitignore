@@ -1,9 +1,8 @@
 _site/
 node_modules/
 package-lock.json
-.DS_Store
+**/.DS_Store
 layouts_old/
 css/
-img/.DS_Store
 .env
 .vscode/settings.json
