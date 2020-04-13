@@ -203,6 +203,10 @@ header {
   display: grid;
 }
 
+header h1 {
+  max-width: max-content;
+}
+
 header img {
   float: left;
   max-width: 140px;
