@@ -25,7 +25,7 @@ This is perhaps too large a topic for one blog post. I have just finished readin
 
 8. It is not safe to conclude that CO2 at .0415% of the atmosphere is significant of anything.
 
-9. It is not safe to conclude that CO2's correllation with temperature is consistent historically, or predictive.
+9. It is not safe to conclude that CO2's correlation with temperature is consistent historically, or predictive.
 
 10. It is also not safe to say that any climate model can possibly handle the complexity of forecasting future global temperature averages based on CO2 levels.
 

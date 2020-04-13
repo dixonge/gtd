@@ -11,7 +11,7 @@ eleventyNavigation:
 > you're always a day away...
 (w/ apologies to Annie)
 
-Having been born into a fundamentalist Christian household, I am intimately familiar with the apocalyptic mindset. From the beginning, the end of the world has *always* been nigh. The writers of the so-called 'gospels' put apocalypse in Jesus' mouth frequently. He told his disciples of a time, supposedly before they would die, that the entire temple in Jerusalem would be a pile of rubble. By the time the writer of 'Revelations' was finished, Jesus returns and the entire earth would be destroyed and a 'new heaven and earth' would be created, along with a 1,000 year reign with Jesus as literal king. Afte this, Satan would, for unknown reasons, be released from hell and the final war to end all wars would be fought. After this, actual heaven.
+Having been born into a fundamentalist Christian household, I am intimately familiar with the apocalyptic mindset. From the beginning, the end of the world has *always* been nigh. The writers of the so-called 'gospels' put apocalypse in Jesus' mouth frequently. He told his disciples of a time, supposedly before they would die, that the entire temple in Jerusalem would be a pile of rubble. By the time the writer of 'Revelations' was finished, Jesus returns and the entire earth would be destroyed and a 'new heaven and earth' would be created, along with a 1,000 year reign with Jesus as literal king. After this, Satan would, for unknown reasons, be released from hell and the final war to end all wars would be fought. After this, actual heaven.
 
 Yes, it is completely wacky from the outside, but on the inside it has consumed a lot of Christianity's time ever since. The number of people who decided that, in spite of biblical admonitions to the contrary, *they* had, in fact, determined when Jesus would return to set all of this into motion. Once newspapers came into being, almost any headline could be interpreted as a 'sign' that the prophecies of Revelations had begun to be fulfilled. 
 
@@ -29,7 +29,7 @@ But now we have reached the ultimate apocalypse -- for our sins, the planet itse
 
 Generally speaking, climate change proponents share a belief about the world with environmental apocalyptists: it is fragile! Our man-made chemicals are evil, our very bodies consume more than we can produce, and now even the very act of breathing changes the atmospheric balance in a way that dooms the earth. Our exhalations are pollution.
 
-Skeptics, on the other hand, believe CO2 is an important but miniscule part of our atmosphere, one which enables us to live by giving life to plants. Any greenhouse impact it may have is negligible and mostly offset by other factors in our extremely complex and chaotic climate system.
+Skeptics, on the other hand, believe CO2 is an important but minuscule part of our atmosphere, one which enables us to live by giving life to plants. Any greenhouse impact it may have is negligible and mostly offset by other factors in our extremely complex and chaotic climate system.
 
 Up until recently I took the default conservative position of generally laughing and scoffing at climate change/global warming ideas. Once I shifted my politics to the left I eventually ran across Greg Craven's infamous video series which caused me to change my opinion on climate change. 
 

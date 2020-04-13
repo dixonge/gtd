@@ -53,7 +53,7 @@ For the Firefox (or Chrome) extensions to work you have to set up a client in Wa
 
 Next, download the extension. Most Google searches point to the old one, which links you to the new one, although it goes to the French version.
 
-[English version of the extention download][6].
+[English version of the extension download][6].
 
 Go to the browser extension options and enter the URL for your wallabag installation and click \*Check URL\*. Once that verifies, enter the \*Client ID\*, \*Client secret\*, \*user login\* and \*password\*.
 

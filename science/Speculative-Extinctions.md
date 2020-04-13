@@ -10,7 +10,7 @@ The first seeds of doubt in the 'consensus' view on [climate change](/Temperatur
 
 Research led me to realize that almost all recent articles about mass extinctions were estimates -- estimates! -- based on the (flawed) concept of 'species-area relationship' (SAR) - yet documented habitat loss results in very few extinctions, as species tend to be much more resilient and less dependent on specific habitats than the concept theorizes. They hunker down or find new habitats.
 
-Additionally, estimates of existing species is *wildly* overcounted. Marine species estimates were roughly halved after removing duplicates from the main database at the World Register of Marine Species (228,000 instead of 418,000). This might also reduce the number of other known species from 1.9 million to 1.5 million.
+Additionally, estimates of existing species is *wildly* over-counted. Marine species estimates were roughly halved after removing duplicates from the main database at the World Register of Marine Species (228,000 instead of 418,000). This might also reduce the number of other known species from 1.9 million to 1.5 million.
 
 [Global Extinction Rates: Why Do Estimates Vary So Wildly?](https://e360.yale.edu/features/global_extinction_rates_why_do_estimates_vary_so_wildly)
 
