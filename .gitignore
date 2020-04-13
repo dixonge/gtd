@@ -6,3 +6,4 @@ layouts_old/
 css/
 img/.DS_Store
 .env
+.vscode/settings.json
