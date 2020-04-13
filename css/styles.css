@@ -190,20 +190,17 @@ main {
   padding: 1rem;
   max-width: 768px;
   width: 90%;
-  text-align: center
 }
 
 header,
 main {
-  margin: 0 auto
+  margin: 0
 }
 
 header {
   border-bottom: 1px dashed var(--navy);
   max-width: 90%;
   display: grid;
-  -webkit-box-pack: center;
-  justify-content: center
 }
 
 header img {
@@ -285,8 +282,6 @@ footer {
   padding: 15px 0;
   max-width: 90%;
   display: grid;
-  -webkit-box-pack: center;
-  justify-content: center
 }
 
 footer img {
@@ -306,7 +301,6 @@ footer div#social {
 
 .postlist-item {
   counter-increment: start-from -1;
-  text-align: center;
   box-shadow: 5px 5px 5px #000;
   margin: 20px 0;
   background-color: var(--white)
@@ -362,14 +356,13 @@ a[href].tag:visited {
 }
 
 .elv-toc details {
-  --details-force-closed: (max-width: 63.9375em);
-  /* 1023px */
-  width: 100%;
+    --details-force-closed: (max-width: 1023px); /* 1023px */
 }
 
 .elv-toc details>summary {
   font-size: 1.375rem;
-  margin-bottom: .5em
+  margin-bottom: .5em;
+  margin-top: 0
 }
 
 @media (min-width:64em) {
@@ -388,18 +381,6 @@ a[href].tag:visited {
   
 }
 
-
-@media (min-width: 64em) {
-  .flex-custom {
-    flex: 0 0 72%;
-    width: 72%;
-  }
-}
-
-.elv-toc details>summary {
-  margin-top: 0
-}
-
 .elv-toc-list {
   display: -webkit-box;
   display: flex;
@@ -413,7 +394,7 @@ a[href].tag:visited {
 }
 
 .elv-toc-list li {
-  font-size: .9375em;
+  font-size: 1em;
   line-height: 1.466666666667;
 }
 
@@ -485,6 +466,16 @@ a[href].tag:visited {
     max-width: 60rem;
     margin-right: 1rem;
     position: relative
+  }
+  .flex-custom {
+    flex: 0 0 72%;
+    width: 72%;
+  }
+  .elv-toc-list {
+    margin: 0 0 1em;
+  }
+  .elv-toc-list li {
+    padding: 0 0 5px 0;
   }
 }
 
