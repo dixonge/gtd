@@ -26,7 +26,7 @@ isDocs: true
 {% endif %}
 
 <div class="h-entry">
-<p><a href="{{ url | url }}" class="text-4xl u-url rainbow-active"><h1 class="p-name">{{ eleventyNavigation.key }}</h1></a></p>
+<p><a href="{{ url | url }}" class="text-4xl u-url rainbow-active"><h2 class="p-name">{{ eleventyNavigation.key }}</h2></a></p>
 <div class="e-content">
     {% if isbn13 %}
       <img alt="{{ eleventyNavigation.key }}" align="left" class="float-left mb-1 mr-1 book-image" src="https://covers.openlibrary.org/b/isbn/{{ isbn13 }}.jpg"></img>
@@ -47,26 +47,3 @@ isDocs: true
 
 </div>
 </div>
-{#
-{% if eleventyNavigation and eleventyNavigation.key %}
-{%- set navKey = eleventyNavigation.parent or eleventyNavigation.key -%}
-<hr>
-<h3>{% if eleventyNavigation.parent %}Other pages in {% endif %}{{ navKey }}:</h3>
-{{ collections.sidebarNav | eleventyNavigation(navKey) | eleventyNavigationToHtml({ activeKey: eleventyNavigation.key, listClass: 'inlinelist inlinelist-no-nest', listItemClass: 'inlinelist-item', activeListItemClass: 'elv-cat-list-active' }) | safe }}
-{% endif %}
-
-<p>
-{% if relatedLinks or (relatedKey and collections[ "related-" + relatedKey ].length) %}
-<hr>
-<h3>Related Docs</h3>
-<ul>
-{% for related in collections[ "related-" + relatedKey ] %}
-	<li><a href="{{ related.url }}">{{ related.data.relatedTitle }}</a></li>
-{%- endfor %}
-{% for url,title in relatedLinks %}
-	<li><a href="{{ url }}">{{ title }}</a></li>
-{% endfor %}
-</ul>
-{% endif %}
-</div>
-#}
