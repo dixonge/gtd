@@ -1,12 +1,4 @@
-<header class="px-4 bg-indigo-200 ">
-      <h1 class="mt-4 text-4xl font-black rainbow-active"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
-      <!--
-      <div id="nav" class="flex">
-      <ul class="float-left list-none p">
-        {%- for nav in collections.nav -%}
-        <li class="inline-flex {% if nav.url == page.url %} font-bold underline{% endif %}"><a href="{{ nav.url | url }}" class="rainbow-active">{{ nav.data.navtitle }}</a></li>
-        {%- endfor -%}
-      </ul>
-      </div>
-      -->
+<header class="block px-4 bg-indigo-200">
+      <img alt="author avatar" class="u-photo" src="/img/avatar-small.png" />
+      <h1 class="float-left mt-4 text-4xl font-black rainbow-active"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
     </header>

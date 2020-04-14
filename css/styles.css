@@ -198,7 +198,6 @@ main {
 }
 
 header {
-  border-bottom: 1px dashed var(--navy);
   max-width: 90%;
   display: grid;
 }
@@ -209,8 +208,9 @@ header h1 {
 
 header img {
   float: left;
-  max-width: 140px;
-  width: 20%
+  max-width: 100px;
+  border-radius: 50%;
+  margin-right: 10px
 }
 
 header:after {
