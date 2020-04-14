@@ -1,28 +1,10 @@
 {
-  "name": "gtd-11ty",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "build:css": "postcss css/styles.css -o css-dist/index.css",
     "build:css-purge": "env NODE_ENV=production postcss css/styles.css -o css-dist/index.css",
     "build": "eleventy",
     "watch": "eleventy --serve --port=8080"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/dixonge/gtd-11ty.git"
-  },
-  "author": {
-    "name": "Glenn Dixon",
-    "email": "donblanco@posteo.net",
-    "url": "https://glenn.thedixons.net/"
-  },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dixonge/gtd-11ty/issues"
-  },
-  "homepage": "https://github.com/dixonge/gtd-11ty#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
     "@11ty/eleventy-navigation": "^0.1.4",
