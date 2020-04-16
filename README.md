@@ -1,4 +1,4 @@
-# Glenn.TheDixons.net
+# Glenn 2.0
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7359ff1d-51d5-43b8-b292-b6768376ef45/deploy-status)](https://app.netlify.com/sites/upbeat-banach-f0a709/deploys)
 
