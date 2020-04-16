@@ -5,7 +5,9 @@
 I used the [Eleventy](https://github.com/11ty/eleventy) static site generator for this site, as well as [TailwindCSS](https://tailwindcss.com). NPM packages include:
 
 [postcss](https://www.npmjs.com/package/postcss)
+
 [postcss-purgecss](https://www.npmjs.com/package/postcss-purgecss)
+
 [cssnano](https://www.npmjs.com/package/cssnano)
 
 * [Get your own Eleventy web site on Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/11ty/eleventy-base-blog)—seriously, just click OK a few times and it’s live—Netlify is amazing.
