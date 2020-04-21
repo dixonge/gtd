@@ -12,7 +12,7 @@ categories:
 tags:
   - posts
 ---
-![](/img/2018/07/goodreads.jpg)
+{% picture "goodreads.jpg", "GoodReads web site logo" %}
 
 Here are the steps I took in order to get all of my GoodReads books/reviews over into my IndieWeb-ified Wordpress:
 

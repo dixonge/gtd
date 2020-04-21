@@ -10,7 +10,7 @@ categories:
 tags:
   - posts
 ---
-![](/img/ug-kkk.jpg)
+{% picture "ug-kkk.jpg", "1960-era protestors protesting mixed-race marriages" %}
 
 The national anthem taught me I lived in the land of the free and the home of the brave. The pledge of allegiance taught me that the flag stood for liberty and justice for all. The declaration of independence taught me that all men are equal, with the right to life, liberty and the pursuit of happiness. The constitution taught me that it was created to establish justice and secure the blessings of liberty. That was the foundation of my education, my history lessons. I grew up white in a southern state, in areas mostly devoid of color, utterly unaware of my white, male privilege. Being somewhat poor, I could only see that there were many who were better off than we were. I was mostly naive and oblivious to the context of my time and place. I believed all the propaganda, because I really was free and 'equal' and enjoyed all the benefits of this.
 

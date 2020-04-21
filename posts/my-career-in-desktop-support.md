@@ -10,7 +10,7 @@ categories:
 tags:
   - posts
 ---
-![](/img/2018/07/officespace.jpg)
+{% picture "officespace.jpg", "Still from the movie Office Space" %}
 
 The benefits of staying off the corporate ladder
 

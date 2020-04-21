@@ -9,7 +9,7 @@ categories:
 tags:
   - posts
 ---
-![](/img/2018/07/indieweb-logo-study-001.png)
+{% picture "indieweb-logo-study-001.png", "indieweb logo" %}
 
 [UPDATE: 2018-07-21 - after having initially given up on IndieWeb implementation, I'm back at it. I'm also moving from Kirby to <del>Grav CMS</del>. WordPress]
 

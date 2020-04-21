@@ -11,7 +11,7 @@ categories:
 tags:
   - posts
 ---
-![](/img/linuxmint.png)
+{% picture "linuxmint.png", "" %}
 
 I know - I shouldn't say silly things like that. But really, I'm getting close to setting a record here.
 

@@ -9,7 +9,7 @@ categories:
 tags:
   - posts
 ---
-![](/img/2018/07/canteven.jpg)
+{% picture "canteven.jpg", "meme image with 1950 style, man raising his hand saying he can't even..." %}
 
 (UPDATE: It's now been a year since I first posted this. Just today I discovered a [year-old blog post][1] which mentioned this one, and an ensuing discussion. Of course I knew nothing of this because - well, I couldn't get webmentions to work! I have moved this blog to a new platform, and they have a webmentions plugin, so I'm going to link to/reply to the post in question and see if maybe, just maybe, this will work now?)
 

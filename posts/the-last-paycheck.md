@@ -10,7 +10,7 @@ categories:
 tags:
   - posts
 ---
-![](/img/2018/07/paycheck.jpg)
+{% picture "paycheck.jpg", "man throwing paper into the air, then picking it up" %}
 
 Many milestones that have come and gone in the last couple of years:
 

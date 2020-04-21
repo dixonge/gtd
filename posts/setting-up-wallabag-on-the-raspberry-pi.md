@@ -11,11 +11,11 @@ categories:
 tags:
   - posts
 ---
-![](/img/2018/07/wallabag-logo.jpg)
+{% picture "wallabag-logo.jpg", "Wallabag Logo" %}
 
 In my recent flurry of [indieweb-style activity][1] I decided to go cold turkey with my dependency on certain major service silos. In addition to the general motivation to dump the monolithic, monopolistic mega-corp silos, there was a more practical motivation. Before our big move back to Mexico we are upgrading the laptops. Three years old and upgraded to Windows 10 had me a bit nervous. Also, spinning hard drives. So [our new laptops][2] are straight-from-China cheap with eMMC drives of only 64gb.
 
-![](/img/2018/07/chuwi-768x768.png)
+{% picture "chuwi-768x768.png", "ChuWi laptop" %}
 
 MS Office and even LibreOffice take up a \*lot\* of room. So I cancelled my Office365 subscription (got a full refund, surprisingly) but this had the side effect of reducing my OneDrive space allocation down to about 5GB. In cleaning up the space a bit I managed to accidentally trash the folder which held some of my OneNote folders.
 
@@ -49,7 +49,7 @@ Once you have that working and can log in via the web interface then you need to
 
 For the Firefox (or Chrome) extensions to work you have to set up a client in Wallabag. In the main menu, click on \*API Clients Management\*, click \*Create a New Client\*. Give it a name (this is just for your own internal reference) and click the \*Create a New Client\* button. This will give you the two main pieces of information you will need for the extension.
 
-![](/img/2018/07/wallabag1-768x585.png)
+{% picture "wallabag1-768x585.png", "" %}
 
 Next, download the extension. Most Google searches point to the old one, which links you to the new one, although it goes to the French version.
 
