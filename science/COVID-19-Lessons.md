@@ -4,7 +4,7 @@ eleventyNavigation:
   parent: Losing My Faith In Science
   order: 11
 ---
-{% picture "coronavirus.jpg", "Photo of Coronavirus by Fusion Medical Animation on Unsplash" }
+{% picture "coronavirus.jpg", "Photo of Coronavirus by Fusion Medical Animation on Unsplash" %}
 
 We've been subject to many claimed threats to human existence. Fun fact: none of them, to date, have proven true. The apocalypse is always close at hand, but never arrives.
 
