@@ -2,7 +2,7 @@
 eleventyNavigation:
   key: COVID-19 Lessons
   parent: Losing My Faith In Science
-  order: 10
+  order: 11
 ---
 {% picture "coronavirus.jpg", "Photo of Coronavirus by Fusion Medical Animation on Unsplash" }
 
