@@ -1,8 +1,8 @@
 ---
 eleventyNavigation:
-  key: Coral Reefs
+  key: COVID-19 Lessons
   parent: Losing My Faith In Science
-  order: 4
+  order: 10
 ---
 {% picture "coronavirus.jpg", "Photo of Coronavirus by Fusion Medical Animation on Unsplash" }
 
