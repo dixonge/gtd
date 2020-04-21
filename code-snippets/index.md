@@ -4,6 +4,8 @@ eleventyNavigation:
 author: Glenn Dixon
 layout: layouts/home.njk
 ---
+All of these and more are now available on my [Gist](https://gist.github.com/dixonge) page at GitHub. **This** page here on Glenn 2.0 is now archived.
+
 Accessible from anywhere, public (because, why not?), easy to copy/reuse. Perfect.
 
 #### Download articles from even paywalled web sites (like Medium or Wired)
