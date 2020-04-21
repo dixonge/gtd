@@ -4,7 +4,7 @@ eleventyNavigation:
   parent: Losing My Faith In Science
   order: 10
 ---
-![](/img/)
+{% picture "grievance.jpg", "Grievance study authors laughing" %}
 
 Beyond replication are issues that go more to the heart of the entire basis of modern science: Peer review and the general state of research funding and the resulting built-in incentives to do whatever it takes to get published. 
 

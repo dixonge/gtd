@@ -4,7 +4,7 @@ eleventyNavigation:
   parent: Losing My Faith In Science
   order: 8
 ---
-![](/img/)
+{% picture "apocalypse.jpg", "image of New York's Times Square from Russian artist Vladimir Manyuhin's Life after the Apocalypse" %}
 
 > Apocalypse, Apocalypse,
 > I love ya, Apocalypse,
@@ -35,3 +35,6 @@ Up until recently I took the default conservative position of generally laughing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zORv8wwiadQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+    "in every age everybody knows that up to his own time, progressive improvement has been taking place; nobody seems to reckon on any improvement in the next generation ... On what principle is it that with nothing but improvement behind us, we are to expect nothing but deterioration before us?". - Thomas Macauley, 1830
+
+[Hollywood's Apocalypse Obsession Ignores the Reality of Human Progress](https://capx.co/hollywoods-apocalypse-obsession-ignores-the-reality-of-human-progress/)
