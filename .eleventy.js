@@ -21,6 +21,9 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
+// A responsive image helper using Cloudinary - image transformation
+  eleventyConfig.addShortcode("picture", require("./js/picture.js"));
+
   const filters = require('./_11ty/filters');
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
