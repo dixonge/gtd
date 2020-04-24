@@ -24,6 +24,8 @@ Yet species estimates continue to be speculated at insanely large numbers. ~~100
 
 Then there's the [IUCN](https://iucn.org). They have a problem. On one hand, they are very much beating the drum about how dire the situation is. They want to make sure the enviro-left knows they are on their side, fighting the good fight, trying to save our planet's species from imminent extinction. On the other hand, they are the keepers of the 'official' numbers of extinct species. [877 extinctions since 1500](https://www.iucn.org/news/species/201912/species-recoveries-bring-hope-amidst-biodiversity-crisis-iucn-red-list). That's 1.68 species per year. While any extinction is bad, it's hard to get people worried by touting numbers like "almost two species per year go extinct."  
 
+Further writing on related topic: [Disappearing Birds](disappearing-birds)
+
 The current (2019-2020) bushfires in Australia have produced sensational headlines. The projected animal death toll was 400 million, then half a billion, then 800 million, and finally, predictably, a billion. And then 'many, many billions.' (is *any* estimate too high?) (update: evidently not - now TRILLIONS)
 
 [Australia fires: Up to a TRILLION animals could die in the fires, expert warns](https://www.express.co.uk/news/science/1226034/australia-fires-how-many-animals-have-died-in-australia-australia-koalas-dead)
