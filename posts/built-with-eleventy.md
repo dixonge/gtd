@@ -14,7 +14,7 @@ tags:
   - Netlify
 
 ---
-![](/img/11ty.png)
+{% picture "11ty.png", "" %}
 
 I'll write up the details later, but this site is now being created/parsed/compiled, etc. using [the Eleventy static site generator](https://11ty.dev). I'm still pushing it to GitHub, and Netlify is grabbing it and serving it. That part's the same. Just different under the hood. Also a new design/theme, and redoing IndieWeb.
 

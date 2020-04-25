@@ -4,7 +4,7 @@ eleventyNavigation:
   key: Losing My Faith In Science
   order: 1
 ---
-![](/img/losing-my-faith.png)
+{% picture "losing-my-faith.png", "" %}
 
 Before I lost my faith in science, I lost my faith in the religion of my childhood, fundamentalist christianity.
 

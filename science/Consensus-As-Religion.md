@@ -4,7 +4,7 @@ eleventyNavigation:
   parent: Losing My Faith In Science
   order: 6
 ---
-![](/img/CO2.png)
+{% picture "CO2.png", "" %}
 
 Regardless the accuracy of the often stated '97%' scientific consensus on climate change, I think it is safe to say that most climate scientists believe that anthropogenic CO2 is warming the earth faster than it would otherwise warm. The general public is more divided. A core of conservatives disagree on whether or not the earth is even warming at all, but most skeptics merely disagree on either the anthropogenic cause or the degree of the influence. Most all skeptics disagree on the severity of the future impact and political solutions.
 

@@ -4,7 +4,7 @@ eleventyNavigation:
   parent: Losing My Faith In Science
   order: 1
 ---
-![](/img/speculative-extinction.jpg)
+{% picture "speculative-extinction.jpg", "" %}
 
 The first seeds of doubt in the 'consensus' view on [climate change](/Temperatures) came about in a rather roundabout way. First, I was reading about yet another dire astronomical number of extinctions that were already under way both now and in the near future (caused, at least in part, by climate change). But this time something snapped and I just couldn't believe the numbers. So many numbers were being thrown out on a regular basis, and yet no actual newly-extinct species were being named. I dug in.
 

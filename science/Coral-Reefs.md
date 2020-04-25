@@ -4,7 +4,7 @@ eleventyNavigation:
   parent: Losing My Faith In Science
   order: 4
 ---
-![](/img/reef.jpg)
+{% picture "reef.jpg", "" %}
 
 Coral reefs regularly go through bleaching episodes, generally tied to ENSO events. For years each one of these bleaching events have been tied to climate change. The reefs have been predicted to die off permanently for decades now:
 

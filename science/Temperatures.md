@@ -5,7 +5,7 @@ eleventyNavigation:
   parent: Losing My Faith In Science
   order: 5
 ---
-![](/img/temperature-hubris.gif)
+{% picture "temperature-hubris.gif", "" %}
 
 This is perhaps too large a topic for one blog post. I have just finished reading *dozens* of articles on this topic. Even after correcting for possible motive/bias issues, and after weeding out ad hominems, I am left with the following conclusions:
 
