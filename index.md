@@ -2,7 +2,7 @@
 eleventyNavigation:
   key: HOME
 author: Glenn Dixon
-layout: layouts/home.njk
+layout: layouts/home-page.njk
 ---
 I have been many things. I am now many _different_ things.
 

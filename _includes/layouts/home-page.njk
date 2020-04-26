@@ -1,0 +1,35 @@
+---
+layout: layouts/base.njk
+isDocs: true
+---
+<div id="TOC" class="elv-toc">
+
+<details open="open">
+	<summary id="nav1" class="btn-primary rainbow-active rainbow-active-noanim">Menu</summary>
+	{%- if eleventyNavigation -%}
+		{%- set navKey = eleventyNavigation.key -%}
+	{%- endif -%}
+	{{ collections.all | eleventyNavigation | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }} 
+{#	{{ collections.all | eleventyNavigation(navKey) | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }} #}
+</details>
+
+</div>
+
+<div id="CONTENTS" class="flex-custom">
+{% if eleventyNavigation and eleventyNavigation.key and eleventyNavigation.parent %}
+<nav class="mb-4 breadcrumb" aria-labelledby="breadcrumb">
+  <h2 class="absolute w-px h-px overflow-hidden" id="breadcrumb">Breadcrumbs: </h2>
+  {{ collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) | eleventyNavigationToHtml({ listClass: 'lo lo-inline', listItemClass: 'lo-c', activeListItemClass: 'breadcrumb-active' }) | safe }}
+</nav>
+{% endif %}
+<h1>{{ eleventyNavigation.key }}</h1>
+{{ content | safe }}
+
+{% if eleventyNavigation and eleventyNavigation.key %}
+{%- set navKey = eleventyNavigation.parent or eleventyNavigation.key -%}
+
+<hr>
+<h2>Other pages in this section:</h2>
+{{ collections.sidebarNav | eleventyNavigation(navKey) | eleventyNavigationToHtml({ activeKey: eleventyNavigation.key, listClass: 'inlinelist inlinelist-no-nest', listItemClass: 'inlinelist-item', activeListItemClass: 'elv-cat-list-active' }) | safe }}
+{% endif %}
+</div>
