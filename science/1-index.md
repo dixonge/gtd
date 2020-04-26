@@ -13,4 +13,3 @@ Fundamentalists, in my case the Southern Baptist variety, were generally anti-in
 Geology and math helped, and part of my recovery involved lots of helpful science books by authors like Carl Sagan. Along the way I gained a great appreciation for the scientific process and science in general. I was able to finally understand evolution and the age of the universe and many other things.
 
 More recently science has been running into problems. Some is political, some comes from the Journal system of 'publish or die' and the flawed peer review process, plus [the replication crisis](/The-Replication-Crisis). In this series I want to document my discovery of these issues and how they have affected my trust in science.
-
