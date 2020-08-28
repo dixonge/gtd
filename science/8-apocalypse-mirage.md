@@ -11,9 +11,11 @@ eleventyNavigation:
 > you're always a day away...
 (w/ apologies to Annie)
 
+[UPDATED 08/28/2020]
+
 Having been born into a fundamentalist Christian household, I am intimately familiar with the apocalyptic mindset. From the beginning, the end of the world has *always* been nigh. The writers of the so-called 'gospels' put apocalypse in Jesus' mouth frequently. He told his disciples of a time, supposedly before they would die, that the entire temple in Jerusalem would be a pile of rubble. By the time the writer of 'Revelations' was finished, Jesus returns and the entire earth would be destroyed and a 'new heaven and earth' would be created, along with a 1,000 year reign with Jesus as literal king. After this, Satan would, for unknown reasons, be released from hell and the final war to end all wars would be fought. After this, actual heaven.
 
-Yes, it is completely wacky from the outside, but on the inside it has consumed a lot of Christianity's time ever since. The number of people who decided that, in spite of biblical admonitions to the contrary, *they* had, in fact, determined when Jesus would return to set all of this into motion. Once newspapers came into being, almost any headline could be interpreted as a 'sign' that the prophecies of Revelations had begun to be fulfilled. 
+Yes, it is completely wacky from the outside, but on the inside it has consumed a lot of Christianity's time ever since. The number of people who decided that, in spite of biblical admonitions to the contrary, *they* had, in fact, determined when Jesus would return to set all of this into motion, is surprisingly large. Once newspapers came into being, almost any headline could be interpreted as a 'sign' that the prophecies of Revelations had begun to be fulfilled. 
 
 The most famous recent example of this was Hal Lindsey's book 'Late, Great Planet Earth.' Around the same time, similar books were published in the secular press, such as "Silent Spring" and "The Population Bomb." All predicted apocalypse, just for different reasons. But they had one common theme -- the culprit to blame for the end of the world was humanity.
 
@@ -21,7 +23,7 @@ In the Bible man was implicated from the start. Or, more accurately, 'that woman
 
 Here there is a bit of a disconnect. From a Christian viewpoint, ecology is a bit of a waste of time. If God will destroy and remake the world, why bother saving trees? Better to focus on our immortal, eternal souls. But for the Environmental movement, the earth is everything, and these two books helped launch a movement.
 
-Carlson's efforts may or may not have actually saved any birds, but it most definitely cost millions of lives from malaria, especially in more poor countries. Ehrlich's book(s) have proven ridiculously incorrect, thanks in large part to the 'green revolution,' but that hasn't stopped him from continuing to parrot his original thesis of an eventual tipping point where famine and the resulting chaos will kill much of humanity. Even though the world population has grown *massively* since Ehrlich's first book, we continue to think of the earth as *over*-populated.
+Carlson's efforts may or may not have actually saved any birds, but it most definitely cost millions of lives from malaria, especially in more poor countries. Ehrlich's book(s) have proven ridiculously incorrect, thanks in large part to [the 'green revolution,'](https://en.wikipedia.org/wiki/Green_Revolution) but that hasn't stopped him from continuing to parrot his original thesis of an eventual tipping point where famine and the resulting chaos will kill much of humanity. Even though the world population has grown *massively* since Ehrlich's first book, we continue to think of the earth as *over*-populated.
 
 But now we have reached the ultimate apocalypse -- for our sins, the planet itself will kill us all.
 
@@ -34,6 +36,16 @@ Skeptics, on the other hand, believe CO2 is an important but minuscule part of o
 Up until recently I took the default conservative position of generally laughing and scoffing at climate change/global warming ideas. Once I shifted my politics to the left I eventually ran across Greg Craven's infamous video series which caused me to change my opinion on climate change. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zORv8wwiadQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I settled into this mindset for many years, but balanced by hope that we would turn the ship around and reduce emissions just in time to save us from the worst case scenario. Then I read a couple of books and basically lost all hope and sunk into despondency. I had a full-on existential crisis!
+
+One book was [The Uninhabitable Earth by David Wallace Wells](https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth). Unfortunately Wells chose to try and provide a little hope in the form of geoengineering, which didn't sit well with the Doomers who [criticized him for wearing rose-colored glasses in this open letter to Wells, published in The Ecologist](https://theecologist.org/2019/apr/04/open-letter-david-wallace-wells). The emphasis in the book was on how bad unlivable the world will be if emissions aren't reduced.
+
+The other book was [The End of Ice by Dahr Jamail](https://www.goodreads.com/book/show/40026731-the-end-of-ice). Jamail basically has zero hope left, and presents none in his book. Basically he talks about living out the rest of his life as a form of wake, bearing witness to the end. He is, evidently, still living on acreage on the Olympic Peninsula of Washington state with a community of friends.
+
+Even though there was still a part of my brain to which this apocalyptic worldview appealed, my thinking had shifted enough that I was able to pull up before it was too late for me. This came as a result of a lot of reading, much of it on the internet, but one book really helped: [The End of Doom by Ronald Bailey](https://www.goodreads.com/book/show/23014684-the-end-of-doom). 
+
+A final quote and link:
 
     "in every age everybody knows that up to his own time, progressive improvement has been taking place; nobody seems to reckon on any improvement in the next generation ... On what principle is it that with nothing but improvement behind us, we are to expect nothing but deterioration before us?". - Thomas Macauley, 1830
 
