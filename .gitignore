@@ -7,3 +7,4 @@ css/
 .env
 .vscode/settings.json
 cloudinary/
+img/.DS_Store
